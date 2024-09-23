@@ -1,0 +1,33 @@
+Sl.No,Issue ID,Priority,Subject,Status
+1,13402,P1,P1/ San Mateo JPA/ VSP Dep Tracking/ Due Date 9/25,Closed
+2,13631,P1,P1 / Pasadena CC / Can't set Employer Contributions at FI Band Level / 09.28.15,Closed
+3,13633,P1,P1 / Beaumont - VTL Age Reduction Schedule change / 10/1/15,Closed
+4,13638,P1,P1/Palm Springs USD/Beth Drohan/Error Message Due: 9-25-15,Closed
+5,13640,P1,P1/City of Upland/Error Message Due: 9-28-15,Closed
+6,13643,P1,P1/County of Sacramento/Retro Enroll in FMLA Benefits Due: 9-28-15,Closed
+7,13651,P1,P1/County of Sacramento/Correct Bundled Vision Effective Date Due: 9-30-15,Closed
+8,13661,P1,P1/Xmtl: REEP Anthem ESI Split - Add New Groups,Closed
+9,13539,P2,P2/San Mateo JPA August Scheduled CBRs Not Sent,Closed
+10,13632,P2,"P2 - SAN BRUNO PARK - MANDUJANO, CONSUELO - CORRECT TERMINATION DATE - DENTAL",Closed
+11,13647,P2,"P2 - Peralta Community College District - CAVE, JAMES - Correct Vision Termination Date",Closed
+12,13649,P2,P2/Fontana USD/Change Medical/Rx Term Date - Due: 10-1-15,Closed
+13,13648,P1,*P1*/ Marin COE / Vision -0026 /  No rates printed for EE+ Spouse / Due 10/05/15,Dev
+14,13641,P3,Xmtl: MCSIG Batch Updates - Remove old Groups,Dev
+15,13642,P1,P1/County of Sacramento/Commit Button Not Available Due: 9-28-15,Dev-Pending Clarification
+16,8335,P2,KCARES Electronic Clients Incoming File Load - Conejo USD,Hold
+17,8296,P3,KCARES Electronic Clients Incoming File Load - Torrance USD,Hold
+18,8337,P3,KCARES Electronic Clients Incoming File Load - FOOTHILL DE ANZA COLLEGE,Hold
+19,13635,P1,p1/COS/Urgent - Update to HSA plan/9.25.15,New
+20,13507,P1,P1/ Contra Costa JPA/  VSP Dep Tracking/ Effecitve 1/1/16/ Due Date 8.14.15,Prod
+21,13581,P1,P1/Chabot Las Positas/Unable to enroll in cobra vision Due: 9-14-15,Prod
+22,13609,P1,p2/Fontana USD/  VTL age reduction change/9.18.15,Prod
+23,13619,P1,p1/Oceanside / FSA terms- OE commit/asap,Prod
+24,13636,P1,P1/Nuview - VTL Age Reduction Schedule Change / 9/30/15,Prod
+25,13637,P1,P1/Banning - VTL Age Reduction Schedule Change - 9/30/15,Prod
+26,13534,P2,P2 / City of Redondo Beach / Adding Dental & Vision Plans / 08.26.15,Prod
+27,13624,P2,*P2*/ Palm Springs/ Jerrilyn Hardy/ SS#7622/ Change Classification,Prod
+28,13644,P2,P2/Oceanside USD/Reinste Dental Coverage Due: 9-30-15,Prod
+29,13646,P2,P2: REEP - ESI Anthem Split - New Sulphur Springs Groups,Prod
+30,13650,P1,P1/Mt San Jacinto CCD - VTL Age Reduction Change / 9/30/2015,QA-Ready
+31,9744,P2,Monthly Recurring Audit: FI_Band mismatches,QA-Ready
+32,13467,P1,Xmtl:Jurupa USD/Add Vision to MetLife 834 5010 format,QA-Started

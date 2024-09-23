@@ -1,0 +1,36 @@
+Sl. No,Issue ID,Priority,Subject,Status
+1,12469,P1,Handling Closed Status from Prudential (Decision File),Closed
+2,13047,P1,P1/Fountain Valley/Re-Generate CBR for VSP Vision & Delta Care Due: 3-17-15,Closed
+3,13495,P1,P1/ Saugus USD/ Contact Info Not Saving,Closed
+4,13570,P1,"*P1*/Brea Olinda / Maestrejuan, Noelle / 5167 / Incorrect rate on eligibility list & CBRClient: Bre",Closed
+5,13585,P1,P1 / Riverside CCD / Missing Enrollments / 9.14.15,Closed
+6,13594,P1,*P1*/ Palm Springs USD/ Jerrilyn Hardy/ SS#7622/Portal Issue - Error Caught in Page,Closed
+7,13590,P2,P2/Palm Springs USD/Error Message on Group Term Life Due: 9-14-15,Closed
+8,13581,P1,P1/Chabot Las Positas/Unable to enroll in cobra vision Due: 9-14-15,Dev
+9,13595,P1,p1/Oceanside/duplicate records,Dev
+10,13534,P2,P2 / City of Redondo Beach / Adding Dental & Vision Plans / 08.26.15,Dev
+11,13539,P2,P2/San Mateo JPA August Scheduled CBRs Not Sent,Dev
+12,13591,P2,p2/ 5050-Portola Valley/  KCares to BB move/9.18.15,Dev
+13,13355,P1,All Clients / After Commit Tasks - OE 7/1/2015,Dev-Pending Clarification
+14,13589,P2,P2/Milpitas/Display of #'s in Division tab/ 9/15/15,Dev-Pending Clarification
+15,8335,P2,KCARES Electronic Clients Incoming File Load - Conejo USD,Hold
+16,8296,P3,KCARES Electronic Clients Incoming File Load - Torrance USD,Hold
+17,8337,P3,KCARES Electronic Clients Incoming File Load - FOOTHILL DE ANZA COLLEGE,Hold
+18,13528,P1,*P1*/ Palm Springs USD/ Carmen Vargas/ SS#1973/ Error Message in Benefit Bridge/ Due 8.18.15,Prod
+19,13583,P1,P1 / Riverside CCD / Employee does not have Enrollment / 9.11.2015,Prod
+20,13587,P1,P1/County of Sacramento-Retiree/Remove Dup. Record Due: 9-14-15,Prod
+21,13593,P1,P1 / San Jacinto USD / Employee Not Enrolled in MHN / 09.16.15,Prod
+22,13597,P1,"P1/Murrieta Valley/Add Line of Credit on Medical, Dental, Vision Due: 9-16-15",Prod
+23,13600,P1,p1/COS- Active/ VSP - rate error message/asap,Prod
+24,13602,P1,P1/County of Sacramento/Change Vision Effective Date Due: 9-15-15,Prod
+25,13604,P1,P1/County of Sacramento/Enroll in Self Pay Vision Due: 9-15-15,Prod
+26,13612,P1,P1/ Gateway Com. Charters/ Tier Set Up/ Due Date 9/18,Prod
+27,13578,P2,p2/MCSIG Clients/remove terminated plans/9.17.15,Prod
+28,13586,P2,P2/Ventura CCD/Cancel Dep. Vision Coverage Due: 9-15-15,Prod
+29,13596,P2,P2/Ventura CCD/Bundled Vision Term Date Correction Due: 9-15-15,Prod
+30,13601,P2,P2/Snowline USD/Correct EOI Report Email Address Due: 9-17-15,Prod
+31,13605,P2,"SAN BRUNO PARK S.D. - AGUILAR-GOMEZ, FERNANDO - CORRECT DEPENDENT DATE OF BIRTH",Prod
+32,13606,P2,"P2 / Antelope Valley Schools Trans Agency - Trevino, Tina - Remove Duplicate Dependent",Prod
+33,13467,P1,Xmtl:Jurupa USD/Add Vision to MetLife 834 5010 format,Prod-Ready
+34,12846,P2,P2/ Foothill DeAnza/ VSP Test File with Addresses Merged,QA-Pending Clarification
+35,13607,P1,P1/Palm Springs/Remove Dup Rule/9/16/15,QA-Ready

@@ -1,0 +1,23 @@
+,Issue ID,Priority,Subject,Status
+1,12469,P1,Handling Closed Status from Prudential (Decision File),Closed
+2,13546,P1,"P1- Alum Rock, EE - Sungail, Jaki - Unable to update Vision",Closed
+3,13559,P1,P1 / SCUSD Edit Rule 16181 / 8/31/15,Closed
+4,13561,P1,*P1* /Val Verde USD /Ana Arreola /SS#2864 /Portal Error Issue,Closed
+5,13567,P1,P1/Fontana USD - MES and Metlife Transmittal Gender Correction,Closed
+6,13355,P1,All Clients / After Commit Tasks - OE 7/1/2015,Dev
+7,13534,P3,P3 / City of Redondo Beach / Adding Dental & Vision Plans / 08.26.15,Dev
+8,13387,P1,Xmtl: City of Livingston/Anthem Blue Cross replacing UHC eff 7.1.2015,Dev-Pending Clarification
+9,13562,P1,P1/County of Sacramento/Active/Restore Vision Due: 8-31-15,Dev-Pending Clarification
+10,8296,P3,KCARES Electronic Clients Incoming File Load - Torrance USD,Hold
+11,8337,P3,KCARES Electronic Clients Incoming File Load - FOOTHILL DE ANZA COLLEGE,Hold
+12,13570,P1,"*P1*/Brea Olinda / Maestrejuan, Noelle / 5167 / Incorrect rate on eligibility list & CBRClient: Bre",New
+13,13558,P1,P1/Murrieta Valley USD/Restore Batch #134086 Due: 8-28-15,Prod
+14,13568,P1,P1/REEP - MHN Split Transmittal Needed,Prod
+15,13560,P2,P2/MCSIG-5200 Salinas City ESD/Correct EAP Term Date Due: 8-31-15,Prod
+16,12681,P2,P2/ San Mateo CCD/ KCARES to Electronic COA Client/ Eff 1/1/15,QA-Passed
+17,10337,P3,Monthly Recurring Audit: Orphaned Dependent Enrollments,QA-Pending Clarification
+18,13563,P1,P1 / Castro Valley USD - Dental Plan Group Move / 9/3/15,QA-Ready
+19,12846,P2,P2/ Foothill DeAnza/ VSP Test File with Addresses Merged,QA-Ready
+20,13382,P2,p2/Palm Springs USD/ kaiser and MHN enrollments/asap,QA-Ready
+21,13490,P2,p2/Oceanside/remove data in two fields/asap,QA-Ready
+22,13507,P2,P2/ Contra Costa JPA/  VSP Dep Tracking/ Effecitve 1/1/16/ Due Date 8.14.15,QA-Ready

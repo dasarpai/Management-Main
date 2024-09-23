@@ -1,0 +1,24 @@
+,Issue ID,Priority,Subject,Status
+1,12469,P1,Handling Closed Status from Prudential (Decision File),Closed
+2,13563,P1,P1 / Castro Valley USD - Dental Plan Group Move / 9/3/15,Closed
+3,13566,P1,P1 / Elk Grove USD - Restore Kaiser subgroups / 9/8/15,Closed
+4,11355,P2,*P2* / Campbell USD / Judith Borlase / 9468 / Correct effective from date/ Due 07/12/13,Closed
+5,11387,P2,"P2- Chino Valley USD - Re-run CBR for July and August - July 25, 2013",Closed
+6,13580,P2,*P2* / Orange USD / Thomas Johnson / 8615 / Change termination date / Due 09/11/15,Closed
+7,13583,P1,P1 / Riverside CCD / Employee does not have Enrollment / 9.11.2015,Dev
+8,9772,P2,Monthly Recurring Audit: Verify Dependent Medical and Dependent Rx Enrollments,Dev
+9,13573,P1,P1 / Perris Union VTL - EOI's to Pru / 9/15/15,Dev complete
+10,13355,P1,All Clients / After Commit Tasks - OE 7/1/2015,Dev-Pending Clarification
+11,13495,P1,P1/ Saugus USD/ Contact Info Not Saving,Dev-Pending Clarification
+12,8335,P2,KCARES Electronic Clients Incoming File Load - Conejo USD,Hold
+13,8296,P3,KCARES Electronic Clients Incoming File Load - Torrance USD,Hold
+14,8337,P3,KCARES Electronic Clients Incoming File Load - FOOTHILL DE ANZA COLLEGE,Hold
+15,13569,P1,P1/Riverside CCD/No Enrollment/Gregory Ferrer/ Due: 9-3-15,Prod
+16,13582,P1,P1/County of Sacramento/Change Dependent Vision Term Date Due: 9-11-15,Prod
+17,13584,P1,P1/County of Sacramento-Active/Remove Dep. from Vision Due: 9-11-15,Prod
+18,13556,P2,P2/Compton CCD/Move Ee's to Correct Enrollment Package/8/31/2015,Prod
+19,12846,P2,P2/ Foothill DeAnza/ VSP Test File with Addresses Merged,QA-Passed
+20,8336,P1,KCARES Electronic Clients Incoming File Load - Clovis USD,QA-Ready
+21,13565,P1,P2/Chino Valley USD - Prudential VTL Report,QA-Ready
+22,13382,P2,p2/Palm Springs USD/ kaiser and MHN enrollments/asap,QA-Ready
+23,13534,P3,P3 / City of Redondo Beach / Adding Dental & Vision Plans / 08.26.15,QA-Ready

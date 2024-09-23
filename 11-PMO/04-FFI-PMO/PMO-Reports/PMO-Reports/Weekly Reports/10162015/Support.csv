@@ -1,0 +1,37 @@
+,Issue ID,Priority,Subject,Status
+1,12469,P1,Handling Closed Status from Prudential (Decision File),Closed
+2,13701,P1,P1/Moraga SD/Restore Anthem Premium Eff Date/10.12.2015,Closed
+3,13703,P1,*P1* / Banning USD /  Cody Oglesby / 3529 /  Bundling inquiry,Closed
+4,13705,P1,*P1* Val Verde USD/Volume Based Billing Report Error/Due 10.13.15,Closed
+5,13714,P1,"P1 / Sac County / Morris, Andrea / 2016 Open Enrollment Interview",Closed
+6,13382,P2,p2/Palm Springs USD/ kaiser and MHN enrollments/asap,Closed
+7,13706,P2,P2 / Saugus Union School District / Incorrect Rates / Dental,Closed
+8,13710,P2,*P2*/Compton Unified SD/Data Entry Error/Karina Aguilar/SS#7849/Due 10/15/15,Closed
+9,13715,P2,"P2 / West Contra Costa USD / Hartzell, Sharon / Retro Terminate Delta Coverage",Closed
+10,13679,P1,p1/ Oceanside/ marie lundquist - medical dropped w/ commit/asap,Dev
+11,13681,P1,P1 / Travis USD / Recalc Medical Employee Costs for Certificated EEs / 10.09.15,Dev
+12,13704,P2,p2/Oceanside/ OE changes report not working right/asap,Dev
+13,13713,P1,p1/ Oceanside/Complete census not running/ASAP,Dev-Pending Clarification
+14,8336,P1,KCARES Electronic Clients Incoming File Load - Clovis USD,Hold
+15,8335,P2,KCARES Electronic Clients Incoming File Load - Conejo USD,Hold
+16,9746,P2,Monthly Recurring Audit: Active coverage without a current rate,Hold
+17,8296,P3,KCARES Electronic Clients Incoming File Load - Torrance USD,Hold
+18,8337,P3,KCARES Electronic Clients Incoming File Load - FOOTHILL DE ANZA COLLEGE,Hold
+19,13690,P1,p1/COS/ CRITICAL - dep dropped when using Flex only button/asap,Prod
+20,13708,P1,P1/County of Sacramento/Error Message Due: 10-13-15,Prod
+21,13709,P1,P1/County of Sacramento/Add Spouse to FMLA Medical Due: 10-14-15,Prod
+22,13717,P1,P1/County of Sacramento/Change Effective Date Due: 10-15-15,Prod
+23,13718,P1,P1/County of Sacramento/Add Child to Benefits Due: 10-15-15,Prod
+24,13490,P2,p2/Oceanside/remove data in two fields/asap,Prod
+25,13697,P2,P2/Motion Picture Television Fund/Update Salary/10/13/15,Prod
+26,13702,P2,P2/Oceanside USD/Correct Medical Effective Date Due: 10-15-15,Prod
+27,13719,P2,P2/Oceanside USD/Add Child to Term Medical Due: 10-19-15,Prod
+28,13677,P1,*P1* / A. Vellanoweth-Palacio /3524 / server error in / portal / EEOEV2 Applicatrion,Prod-Failed
+29,13699,P1,p1/COS active/ Vision bundle not working/asap,QA-Passed
+30,13355,P1,All Clients / After Commit Tasks - OE 7/1/2015,QA-Ready
+31,13656,P1,P1/Murrieta Valley - Closed Pending EOI's Not Being Updated in BB,QA-Ready
+32,13674,P1,P1 / All Clients who have Prudential Voluntary Term LIfe / 10/9/15,QA-Ready
+33,13676,P1,P1 / Beaumont - Rule Bundles Incorrectly applied / 10/9/15,QA-Ready
+34,13598,P2,P2/Perris ESD/Retro Adjust Not on CBR Due: 9-16-15,QA-Ready
+35,13711,P2,P2/San Bernardino CCD/Life Event Enrollment Button Due: 10-16-15,QA-Ready
+36,13629,P2,Xmtl: Big Bear Fire Authority -  Allied Administrator for Delta Dental (New Format),QA-Started

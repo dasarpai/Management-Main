@@ -1,0 +1,29 @@
+Sl.No,Issue ID,Priority,Subject,Status
+1,12469,P1,Handling Closed Status from Prudential (Decision File),Closed
+2,13199,P1,P1 / San Bernardino CCD / VADD for SP not collecting election / 5.1.15,Closed
+3,13505,P1,"*P1*/ Cabrillo USD / Dinucci, Dwayne/9258 /Rate Correction",Closed
+4,13506,P1,P1/Murrieta Valley USD/Include LInes of Credit on Sept. 15 CBR,Closed
+5,13510,P1,P1/Murrieta Valley USD/Include Line of Credit on Sept. CBR Due:8-17-15,Closed
+6,13517,P1,*P1* /  Belmont-Redwood Shores SD / Laura Gosch/ 4172/ Zero Rate showing on VSP CBR / Due 08/14,Closed
+7,13525,P2,P2/ Riverside County Ed Academy/ Loera/Remove Record/Due Date 9/19,Closed
+8,13527,P1,*P1*/ Fontana USD/ Joyce Farmer/ SS# 8151/ Registration Issue/ Due 8.18.15,Closed
+9,13533,P1,P1 / Calexico USD / Complete Census Report Blank / 8.21.15,Closed
+10,9772,P2,Monthly Recurring Audit: Verify Dependent Medical and Dependent Rx Enrollments,Dev
+11,13461,P1,P1/ Saugus USD/ VSP COA Implementation/ Due Date 8.14.15,Dev
+12,13473,P1,FuturisCare Xmtl: Sunnyvale age-in member missing,Dev
+13,13492,P1,p1/ Fontana and all Clients/ Fi band error/ASAP,Dev
+14,13528,P1,*P1*/ Palm Springs USD/ Carmen Vargas/ SS#1973/ Error Message in Benefit Bridge/ Due 8.18.15,Dev
+15,8296,P3,KCARES Electronic Clients Incoming File Load - Torrance USD,Hold
+16,8337,P3,KCARES Electronic Clients Incoming File Load - FOOTHILL DE ANZA COLLEGE,Hold
+17,13536,P2,*P2*/ Morgan Hill USD / Veronica Romero / Reports / Remove Report in back ground,New
+18,13537,P2,p2/Coastline ROP/ regenerate VSP bill for august and September/asap,New
+19,13439,P1,Xmtl: MCSIG/Kaiser 834 5010/ASAP,Prod
+20,13520,P1,P1 / SCUSD - Edit Rule 16181 - add a plan / 8-14-15,Prod
+21,13523,P1,*P1* - Palm Springs USD/ Danielle Jones/ SS# 0707/ Error Message in Benefit Bridge/ Due 8.14.15,Prod
+22,13526,P2,P2/Snowline USD/Change Benefit Effective Date Due: 8-19-15,Prod
+23,13531,P2,P2/Elk Grove USD/Remove Duplicate Dependent Record Due: 8-21-15,Prod
+24,13538,P1,P1/Barstow USD/EOI Report Notification Due: 8-21-15,Prod
+25,12681,P2,P2/ San Mateo CCD/ KCARES to Electronic COA Client/ Eff 1/1/15,QA-Passed
+26,13524,P1,"*P2*/ Sacramento City USD / Lindhl, Ruth / 3685/ Error over lapping Medical plan Due 8/17/2015",QA-Passed
+27,13511,P1,"P1 - OHLONE COMMUNITY COLLEGE DISTRICT - GALLEGOS, WILLIE - OAD AUTOTERMINATE",QA-Ready
+28,13530,P2,p2/Oceanside/ update division/8.27.15,QA-Ready

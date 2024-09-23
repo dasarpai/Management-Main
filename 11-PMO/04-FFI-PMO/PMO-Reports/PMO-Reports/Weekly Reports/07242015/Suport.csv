@@ -1,0 +1,23 @@
+,id,priority,sub,stat
+1,12469,P1,Handling Closed Status from Prudential (Decision File),Closed
+2,13041,P1,*P1* / Millbrae School District / Elmer Pamintuan /9485 /  Vision rate not showing,Closed
+3,13456,P1,P1 / San Jacinto USD / MHN Enrollment Corrections / 7.24.2015,Closed
+4,13457,P1,P1 / San Bernardino CCD / VTL premium not calcing properly / 7.27.15,Closed
+5,13443,P1,P1/VSP 834 5010 Transmittal/Coverage effective date Logic/ASAP,Closed
+6,13401,P2,P2 / Romoland SD / Kaiser & MHN Enrollments / 7.1.2015,Closed
+7,13416,P2,P2 / Nuview USD / REEP Kaiser&MHN Enrollments / 7.1.15,Closed
+8,13410,P1,"P1 / VBB - Detailed vs Summary / July 2, 2015",Dev
+9,13448,P1,"*P1* / Victor Valley UHSD / McNeal , Ngo,/ Enrollment PDF - Not approved, not committed - requires r",Dev
+10,13453,P1,xmtl: Ventura County CCD/DeltaCare PMI 834 5010,Dev
+11,12681,P2,P2/ San Mateo CCD/ KCARES to Electronic COA Client/ Eff 1/1/15,Dev
+12,8335,P2,KCARES Electronic Clients Incoming File Load - Conejo USD,Hold
+13,8296,P3,KCARES Electronic Clients Incoming File Load - Torrance USD,Hold
+14,8337,P3,KCARES Electronic Clients Incoming File Load - FOOTHILL DE ANZA COLLEGE,Hold
+15,13463,P1,P1/County of Sacramento-Retiree/Restore Batch #191772/189064,New
+16,13402,P1,P1/ San Mateo JPA/ VSP Dep Tracking/ Due Date 7/29,Prod
+17,13454,P1,p1/Oak Grove/ Basic Life group move change and rate updater/asap,Prod
+18,13397,P2,P2 / San Jacinto USD / Kaiser & MHN Enrollments / 6.30.2015,Prod
+19,13406,P1,P1 / Mt San Jacinto - Script MHN Enrollments from Kaiser / 7/2/15,QA-Ready
+20,13432,P1,p1/Fontana USD/Recalculate of age reduction for GTL,QA-Ready
+21,13446,P1,P1/VSP Coalition/Migration to VSP 834 5010 transmittal format,QA-Ready
+22,13458,P1,P1 / Peralta CCD - Group Move - Bundled Plan error / 7/25/15,QA-Ready

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="true" key="wrap"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="isRegEx"/>
+		<item value="false" key="wholeword"/>
+		<item value="reduction" key="selection"/>
+		<list key="findhistory">
+			<item value="reduction"/>
+			<item value="life_event_modal"/>
+			<item value="editcoverages_modal"/>
+			<item value="Edit Coverage Amount"/>
+			<item value="your coverage"/>
+			<item value="PCP Se"/>
+			<item value="dsk_plan_tab_content"/>
+			<item value="PCP"/>
+		</list>
+	</section>
+</section>

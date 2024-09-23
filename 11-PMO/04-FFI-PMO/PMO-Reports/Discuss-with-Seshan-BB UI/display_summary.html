@@ -1,0 +1,491 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>BenefitBridge::Summary</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link href="styles/stylesheet.css" type="text/css" rel="stylesheet">
+<link href="styles/main.css" type="text/css" rel="stylesheet" >
+<link href="styles/iCheck.css" type="text/css" rel="stylesheet">
+<link href="styles/tooltipster.css" type="text/css" rel="stylesheet">
+<link href="styles/ion.rangeSlider.skinNice.css" type="text/css" rel="stylesheet">
+<link href="styles/responsive-tabs.css" type="text/css" rel="stylesheet">
+<link href="styles/easydropdown.css" type="text/css" rel="stylesheet" >
+<link href="styles/jquery.akordeon.css" type="text/css" rel="stylesheet" >
+<link href="styles/BeatPicker.css" type="text/css" rel="stylesheet" >
+<link href="styles/custombox.css" type="text/css" rel="stylesheet" >
+<link href="styles/responsive.css" type="text/css" rel="stylesheet" >
+
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700,300' rel='stylesheet' type='text/css'>
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <!--[if gte IE 8]>
+    	<link href="styles/ie8.css" type="text/css" rel="stylesheet" />
+    <![endif]-->
+    <!--[if lt IE 9]>
+   		<link href="styles/ie9.css" type="text/css" rel="stylesheet" />
+	<![endif]-->
+</head>
+
+<body class="">
+<div class="topbar">
+	<div class="container">
+        <ul class="top_navbar">
+             <li><a href="#">(800) 814-1862</a></li>
+             <li>|</li>
+             <li><a href="#">Help</a></li>
+             <li>|</li>
+             <li class="top_nav_search_btn">
+             	<div class="search_input_container">
+                	<input type="text" class="top_search_filed" placeholder="Search"> 
+                    <a href="#" class="top_search_btn"></a>
+                </div>
+             	<a href="#" id="showSearchBox"><img src="images/icons/serach.png"></a>
+            </li>
+        </ul>
+    </div>
+</div>
+<div class="header_bar">
+	<div class="container">
+    	<div class="logo"><a href="main.html"><img src="images/logo.png"></a></div>
+        <div class="menu_container">
+        <div class="primary_nav">
+        		<a href="#" class="mobile_menu">
+                	<span class="bar_icon"></span>
+                    <span class="bar_icon"></span>
+                    <span class="bar_icon"></span>
+                </a>
+                 <ul class="toggle_menu">
+                    <li><a href="listpackage.html">My Benefits</a></li>
+                    <li><a href="all_plans.html">All Plans</a></li>
+                    <li><a href="messagecenter.html">Message Center</a></li>
+                    <li><a href="resourcecenter.html">Resource Center <span class="caret"></span></a>
+                    	<!--<ul class="submenu">
+                        	<i class="submenu_caret"></i>
+                        	<li><a href="#">Sub Menu 1</a></li>
+                            <li><a href="#">Sub Menu 1</a></li>
+                            <li><a href="#">Sub Menu 1</a></li>
+                            <li><a href="#">Sub Menu 1</a></li>
+                        </ul>-->
+                    </li>
+                </ul>
+                
+            </div>
+          <div class="user_account_container">
+            	<a href="index.html" id="logout_fun"><i class="user_icon"></i>John Doe</a>
+            </div>
+           <div class="mobile_user_acct">
+            	<a href="#mobile_menu" class="usermenu_icon"></a>
+                <ul class="user_acc_menu" id="mobile_menu">
+                	<li><a href="#">John Doe</a></li>
+                    <li><a href="index.html">Logout</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="sub_navbar pattern_bg">
+	<div class="container">
+    	<ul>
+        	<li>Employee & Family</li>
+            <li>|</li>
+            <li> <a href="#">Benefit Selection</a></li>
+        </ul>
+    </div>
+</div>
+
+<div class="benefit_selection_section">
+	<div class="container">
+		<div class="row">
+        <div class="col-flg-3 col-md-3">
+        	<div class="help_me_choose_container">
+            	<!--<a href="#" class="btn_utility utility_primary help_me_choose_btn" id="help_me_choose">Help me choose</a>-->
+                <a href="#" class="empty_tool_tip he_me_choose_tip" title=""></a>
+            </div>
+        	<div class="vertical_tabs list_plans_vtabs selected_plan_vtabs">
+                       <ul>
+                            <li class="done"><a href="health.html">HEALTH <i class="active_tab"></i><i class="completed_tab"></i></a></li>
+                            <li class="done"><a href="dental.html">DENTAL <i class="active_tab"></i><i class="completed_tab"></i></a></li>
+                            <li class="done"><a href="vision.html">VISION <i class="active_tab"></i><i class="completed_tab"></i></a></li>
+                            <li class="done"><a href="life.html">LIFE <i class="active_tab"></i><i class="completed_tab"></i></a></li>
+                            <li class=""><a href="disability.html">DISABILITY <i class="active_tab"></i><i class="completed_tab"></i><small class="waived_text">Waived</small></a></li>
+                            <li class="active"><a href="#">SUMMARY <i class="active_tab"></i><i class="completed_tab"></i></a></li>
+                        </ul>
+                    </div>
+                    
+            
+		</div>
+    	<div class="col-flg-9 col-md-9">
+        	<div class="benefit_selected_plans_container">
+            	<div class="benefit_select_tab_container">
+                	<ul class="benefit_select_tab">
+                    	<li>
+                        	Selected Plans <span>(4)</span> 
+                        </li>
+                    </ul>
+                    <div class="benefit_select_tab_body">
+                		<div class="effective_date_plan summary_effective_date_plan">
+                        	<h5>
+                            	Effective date of new plans: <br><small>3/1/2015 </small>
+                            </h5>
+                            <p class="summary_note_txt">All plans will have a pending status until all documents and information have been approved by benefits administrator. </p>
+                        </div>
+                        <div class="benefit_select_graph">
+                        	<img src="images/graph.jpg">
+                            <div class="benefit_select_graph_text">
+                            	<ul class="benefit_select_graph_points">
+                                	<li>
+                                    	<span class="graph_list_icon"></span>
+                                    	<p>Employer pays:</p>
+                                        <h4>$604.50<small>/ pay period</small></h4>
+                                    </li>
+                                    <li class="red">
+                                    	<span class="graph_list_icon"></span>
+                                    	<p>Employer pays:</p>
+                                        <h4>$405. 75<small>/ pay period</small></h4>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        
+                	</div>
+                </div>
+                
+                
+                            
+                
+                <div class="selected_plans_table">
+                            	<div class="selected_plans_table_header">
+                                	<div class="header_selected_plan">Plan</div>
+                                    <div class="header_selected_coverage">Coverage for</div>
+                                    <div class="header_selected_cost">Cost Per Pay Period</div>
+                                </div>
+                                <div class="selected_plans_table_body">
+                                	<div class="selected_plans_table_row">
+                                    	<div class="selected_plans_reponsive_table_header active"><a href="#">Health</a></div>
+                                        <div class="selected_plans_reponsive_table_body in">
+                                            <div class="selected_tb_plan">
+                                            	<div class="selected_plans_reponsive_col_header">Plan</div>
+                                                <h5>Health</h5>
+                                                <img src="images/logos/kaiser.jpg">
+                                                <p>KP CA Bronze 5000/60/Pediatric</p>
+                                                
+                                                    <ul class="plan_detais_link">
+                                                        <li><a href="#">Change</a></li>
+                                                        <li>|</li>
+                                                        <li><a href="#">Details</a></li>
+                                                    </ul>
+                                                
+                                            </div>
+                                            <div class="selected_tb_coverage">
+                                            	<div class="selected_plans_reponsive_col_header">Coverage for</div>
+                                                <p>Sam Smith</p>
+                                                <p>Sally Smith</p>
+                                                <p>Robert Smith</p>
+                                            </div>
+                                            <div class="selected_tb_cost">
+                                            	<div class="selected_plans_reponsive_col_header">Cost Per Pay Period</div>
+                                                <ul class="costperpay">
+                                                    <li>
+                                                        <p>Employer Pays: </p>
+                                                        <h4>$566.00 </h4>
+                                                    </li>
+                                                    <li>
+                                                        <p>You Pay: </p>
+                                                        <h4>$412.50 </h4>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    
+                                    <div class="selected_plans_table_row">
+                                    	<div class="selected_plans_reponsive_table_header"><a href="#">Dental</a></div>
+                                         <div class="selected_plans_reponsive_table_body">
+                                            <div class="selected_tb_plan">
+                                            	<div class="selected_plans_reponsive_col_header">Plan</div>
+                                                <h5>Dental</h5>
+                                                <img src="images/logos/deltadental.png">
+                                                <p>Delta Dental Family Premium</p>
+                                                <ul class="plan_detais_link">
+                                                        <li><a href="#">Change</a></li>
+                                                        <li>|</li>
+                                                        <li><a href="#">Details</a></li>
+                                                    </ul>
+                                            </div>
+                                            <div class="selected_tb_coverage">
+                                            	<div class="selected_plans_reponsive_col_header">Coverage for</div>
+                                                <p>Sam Smith</p>
+                                                <p>Sally Smith</p>
+                                                <p>Robert Smith</p>
+                                            </div>
+                                            <div class="selected_tb_cost">
+                                            	<div class="selected_plans_reponsive_col_header">Cost Per Pay Period</div>
+                                                <ul class="costperpay">
+                                                    <li>
+                                                        <p>Employer Pays: </p>
+                                                        <h4>$566.00 </h4>
+                                                    </li>
+                                                    <li>
+                                                        <p>You Pay: </p>
+                                                        <h4>$412.50 </h4>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    
+                                    <div class="selected_plans_table_row">
+                                    	<div class="selected_plans_reponsive_table_header"><a href="#">Vision</a></div>
+                                         <div class="selected_plans_reponsive_table_body">
+                                    	<div class="selected_tb_plan">
+                                        	<div class="selected_plans_reponsive_col_header">Plan</div>
+                                        	<h5>Vision</h5>
+                                            <img src="images/logos/vsp.png">
+                                            <p>VSP Standard</p>
+                                            <ul class="plan_detais_link">
+                                                	<li><a href="#">Change</a></li>
+                                                    <li>|</li>
+                                                    <li><a href="#">Details</a></li>
+                                                </ul>
+                                        </div>
+                                        <div class="selected_tb_coverage">
+                                        	<div class="selected_plans_reponsive_col_header">Coverage for</div>
+                                        	<p>Sam Smith</p>
+                                            <p>Sally Smith</p>
+                                           
+                                        </div>
+                                        <div class="selected_tb_cost">
+                                        	<div class="selected_plans_reponsive_col_header">Cost Per Pay Period</div>
+                                        	<ul class="costperpay">
+                                            	<li>
+                                                	<p>Employer Pays: </p>
+                                                    <h4>$566.00 </h4>
+                                                </li>
+                                                <li>
+                                                	<p>You Pay: </p>
+                                                    <h4>$412.50 </h4>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        </div>
+                                    </div>
+                                    
+                                    <div class="selected_plans_table_row">
+                                    	<div class="selected_plans_reponsive_table_header"><a href="#">Vision</a></div>
+                                         <div class="selected_plans_reponsive_table_body">
+                                            <div class="selected_tb_plan">
+                                            	<div class="selected_plans_reponsive_col_header">Plan</div>
+                                                <h5>Vision</h5>
+                                                <img src="images/logos/metlife.png">
+                                                <p>Metlife North America ...</p>
+                                                <ul class="plan_detais_link">
+                                                        <li><a href="#">Change</a></li>
+                                                        <li>|</li>
+                                                        <li><a href="#">Details</a></li>
+                                                    </ul>
+                                            </div>
+                                            <div class="selected_tb_coverage">
+                                            	<div class="selected_plans_reponsive_col_header">Coverage for</div>
+                                                <p>Sam Smith<br><small>$SOOK max</small></p>
+                                                <p>Sally Smith<br><small>3X annual salary max</small></p>
+                                               
+                                            </div>
+                                            <div class="selected_tb_cost">
+                                            	<div class="selected_plans_reponsive_col_header">Cost Per Pay Period</div>
+                                                <ul class="costperpay">
+                                                    <li>
+                                                        <p>Employer Pays: </p>
+                                                        <h4>$566.00 </h4>
+                                                    </li>
+                                                    <li>
+                                                        <p>You Pay: </p>
+                                                        <h4>$412.50 </h4>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="selected_plans_table_footer">
+                                	<div class="selected_total_pay_container">
+                                        <h5>Total per pay period -</h5>
+                                        <div class="selected_paln_total_pay">
+                                            <div class="selected_plan_totl_price">
+                                                <span class="price_label">Employer Pays:</span> <span class="price">$687 .00</span>
+                                               
+                                            </div>
+                                             <div class="selected_plan_totl_price">
+                                                <span class="price_label">You Pay: </span> <span class="price red">$505.50 </span>
+                                              </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                
+                
+            </div>
+        </div>
+        
+    </div>
+    </div>
+    <div class="buttons_footer summary_btns_footer" id="footer_position">
+                        <div class="container">
+                            <div class="btns_container">
+                                <a href="javascript:void(0)" class="btn btn_primary  ml20" id="submit_dependent">Enroll</a>
+                            </div>
+                        </div>
+				</div>
+     
+     <div class="container">
+     	<div class="col-flg-9 col-flg-offset-3">
+        	<div class="available_cvgs_decline_container">
+                	<h5>Available coverage you declined</h5>
+                    <table class="available_cvgs_decline_table">
+                    	<tr>
+                        	<th colspan="2">Plan</th>
+                        </tr>
+                        <tr>
+                        	<td>
+                            	<p><strong>Disability</strong> <i>- Get coverage from $10</i> </p>
+                            </td>
+                            <td>
+                            	<a href="#">View available covera~e</a>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+        </div>
+     </div>
+</div>
+
+
+
+
+<div class="footer footer_with_border">
+			<div class="container">
+                <div class="row">
+                    <div class="col-sm-6">
+                        <p class="copy_right">Copyright © 2014 Keenan & Associates • CA Insurance License No. 0451271 </p>
+                        <ul class="bottom_nav">
+                            <li><a href="legalnotice.html">Legal Notices</a></li>  <li>|</li>  <li><a href="privacy.html">Privacy</a></li>  <li>|</li>  <li><a href="#">Sitemap</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-sm-6">
+                        <div class="footer_logo">
+                            <img src="images/benefit_bridge_logo.png" >
+                        </div>
+                    </div>
+                </div>
+    		</div>
+		</div>
+
+<script type="text/javascript" src="jquery/jquery-1.11.2.min.js"></script>
+<script type="text/javascript" src="jquery/icheck.min.js"></script>
+<script type="text/javascript" src="jquery/jquery.tooltipster.min.js"></script>
+<script type="text/javascript" src="jquery/ion.rangeSlider.min.js"></script>
+<script type="text/javascript" src="jquery/jquery.responsiveTabs.min.js"></script>
+<script type="text/javascript" src="jquery/jquery.easydropdown.min.js"></script>
+<script type="text/javascript" src="jquery/jquery.akordeon.js"></script>
+<script type="text/javascript" src="jquery/BeatPicker.min.js"></script>
+<script type="text/javascript" src="jquery/legacy.js"></script>
+<script type="text/javascript" src="jquery/custombox.js"></script>
+<script type="text/javascript" src="jquery/menu.js"></script>
+<script type="text/javascript" src="jquery/tab_content_repace.js"></script>
+<script type="text/javascript" src="jquery/validation.js"></script>
+<!--[if (gte IE 6)&(lte IE 8)]>
+  <script type="text/javascript" src="jquery/selectivizr-min.js"></script>
+  <noscript><link rel="stylesheet" href="[fallback css]" /></noscript>
+<![endif]-->
+<script type="text/javascript" src="jquery/jquery.corner.js"></script>
+<script>
+$(document).ready(function(){
+	
+	//For Responsive table accordian
+	$(window).resize(function(e) {
+		var winwidth = $(window).width();
+            if(winwidth > 767){
+				$('.selected_plans_reponsive_table_body').css('display','block');
+				}
+        });
+	$('.selected_plans_reponsive_table_header a').click(function(e) {
+		var winwidth = $(window).width();
+		if(winwidth <= 767){
+		   var header = $(this).closest('.selected_plans_reponsive_table_header');
+		   var body_p = $(this).closest('.selected_plans_table_row').find('.selected_plans_reponsive_table_body');
+		   e.preventDefault();
+		   //alert(header);
+		   $(body_p).slideToggle(600, function() {
+					if ($(this).is(":visible")) {
+						$(header).addClass('active');            
+					} else {
+						$(header).removeClass('active');                    
+					}        
+				});
+		}
+		
+    });
+	
+	
+  $('input').iCheck({
+		checkboxClass: 'icheckbox_square-blue',
+		radioClass: 'iradio_square-blue'
+	  });
+	$('#buttons').akordeon();
+	 $(function(){
+			var $selects = $('.chosen-select');
+								
+			$selects.easyDropDown({
+				cutOff: 7,
+				wrapperClass: 'cust_dropdown',
+			
+			});
+		});
+	   $('#horizontalTab').responsiveTabs({
+               
+            });
+	  $('.tooltip').tooltipster({
+		  maxWidth:300,
+		  });
+	
+	$("#range_37").ionRangeSlider({
+		type: "double",
+		min: 0,
+		max: 100,
+		from: 30,
+		to: 70,
+		from_fixed: true
+	});
+	 $('.he_me_choose_tip').tooltipster({
+		  maxWidth:300,
+		  trigger:'click',
+		  autoClose:false,
+		  content:$('<a href="#" class="tooltip_close" onclick="closeTooltip()"></a><span>Welcome - you are now in your Life Event. The benefit enrollments or changes you make within this enrollment will be effective 2/1/2015</span>'),
+		  position:'bottom',
+		  interactive:true
+		  });
+	$('.show-picker').click(function(e){
+			e.stopPropagation();
+			datepicker1.show();
+		});
+	$('.open_modal').on('click', function ( e ) {
+            Custombox.open({
+                target: '#modal',
+                effect: 'fadein'
+            });
+            e.preventDefault();
+        });
+	
+	});
+	function closeTooltip(){
+		$('.he_me_choose_tip').tooltipster('hide');
+		}
+</script>
+</body>
+</html>

@@ -1,0 +1,1458 @@
+@charset "utf-8";
+/* CSS Document */
+
+@media (max-width: 979px) {
+  .user_account_container{
+	  width:120px;
+	  }
+   .user_account_container a {
+    font-size: 14px;
+    padding-left: 24px;
+	}
+	.user_account_container1{
+	  width:120px;
+	  }
+   .user_account_container1 a {
+    font-size: 14px;
+    padding-left: 24px;
+	}
+.primary_nav ul li{
+	margin:0 6px;
+	}
+.logo{
+	width:120px;
+	}
+.logo img{
+	width:100%;
+	}
+.hero_header_container .hero_header_title{
+	font-size:38px;
+	}
+.benefit_options_container{
+	height:auto;
+	padding:10px 0;
+	}
+.benefit_option{
+	margin:10px 0;
+	}
+.category_list li{
+	width:33.33%;
+	margin-bottom:10px;
+	}
+.my_benefits_container{
+	height:auto;
+	padding:20px;
+	}
+.my_benefits_container h1{
+	margin:0 0 20px 0;
+	}
+.category_list li.no_border{
+	border:none;
+	}
+.copy_right{
+	line-height:20px;
+	margin-top:20px;
+	}
+.bottom_nav li a{
+	font-size:12px;
+	}
+.vertical_tabs{
+	width:157px;
+	}
+.large_field_container{
+	width:100%;
+	}
+.medium_field_container{
+	width:50%;
+	}
+.small_field_container{
+	width:33.33%;
+	}
+.select_package{
+	width:50%;
+	margin-bottom:20px;
+	border-left:1px solid #d8d8d8;
+	margin-left:-1px;
+	}
+.buttons_footer{
+	margin-top:0;
+	}
+.message_box_body .msg_from, .message_box_header .msg_from{
+	width:180px;
+	}
+.message_box_body .msg_subject, .message_box_header .msg_subject{
+	width:250px;
+	}
+.message_box_body .msg_type, .message_box_body .msg_date, .message_box_header .msg_type, .message_box_header .msg_date{
+	width:150px;
+}
+.message_container{
+	background:#fff;
+	}
+.plans_price_change_header h4{
+	font-size:22px;
+	}
+.plans_price_change_header p{
+	line-height:18px;
+	}
+.plans_change_header{
+	padding-right:10px;
+	}
+.plans_price_change_table tr th{
+	 width:170px;
+	}
+.open_enrollment_btns_container .btn_wrapper a{
+	font-size:16px;
+	}
+.reg_text{
+	line-height:18px;
+	}
+.life_event_modal_wrapper{
+	padding:50px 20px;
+	width:100%;
+	}
+.life_event_situation_tooltip_wrapper{
+	width:100%;
+	}
+.tooltipster_arrow_adjust{
+	margin:0 7%;
+	}
+.tooltipster_arrow_adjust .tooltipster-arrow{
+	 left:auto;
+	}
+.life_event_modal_section h5 span.tooltip_help{
+	float:right;
+	}
+.vertical_nav{
+	width:150px;
+	}
+.all_plans_list li a{
+	width:180px;
+	padding:10px 15px;
+	}
+.all_plans_list li a img{
+	width:100%;
+}
+.selected_plans_container{
+	width:157px;
+	}
+.selected_plans_container h4 span.selected_text{
+	font-size:18px;
+	}
+.selected_plans_container .sub_total_amount{
+	font-size:16px;
+	}
+.selected_plans_container .sub_total_amount span{
+	font-size:8px;
+	}
+.list_plans_gray_table_header .header_plan, .list_plans_gray_table_header .header_office_visit, .list_plans_gray_table_header .header_deductible, .list_plans_gray_table_header .header_cost{
+	width:200px;
+	}
+.list_plans_gray_table_header .header_office_visit, .list_plans_gray_table_header .header_deductible, .list_plans_gray_table_header .header_cost{
+	width:114px;
+	line-height:16px;
+	font-size:13px;
+}
+.tb_body_plan, .tb_body_office_visit, .tb_body_deductible, .tb_body_cost{
+	width:200px;
+	}
+.tb_body_office_visit, .tb_body_deductible, .tb_body_cost{
+	width:114px;
+	}
+.cost_per_period{
+	font-size:25px;
+	}
+.current_plans_header .header_plan{
+	width:200px;
+	}
+.current_plans_header .header_office_visit, .current_plans_header .header_deductible, .current_plans_header .header_cost{
+	width:114px;
+	line-height:16px;
+	font-size:13px;
+	}
+.cur_tb_body_plan{
+	width:200px;
+	}
+.cur_tb_body_office_visit, .cur_tb_body_deductible, .cur_tb_body_cost{
+	width:114px;
+	}
+.select_plan_btn_container .btn{
+	margin-left:10px;
+	width:100px;
+	}
+.gray_table tr td, .gray_table tr th{
+	line-height:20px;
+	}
+.chosen-container .chosen-drop{
+	padding-right:10px;
+	}
+.supplement_container{
+	width:100%;
+	float:left;
+	padding-left:15px;
+	}
+.supplement{
+	width:100%;
+	}
+.selected_tb_plan{
+	width:200px;
+	}
+.selected_plans_table_header .header_selected_plan{
+	width:200px;
+	}
+.selected_plans_table_header .header_selected_coverage, .selected_tb_coverage{
+	width:143px;
+	}
+.header_selected_cost, .selected_tb_cost{
+	width:200px;
+	}
+.costperpay li:last-child, .costperpay li:first-child{
+	width:50%;
+	}
+.selected_paln_total_pay{
+	width:215px;
+	}
+.benefit_selected_plans_container .buttons_footer::after{
+	right:-22px;
+	}
+.costperpay li h4{
+	font-size:18px;
+	}
+.benefit_select_graph{
+	border:none;
+	width:100%;
+	}
+.benefit_select_graph_text{
+	float:left;
+	}
+.effective_date_plan{
+	width:100%;
+	float:left;
+	}
+.effective_date_plan h5{
+	margin-top:0;
+	}
+.primary{
+	font-size:12px;
+	}
+.name{
+	width:150px;
+	}
+.relationship{
+	width:110px;
+	}
+.benefit_distribution{
+	width:155px;
+	}
+.max_benefit_ammount{
+	width:120px;
+	line-height:18px;
+	padding:7px 10px;
+	}
+.edit_coverage_ammount{
+	margin:20px 0;
+	}
+.compare_plan_selection_header{
+	width:200px;
+	}
+.compare_plan_selection_col{
+	width:127px;
+	}
+.alert{
+	height:auto;
+	line-height:22px;
+	padding:5px 0px;
+	}
+.alert a.close{
+	position:absolute;
+	}
+.alert_msg_content{
+	width:100%;
+	padding-right:33px;
+	}
+.alert .container{
+	position:relative;
+	}
+.hero_header_containerv2{
+	width:100%;
+	float:left;
+	}
+.edit_benefires_pop{
+	width:100% !important;
+	}
+.primary_beneficiaries_res_table .name, .primary_beneficiaries_res_table .relationship, .primary_beneficiaries_res_table .benefit_distribution, .primary_beneficiaries_res_table .max_benefit_ammount{
+	width:24%;
+	line-height:30px;
+	padding:10px;
+	}
+.primary_beneficiaries_res_body .name, .primary_beneficiaries_res_body .relationship, .primary_beneficiaries_res_body .benefit_distribution, .primary_beneficiaries_res_body .max_benefit_ammount{
+	width:24%;
+	line-height:30px;
+	padding:10px;
+	}
+}
+@media (max-width: 767px) {
+   .user_account_container{
+	 display:none;
+	  }
+	  .user_account_container1{
+	 display:none;
+	  }
+	.mobile_user_acct{
+		float:left;
+		margin-top:25px;
+		position:relative;
+	}
+	.mobile_user_acct a.usermenu_icon{
+		background:url(../images/icons/user.png) no-repeat;
+		width:40px;
+		float:left;
+		height:40px;
+		border:2px solid #00687f;
+		border-radius:100%;
+		position:relative;
+		background-position:8px center;
+		}
+	.mobile_user_acct a.usermenu_icon:before{
+		content:'';
+		background:url(../images/icons/caret_down.png);
+		width:7px;
+		height:5px;
+		position:absolute;
+		float:left;
+		right:5px;
+		top:17px;
+		}
+	.user_acc_menu{
+		position:absolute;
+		float:left;
+		top:50px;
+		right:0;
+		z-index:10;
+		width:112px;
+		border-radius:2px;
+		display:none;
+		}
+	.user_acc_menu:before{
+		background:url(../images/icons/submenu_up.png);
+		width:14px;
+		height:9px;
+		position:absolute;
+		top:-6px;
+		right:15px;
+		content:'';
+		}
+	.user_acc_menu li{
+		 width:100%;
+		 float:left;
+		 list-style:none;
+		}
+	.user_acc_menu li a{
+		background:#00687f;
+		color:#fff;
+		padding:5px 10px;
+		width:100%;
+		float:left;
+		border-bottom:1px dashed #005467;
+	}
+	.hero_header_container .hero_header_title {
+    color: #fff;
+    float: left;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 33px;
+    margin-bottom: 16px;
+    text-transform: none;
+    width: 100%;
+}
+.hero_header_container .hero_header_sub_title{
+	font-size:18px;
+	}
+.hero_header_container .counter_text{
+	font-size:30px;
+	margin-top:6px;
+	}
+.vertical_tabs{
+	width:100%;
+	float:left;
+	height:auto;
+	}
+.vertical_tabs li{
+	margin-bottom:0 !important;
+}
+.vertical_tabs li a{
+	padding-left:68px !important;
+	height:70px !important;
+	line-height:70px !important;
+	background:#fafafa !important;
+	border-bottom:1px solid #d8d8d8;
+	font-size:24px !important;
+	color:#7c2230 !important;
+	}
+.vertical_tabs li:first-child a{
+	border-top:1px solid #d8d8d8;
+}
+.vertical_tabs li.active a{
+	border-bottom:none;
+	background:#fff !important;
+	}
+.vertical_tabs li a:before{
+	position:absolute;
+	content:'';
+	width:39px;
+	height:39px;
+	float:left;
+	border:2px solid #00687f;
+	border-radius:100%;
+	left:10px;
+	top:13px;
+	 text-align:center;
+	 line-height:39px;
+	 font-weight:600;
+	 font-size:20px;
+	 color:#00687f;
+	}
+.vertical_tabs li.active a:before{
+	background:#00687f !important;
+	color:#fff !important;
+	}
+.vertical_tabs li.step1 a:before{
+	 content:'1';
+	}
+.vertical_tabs li.step2 a:before{
+	 content:'2';
+	}
+.vertical_tabs li.step3 a:before{
+	 content:'3';
+	}
+.vertical_tabs ul li.active:first-child a, .vertical_tabs ul li:last-child a{border-radius:0;}
+.vertical_tabs ul li.active a .active_tab{
+	display:none;
+	}
+.user_login_reg_container{
+	padding:20px !important;
+	border-bottom:1px solid #d8d8d8;
+	}
+.vertical_tabs li a:after{
+	position:absolute;
+	content:'';
+	width:16px;
+	height:10px;
+	float:left;
+	right:10px;
+	top:30px;
+	background:url(../images/icons/step_indicators.png);
+	background-position:0 -10px;
+	}
+.vertical_tabs li.active a:after{
+	background-position:0 0;
+	}
+.vertical_tabs ul li:first-child a {
+    border-radius: 0;
+}
+.vertical_nav{
+	width:100%;
+	float:left;
+	}
+.vertical_nav ul{
+	width:100%;
+	float:left;
+	}
+.vertical_nav ul li a .v_nav_active{
+	display:none;
+}
+.vertical_nav ul li a:before{
+	content:'';
+	background:url(../images/icons/vmenu_caret.png);
+	width:16px;
+	height:10px;
+	position:absolute;
+	right: 18px;
+    top: 24px;
+	float:left;
+	background-position:0 -10px;
+	}
+.vertical_nav ul li.active a:before{
+	background-position:0 0;
+	}
+.buttons_footer{
+	height:100px;
+	margin-top:0;
+	margin-bottom:0;
+	}
+.btns_container{
+	margin-top:20px;
+	}
+.all_plans_tabs_container{
+	width:100%;
+	float:left;
+	}
+.all_plans_list{
+	margin-bottom:50px;
+	}
+.all_plans_list li{
+	width:50% !important;
+	}
+.all_plans_list li a{
+	width:100% !important;
+	border:1px solid #d8d8d8 !important;
+	margin-top:-1px !important;
+	height:164px !important;
+	line-height:164px !important;
+}
+
+.all_plans_list li:nth-child(odd) a{
+	border-right:none !important;
+	}
+.all_plans_list li:last-child a{
+	border-right:1px solid #d8d8d8 !important;
+	}
+.all_plans_list li a:before{
+	display:none;
+}
+.all_plans_tabs_container{
+	margin-bottom:0px;
+	}
+.vertical_nav{
+	margin-bottom:40px;
+	}
+.pwd_info_container{
+	width:100%;
+	float:left;
+	right:auto;
+	padding:10px;
+	top:auto;
+	bottom:50px;
+	display:none;
+
+	}
+.round_list li{
+	font-size:14px;
+	line-height:20px;
+	}
+
+.round_list li .list_icon {
+    background: none repeat scroll 0 0 #00687f;
+    border-radius: 100%;
+    float: left;
+    height: 6px;
+    margin-left: -20px;
+    margin-top: 8px;
+    width: 7px;
+	
+}
+.pwd_header{
+	font-size:14px;
+	margin-bottom:0;
+	}
+#pwdinformation:focus + .pwd_info_container{
+	display:block;
+	}
+.pwd_info_container .direction {
+    bottom: -11px;
+    height: 20px;
+    left: 20px;
+    transform: rotate(270deg);
+    width: 19px;
+    z-index: -1;
+	top:auto;
+}
+.message_container{
+	position:relative;
+	}
+.message_box_body .msg_from, .message_box_body .msg_subject, .message_box_body .msg_type, .message_box_body .msg_date{
+	line-height:18px;
+	padding-left:5px;
+	}
+.message_container .msg_from{
+	padding-top:10px;
+	width:100%;
+	padding-right:225px;
+	}
+.message_box_body .msg_subject{
+	padding-bottom:10px;
+	padding-right:225px;
+	}
+.message_container .msg_subject{
+	width:100%;
+	text-transform:none;
+	font-weight:400 !important;
+	padding-left:35px;
+	font-size:12px;
+	}
+.message_container .msg_type, .message_container .msg_date{
+	position:absolute;
+	right:5px;
+	top:20px;
+	font-weight:400 !important;
+	width:auto;
+	font-size:12px;
+	}
+.message_container .msg_type{
+	right:90px;
+	font-size:12px;
+	}
+.hide_sm{
+	display:none;
+	}
+.hide_lg{
+	display:inline-block;
+	}
+ .message_box_header .msg_subject, .message_box_header .msg_type, .message_box_header .msg_date{
+	display:none;
+	}
+.message_box_header .msg_from{
+	border:none;
+	}
+.plans_price_change_header h4{
+	font-size:18px;
+	}
+.plans_price_change_header p{
+	line-height:18px;
+	}
+.plans_change_header{
+	padding-right:10px;
+	}
+.plans_price_change_table tr th{
+	 width:170px;
+	}
+.plans_price_change_table tr th img{
+	width:100%;
+}
+.open_enrollment_btns_container .btn_container{
+	height:auto;
+	}
+.open_enrollment_information{
+	width:100%;
+	height:auto;
+	padding-top:10px;
+	text-align:center;
+	float:left;
+	}
+.open_enrollment_btns_container .btn_wrapper{
+	padding:10px 15px;
+	}
+.reg_text {
+    margin-top:10px;
+}
+.fgt_pwd{
+	margin-left:0;
+	}
+.life_event_situation_col1, .life_event_situation_col2, .life_event_situation_col3{
+	width:100%;
+	float:left;
+	margin-top:10px;
+	}
+.all_plans_list li a img{
+	width:auto;
+	}
+.all_plans_container .no_padding{
+	padding:0 15px !important;
+	}
+.all_plans_list{
+	margin:10px 0;
+	}
+.all_plans_container .page-header{
+	padding-top:15px;
+	}
+#vMenu1_Content, #vMenu2_Content, #vMenu3_Content, #vMenu4_Content, #vMenu5_Content, #vMenu6_Content{
+	padding:0 10px;
+	}
+.list_plans_gray_table_header .header_plan, .list_plans_gray_table_header .header_office_visit, .list_plans_gray_table_header .header_deductible, .list_plans_gray_table_header .header_cost{
+	width:250px;
+	}
+.list_plans_gray_table_header .header_office_visit, .list_plans_gray_table_header .header_deductible, .list_plans_gray_table_header .header_cost{
+	width:120px;
+	line-height:16px;
+	font-size:13px;
+}
+.tb_body_plan, .tb_body_office_visit, .tb_body_deductible, .tb_body_cost{
+	width:250px;
+	}
+.tb_body_office_visit, .tb_body_deductible, .tb_body_cost{
+	width:120px;
+	}
+.cost_per_period{
+	font-size:25px;
+	}
+.current_plans_header .header_plan{
+	width:250px;
+	}
+.current_plans_header .header_office_visit, .current_plans_header .header_deductible, .current_plans_header .header_cost{
+	width:114px;
+	line-height:16px;
+	font-size:13px;
+	}
+.cur_tb_body_plan{
+	width:250px;
+	}
+.cur_tb_body_office_visit, .cur_tb_body_deductible, .cur_tb_body_cost{
+	width:120px;
+	}
+.select_plan_btn_container .btn{
+	margin-left:10px;
+	width:100px;
+	}
+.selected_plan_vtabs{
+	width:100%;
+	float:left;
+	}
+.selected_plan_vtabs ul li a:before{
+	display:none;
+	}
+.selected_plan_vtabs ul li a{
+	padding-left:15px !important;
+	}
+.dependents_table table tr{
+	float:left;
+}
+.dependents_table table tr th{
+	 display:none;
+	}
+.dependents_table table tr td{
+	 float:left;
+	 width:100%;
+	 padding:0;
+	}
+.dependents_table table tr td:first-child{
+	background:#00687f;
+	color:#fff;
+	padding:8px 10px;
+	}
+.dependents_table table tr td label{
+	display:block;
+	background:#f9f9f9;
+	width:110px;
+	float:left;
+	padding:8px 10px;
+}
+.dependents_table table tr td .dependent_responsive_table_content{
+	float:left;
+	padding:8px 10px;
+	
+}
+.dependents_table table tr td:last-child label{
+	padding:18px 10px;
+	}
+.choosen_drop_res{
+	float:left;
+	}
+#dependentsPageChange_chosen{
+	width:150px !important;
+	}
+.dependents_table_container{
+	margin-top:15px;
+	}
+.selected_tb_plan{
+	width:220px;
+	}
+.selected_plans_table_header .header_selected_plan{
+	width:220px;
+	}
+.selected_plans_table_header .header_selected_coverage, .selected_tb_coverage{
+	width:150px;
+	}
+.header_selected_cost, .selected_tb_cost{
+	width:220px;
+	}
+.available_cvgs_decline_table{
+	margin-bottom:0;
+	}
+.supplement_container{
+	min-height:0;
+	}
+.max_benefit_ammount{
+	width:168px;
+	padding:10px;
+	line-height:30px;
+	}
+.selected_plans_container{
+	width:100%;
+	margin-bottom:15px;
+	}
+.coverage{
+	margin-top:15px;
+	}
+.benefires_table tr th{
+	display:none;
+	}
+.benefires_table tr{
+	float:left;
+	border:1px solid #d8d8d8;
+	margin-bottom:15px;
+	}
+.benefires_table tr td{
+	float:left;
+	width:100%;
+	padding:0;
+	height:auto;
+	border-bottom:1px solid #d8d8d8;
+}
+.responsive_benefires_table_col_label{
+	float:left;
+	width:50%;
+	background:#f9f9f9;
+	color:#00687f;
+	padding:15px 10px;
+	display:block;
+	}
+.responsive_benefires_table_col_val{
+	float:left;
+	width:50%;
+	padding:10px;
+	}
+.difference_perntage, .difference_amt{
+	width:auto;
+	}
+.percentage{
+	float:left;
+	margin-left:5px;
+	}
+.compare_plan_selection_header{
+	width:130px;
+	}
+.compare_plan_selection_col{
+	width:110px;
+	padding: 0 20px;
+	}
+.plans_to_compare li{
+	margin-bottom:15px;
+	}
+.hero_header_titlev2{
+	font-size:24px;
+	margin-top:25px;
+	}
+.primary_beneficiaries_res_table .name, .primary_beneficiaries_res_table .relationship, .primary_beneficiaries_res_table .benefit_distribution, .primary_beneficiaries_res_table .max_benefit_ammount{
+	width:24%;
+	padding:10px;
+	height:50px;
+	line-height:16px;
+	}
+.primary_beneficiaries_res_body .name, .primary_beneficiaries_res_body .relationship, .primary_beneficiaries_res_body .benefit_distribution, .primary_beneficiaries_res_body .max_benefit_ammount{
+	width:24%;
+	padding:5px;
+	}
+.enter_coverage_table_header{
+	display:none;
+	}
+.enter_coverage_table_body .first_name_header, .enter_coverage_table_body .relation_header, .enter_coverage_table_body .provider_id_header, .enter_coverage_table_body .existing_provider_header{
+	width:100%;
+	float:left;
+	height:auto;
+	border-bottom:1px solid #d8d8d8;
+		}
+	.enter_coverage_table_body .first_name_header, .enter_coverage_table_body .relation_header, .enter_coverage_table_body .provider_id_header, .enter_coverage_table_body .existing_provider_header{
+		padding:0;
+		}
+.enter_coverage_res_table_col_header{
+	display:block;
+	background:#f9f9f9;
+	width:50%;
+	float:left;
+	padding:10px;
+	min-height:60px;
+	text-align:left;
+	}
+.enter_coverage_res_table_col_val{
+	width:50%;
+	float:left;
+	padding:10px;
+	
+	}
+.new_dependent_enroll_table_header_row{
+	display:none;
+	}
+.new_dependent_enroll_responsive_table_header{
+    display: block;
+    float: left;
+    width: 100%;
+}
+.new_dependent_enroll_responsive_table_header a {
+    background: #fafafa none repeat scroll 0 0;
+    border-bottom: 1px solid #d8d8d8;
+    border-top: 1px solid #d8d8d8;
+    color: #7c2230;
+    float: left;
+    font-weight: 700;
+    height: 50px;
+    line-height: 50px;
+    margin-bottom: 5px;
+    padding: 0 10px;
+    position: relative;
+    text-transform: uppercase;
+    transition: all 0.5s ease 0s;
+    width: 100%;
+}
+.new_dependent_enroll_responsive_table_header a:after{
+    background:url("../images/icons/compare_plan_exted_icon.png") repeat scroll 0 0;
+    content: "";
+    float: left;
+    height: 10px;
+    position: absolute;
+    right: 15px;
+    top: 20px;
+    width: 16px;
+}
+
+.new_dependent_enroll_responsive_table_header.active a:after{
+    background:url("../images/icons/compare_plan_collapse_icon.png") repeat scroll 0 0;
+}
+.new_dependent_enroll_responsive_col_header{
+    background: #f9f9f9 none repeat scroll 0 0;
+    color: #00687f;
+    display: block;
+    float: left;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 5px 10px;
+    text-transform: uppercase;
+    width: 100%;
+}
+.new_dependent_enroll_table .column1, .new_dependent_enroll_table .column2, .new_dependent_enroll_table .column3{
+	width:100%;
+	float:left;
+	padding:0;
+	height:auto;
+	}
+.dpnt_enroll_txt{
+	 float: left;
+    padding: 10px;
+    width: 100%;
+	}
+.dependent_enroll_plan_logo, .dependent_enroll_plan_type, .dependent_enroll_coverage_type {
+    float: left;
+    width: 100%;
+}
+.new_dependent_enroll_res_table_body{
+	width:100%;
+	float:left;
+	display:none;
+	}
+.new_dependent_enroll_res_table_body.in{
+	display:block;
+	}
+.new_dependent_enroll_table_row{
+	border:none;
+	margin-bottom:10px;
+	}
+}
+@media (max-width: 629px) {
+	.message_container .msg_type{ display:none;}
+	.message_container .msg_from{
+			padding-right:60px;
+			}
+.message_box_body .msg_subject{
+	padding-right:60px;
+	}
+.page-header h1{
+	font-size:20px;
+	margin-bottom:5px;
+	}
+.page_sub_header, .section_subheader{
+	line-height:22px;
+	font-size:16px;
+	}
+.section_header{
+	font-size:22px;
+	}
+.page_sub_header, .section_subheader{
+	font-size:14px;
+	}
+.plans_price_change_header h4{
+	line-height:20px;
+	font-size:13px;
+	}
+.plans_price_change_table tr td{
+	padding:0;
+	}
+.last_year_price, .next_year_price{
+	font-size:18px;
+	}
+.net_change_price{
+	font-size:18px;
+	}
+.plans_price_change_table tr:first-child td{
+	padding:0;
+	}
+.plans_price_change_table tr td.net_change_paln::before{
+	display:none;
+	}
+.plans_price_change_table tr:last-child td{
+	padding:0;
+	}
+.plans_change_header h5{
+	margin-bottom:0;
+	}
+.plans_change_header p{
+	margin-top:0;
+	}
+.open_enrollment_information{
+	font-size:14px;
+	}
+.fgt_pwd{
+	margin-left:20px;
+	}
+.current_plans_header{
+	display:none;
+	}
+.current_plans_reponsive_table_header, .selected_plans_reponsive_table_header{
+	display:block;
+	width:100%;
+	float:left;
+	}
+.current_plans_reponsive_table_header a, .selected_plans_reponsive_table_header a{
+	border-bottom: 1px solid #d8d8d8;
+	border-top:1px solid #d8d8d8;
+    color: #7c2230;
+    float: left;
+    font-weight: 700;
+    height: 50px;
+    line-height: 50px;
+    padding: 0 15px;
+    position: relative;
+    text-transform: uppercase;
+    width: 100%;
+	margin-bottom:5px;
+	background:#fafafa;
+	transition:all 0.5s;
+	}
+.current_plans_reponsive_table_header.active a, .selected_plans_reponsive_table_header.active a{
+	background:#FFFFFF;
+	transition:all 0.5s;
+}
+.current_plans_reponsive_table_header a::after, .selected_plans_reponsive_table_header a::after{
+    background: url("../images/icons/compare_plan_exted_icon.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
+    content: "";
+    float: left;
+    height: 10px;
+    position: absolute;
+    right: 15px;
+    top: 20px;
+    width: 16px;
+}
+.current_plans_reponsive_table_header.active a::after, .selected_plans_reponsive_table_header.active  a::after{
+	background:url(../images/icons/compare_plan_collapse_icon.png);
+	}
+.current_plan_row{
+	width:100%;
+	float:left;
+	min-height:1px;
+	border:none;
+	}
+.current_plans_reponsive_table_body, .selected_plans_reponsive_table_body{
+	width:100%;
+	float:left;
+	display:none;
+	}
+.current_plans_reponsive_table_body.in, .selected_plans_reponsive_table_body.in{
+	display:block;
+	}
+.current_plans_reponsive_table_body .cur_tb_body_plan, .current_plans_reponsive_table_body .cur_tb_body_office_visit, .current_plans_reponsive_table_body .cur_tb_body_deductible, .current_plans_reponsive_table_body .cur_tb_body_cost{
+	width:100%;
+	float:left;
+	height:auto;
+	min-height:10px;
+	border:none;
+	padding:0 5px;
+	padding-bottom:15px;
+	}
+.current_plans_reponsive_table_body .cur_tb_body_cost{
+	border-bottom:none;
+	}
+.current_plans_reponsive_col_header, .selected_plans_reponsive_col_header{
+	width:100%;
+	float:left;
+	color:#fff;
+	font-weight:600;
+	font-size:16px;
+	padding:5px 0;
+	text-transform:uppercase;
+	color:#00687f;
+	display:block;
+	background:#f9f9f9;
+	padding:5px 10px;
+	}
+.selected_plans_reponsive_table_body .selected_tb_plan, .selected_plans_reponsive_table_body .selected_tb_coverage, .selected_plans_reponsive_table_body .selected_tb_coverage, .selected_plans_reponsive_table_body .selected_tb_cost{
+	width:100%;
+	float:left;
+	height:auto;
+	min-height:10px;
+	border:none;
+	padding:0 5px;
+	padding-bottom:15px;
+	}
+.selected_plans_table_body, .selected_plans_table_row{
+	border:none;
+	}
+.selected_plans_reponsive_table_body .selected_tb_coverage p{
+	padding:0 10px;
+	width:100%;
+	float:left;
+	padding-top:10px;
+	}
+.selected_tb_plan h5{
+	padding:10px;
+	margin:0;
+	}
+.selected_tb_plan p, .plan_detais_link{
+	padding:0 10px;
+	}
+.selected_tb_plan img{
+	margin-left:10px;
+	}
+.cur_tb_body_plan p{
+	margin-bottom:0;
+	}
+.cost_per_period{
+	text-align:left;
+	margin-top: 10px;
+	}
+.select_plan_btn_container{
+	margin-top:10px;
+	}
+.select_plan_btn_container .btn{
+	margin-left:0;
+	}
+.cur_tb_body_office_visit p, .cur_tb_body_deductible p{
+	float:left;
+	width:100%;
+	padding:0 10px;
+	margin-top:10px;
+	}
+.cur_tb_body_plan .current_plan_btn{
+	margin-left:10px;
+	}
+.cur_tb_body_plan .plan_icon, .cur_tb_body_plan p, .cur_tb_body_plan .check_field_container, .cur_tb_body_cost .cost_per_period, .cur_tb_body_cost .select_plan_btn_container{
+	padding:0 10px;
+	}
+.selected_plans_container{
+	width:100%;
+	}
+.list_plans_gray_table_header{
+	display:none;
+	}
+.list_plans_gray_table_body .tb_body_plan, .list_plans_gray_table_body .tb_body_office_visit, .list_plans_gray_table_body .tb_body_deductible, .list_plans_gray_table_body .tb_body_cost{
+	width:100%;
+	float:left;
+	height:auto;
+	padding:15px 10px;
+	}
+	
+.tb_body_deductible p, .tb_body_office_visit p{
+	margin:0;
+	}
+.list_plans_gray_table_body{
+	height:auto;
+	}
+.list_plan_responsive_col_header{
+	width:100%;
+	float:left;
+	background:#e7e7e7;
+	padding:5px 10px;
+	text-transform:uppercase;
+	color:#00687f;
+	display:block;
+	}
+.selected_plans_table_header{
+	display:none;
+	}
+.selected_plans_table_footer h5{
+	font-size:20px;
+	width:100%;
+	padding:0;
+	text-align:right;
+	margin-top:10px;
+	}
+.selected_plans_table_footer{
+	height:auto;
+	}
+.selected_paln_total_pay{
+	float:right;
+	margin:0;
+	padding-bottom:10px;
+	}
+.buttons_footer .btn_secondary, .buttons_footer .btn_primary{
+	width:auto;
+	padding:0 25px;
+	font-size:18px;
+	height:50px;
+	line-height:50px;
+	}
+.supplement_container{
+	padding:0;
+	border:none;
+	}
+.primary_beneficiaries_table{
+	display:none;
+	}
+.primary_beneficiaries_body .name{
+	width:100%;
+	float:left;
+	background:#00687f;
+	color:#fff;
+	padding:10px;
+	margin-bottom:0;
+	}
+.primary_beneficiaries_body .relationship, .primary_beneficiaries_body .benefit_distribution, .primary_beneficiaries_body .max_benefit_ammount{
+	 width:100%;
+	 float:left;
+	 margin-bottom:0;
+	 padding:0;
+	 border-bottom:1px solid #d8d8d8;
+	}
+.res_primary_cell_label{
+	float:left;
+	width:150px;
+	background:#f9f9f9;
+	padding:10px;
+	line-height:18px;
+	display:block;
+	}
+.res_primary_cell_val{
+	padding:10px;
+	float:left;
+	line-height:18px;
+	}
+.compare_plan_selection_header{
+	width:90px;
+	padding: 0 10px;
+	}
+.compare_plan_selection_col{
+	width:82px;
+	padding: 0 10px;
+	}
+.plans_to_compare li{
+	margin-bottom:15px;
+	}
+.hero_header_titlev2 {
+    font-size: 20px;
+    margin-top: 25px;
+}
+.primary_beneficiaries_res_body .name{
+	background: none repeat scroll 0 0 #fff;
+    color: #000;
+	padding:0;
+	border-bottom:1px solid #d8d8d8;
+	}
+.primary_beneficiaries_res_body .res_primary_cell_label{
+	width:50%;
+	height:60px;
+	
+}.primary_beneficiaries_res_body .res_primary_cell_val{width:50%;}
+.save_pcp_btn{
+	width:96%;
+	float:left;
+	margin-top:10px;
+	}
+}
+@media (max-width: 479px) {
+	
+.new_support_btn {
+    float: right;
+    font-size: 14px;
+    height: 40px;
+    line-height: 40px;
+    padding: 0 12px;
+    width: auto;
+}
+.message_center_btns .msg_del_btn{
+	margin-top:0;
+	}
+	.category_list li{
+		border:none;
+		width:100%;
+		}
+	.large_field_container{
+	width:100%;
+	margin-bottom:20px;
+	}
+.medium_field_container{
+	width:100%;
+	margin-bottom:20px;
+	}
+.small_field_container{
+	width:100%;
+	margin-bottom:20px;
+	}
+.user_profile_form .form_group{
+	margin-bottom:0px;
+	}
+.buttons_footer .btn_secondary, .buttons_footer .btn_primary{
+	width:auto;
+	padding:0 25px;
+	font-size:18px;
+	height:50px;
+	line-height:50px;
+	}
+.editable_label_container .editable_label{
+	margin-top:-10px;
+	}
+	.user_profile_container{
+		padding:10px;
+		}
+.select_package{
+	width:100%;
+	margin-bottom:20px;
+	border-left:1px solid #d8d8d8;
+	}
+.login_container, .register_container{
+	padding:10px 0px;
+	}
+.register_container{
+	padding-top:0px;
+	}
+.login_container h1.alternative, .register_container h1.alternative {
+    font-size: 22px;
+    font-weight: 400;
+    margin-bottom: 10px;
+}
+.user_login_reg_container{
+	padding:10px 10px !important;
+	border-bottom:1px solid #d8d8d8;
+	}
+label.form_label {
+    font-size: 14px;
+}
+.login_container label {
+    float: left;
+    margin-bottom: 0;
+}
+.form_group{
+	margin-bottom:15px;
+	}
+.my_benefits_container h1{
+	font-size:20px;
+	line-height:30px;
+	}
+.my_benefits_container{
+	padding:20px 10px;
+	}
+.footer_logo{
+	width:100%;
+	float:left;
+	text-align:center;
+	margin-top:0px;
+	}
+.footer_logo img{
+	width:150px;
+	}
+.copy_right{
+	font-size:10px;
+	margin-top:5px;
+	text-align:center;
+	}
+.bottom_nav{
+	width:282px;
+	float:none;
+	}
+.footer{
+	height:auto;
+	}
+.page-header h1{
+	font-size:20px;
+	margin-bottom:5px;
+	}
+.btns_container{
+	margin-top:25px;
+	}
+.buttons_footer .ml20{
+	margin-left:10px;
+	}
+.buttons_footer .btn_secondary, .buttons_footer .btn_primary{
+	font-size:14px;
+	}
+.buttons_footer .btn_secondary, .buttons_footer .btn_primary{
+	padding:0 15px;
+	}
+.last_year_price, .next_year_price, .net_change_price{
+	font-size:14px;
+	}
+.plans_price_change_header p{
+	font-size:11px;
+	}
+.open_enrollment_btns_container .btn_wrapper a{
+	font-size:13px;
+	}
+.per_cost_text{
+	line-height:20px;
+	font-size:12px;
+	}
+.open_enrollment_start_section h4{
+	font-size:20px;
+	line-height:24px;
+	}
+.plans_no_longer_available_table tr td:first-child img{
+	width:100%;
+	}
+.plans_no_longer_available_table tr td:first-child{
+	padding-right:10px;
+	width:50%;
+	}
+.plans_td_header h5{
+	margin-bottom:0;
+	}
+.plans_td_header p{
+	margin-top:0;
+	}
+.discontinued_text, .per_cost_price{
+	font-size:16px;
+	}
+.new_plan_table tr td:first-child img{
+	width:100%;
+	}
+.new_plan_table tr:first-child td{
+	width:50%;
+	}
+.all_plans_list li a img{
+	width:100%;
+	}
+.current_plans_reponsive_table_header a{
+	font-size:14px;
+	font-weight:600;
+	padding:0 10px;
+	}
+.listpackage_table tr th{
+	padding:0 5px;
+	}
+.listpackage_table tr td p{
+	font-size:13px;
+	}
+.compare_plan_selection_header{
+	width:100%;
+	padding: 0 10px;
+	margin-bottom:2px;
+	}
+.compare_plan_selection_col{
+	width:100%;
+	padding: 0 10px;
+	margin-bottom:2px;
+	}
+.plans_to_compare li{
+	margin-bottom:15px;
+	width:138px;
+	margin-right:10px;
+	}
+.compare_plan_price{
+	font-size:18px;
+	}
+
+.hero_header_sub_titlev2 {
+    color: #988f86;
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 10px;
+    text-align: center;
+    width: 100%;
+}
+.circle{
+	margin-top:8px;
+	}
+.btns_container .btn_small{
+	width:100px;
+	}
+.save_pcp_btn{
+	 margin-left: 0 !important;
+    width: 100% !important;
+	}
+	}
+

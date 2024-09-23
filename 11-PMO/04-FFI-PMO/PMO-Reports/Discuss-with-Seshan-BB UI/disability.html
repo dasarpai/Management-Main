@@ -1,0 +1,729 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>BenefitBridge::Disability</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link href="styles/stylesheet.css" type="text/css" rel="stylesheet">
+<link href="styles/main.css" type="text/css" rel="stylesheet" >
+<link href="styles/iCheck.css" type="text/css" rel="stylesheet">
+<link href="styles/tooltipster.css" type="text/css" rel="stylesheet">
+<link href="styles/ion.rangeSlider.skinNice.css" type="text/css" rel="stylesheet">
+<link href="styles/responsive-tabs.css" type="text/css" rel="stylesheet">
+<link href="styles/easydropdown.css" type="text/css" rel="stylesheet" >
+<link href="styles/jquery.akordeon.css" type="text/css" rel="stylesheet" >
+<link href="styles/BeatPicker.css" type="text/css" rel="stylesheet" >
+<link href="styles/custombox.css" type="text/css" rel="stylesheet" >
+<link href="styles/responsive.css" type="text/css" rel="stylesheet" >
+
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700,300' rel='stylesheet' type='text/css'>
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <!--[if gte IE 8]>
+    	<link href="styles/ie8.css" type="text/css" rel="stylesheet" />
+    <![endif]-->
+    <!--[if lt IE 9]>
+   		<link href="styles/ie9.css" type="text/css" rel="stylesheet" />
+	<![endif]-->
+</head>
+
+<body class="">
+<div class="topbar">
+	<div class="container">
+        <ul class="top_navbar">
+             <li><a href="#">(800) 814-1862</a></li>
+             <li>|</li>
+             <li><a href="#">Help</a></li>
+             <li>|</li>
+             <li class="top_nav_search_btn">
+             	<div class="search_input_container">
+                	<input type="text" class="top_search_filed" placeholder="Search"> 
+                    <a href="#" class="top_search_btn"></a>
+                </div>
+             	<a href="#" id="showSearchBox"><img src="images/icons/serach.png"></a>
+            </li>
+        </ul>
+    </div>
+</div>
+<div class="header_bar">
+	<div class="container">
+    	<div class="logo"><a href="main.html"><img src="images/logo.png"></a></div>
+        <div class="menu_container">
+        <div class="primary_nav">
+        		<a href="#" class="mobile_menu">
+                	<span class="bar_icon"></span>
+                    <span class="bar_icon"></span>
+                    <span class="bar_icon"></span>
+                </a>
+                 <ul class="toggle_menu">
+                    <li><a href="listpackage.html">My Benefits</a></li>
+                    <li><a href="all_plans.html">All Plans</a></li>
+                    <li><a href="messagecenter.html">Message Center</a></li>
+                    <li><a href="resourcecenter.html">Resource Center <span class="caret"></span></a>
+                    	<!--<ul class="submenu">
+                        	<i class="submenu_caret"></i>
+                        	<li><a href="#">Sub Menu 1</a></li>
+                            <li><a href="#">Sub Menu 1</a></li>
+                            <li><a href="#">Sub Menu 1</a></li>
+                            <li><a href="#">Sub Menu 1</a></li>
+                        </ul>-->
+                    </li>
+                </ul>
+                
+            </div>
+          <div class="user_account_container">
+            	<a href="index.html" id="logout_fun"><i class="user_icon"></i>John Doe</a>
+            </div>
+           <div class="mobile_user_acct">
+            	<a href="#mobile_menu" class="usermenu_icon"></a>
+                <ul class="user_acc_menu" id="mobile_menu">
+                	<li><a href="#">John Doe</a></li>
+                    <li><a href="index.html">Logout</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="sub_navbar pattern_bg">
+	<div class="container">
+    	<ul>
+        	
+            <li><a href="#" class="navbar1">Home</a></li>
+            <li>|</li>
+            <li><a href="#" class="navbar1">My Benefits</a></li>
+            <li>|</li>
+            <li><a href="#"> Benefit Selection</a></li>
+        </ul>
+    </div>
+</div>
+
+<div class="user_reg_container">
+	<div class="container">
+    
+	<div class="row">
+    	<div class="col-flg-3 col-md-3">
+        	
+        	<div class="vertical_tabs list_plans_vtabs selected_plan_vtabs">
+                       <ul>
+                            <li class="done"><a href="health.html">HEALTH <i class="active_tab"></i><i class="completed_tab"></i></a></li>
+                            <li class="done"><a href="dental.html">DENTAL <i class="active_tab"></i><i class="completed_tab"></i></a></li>
+                            <li class="done"><a href="vision.html">VISION <i class="active_tab"></i><i class="completed_tab"></i></a></li>
+                            <li  class="done"><a href="life.html">LIFE <i class="active_tab"></i><i class="completed_tab"></i></a></li>
+                            <li class="active" id="ptab5"><a href="#">DISABILITY <i class="active_tab"></i></a></li>
+                            <li><a href="#">SUMMARY <i class="active_tab"></i></a></li>
+                        </ul>
+                    </div>
+                    
+            <div class="selected_plans_container">
+            	<h4>
+                	<span class="selected_text">Selected Plans</span><span>&nbsp;&nbsp;(0 of 5)</span>
+                </h4>
+                <h5 class="sub_total">Sub Total:</h5>
+                <div class="sub_total_amount">$601,00 <span>/ PAY PERIOD</span></div>
+            </div>
+		</div>
+		<div class="col-flg-9 col-md-9 col-md-9">
+        	<div  id="dsk_plan_tab_content"></div>
+        	<div id="plan_tab_content">
+        	<div class="cigna_header">
+            	<h1>cigna life</h1>
+               
+                <div class="logo">
+                	<img src="images/logos/cigna.png">
+                   </div>
+                   </div>
+                   <div class="row">
+                   <div class="col-lg-5">
+                   		<div class="coverage">
+                        	<p>Your Coverage:<span id="yourCoverage">$100,000</span></p>
+                            <p>Spouse Coverage: <span id="spouseCoverage">$50,000 </span></p>
+                            <p>Children Coverage: <span id="childrenCoverage">$5,000</span></p>
+                        </div>
+                   </div>
+                   
+                   <div class="col-lg-7">
+                   
+                    <div class="edit_coverage_ammount ">
+                       <span class="seperator">	<img src="images/icons/edit_icon.png"/><a href="#" id="edit_coverages_amount">Edit Coverage Amount</a></span>
+                        <span><img src="images/icons/edit_icon.png"/><a href="#" id="editbeneficiaries" onClick="editbenifires('pbname','pbrel','pbdestribution','pbamount','pop_name','pop_relation','pop_des','pop_amount')">Edit Beneficiaries</a></span>
+                        </div>
+                  
+                   </div>
+                  
+                   </div>
+                   <div class="primary_beneficiaries_header">
+            	<h1>Primary Beneficiaries <!--<a href="#" class="btn btn_primary btn_small btn_auto_width align_right" id="showAddBenefiresModal">Add Beneficiaries</a>--></h1>
+            </div>
+             <div class="full_width_row">
+              <div class="primary_beneficiaries_table">
+                            <div class="name primary">
+                                last, first name
+                        </div>
+                        <div class="relationship primary">
+                            relationship
+                        </div>
+                        <div class="benefit_distribution primary">
+                            benefit distribution
+                        </div>
+                        <div class="max_benefit_ammount primary">
+                            max benefit amount
+                        </div>
+                    </div>
+      	           <div class="primary_beneficiaries_body">
+                        <div class="name" id="pbname">
+                            Jett, Joan
+                        </div>
+                        <div class="relationship" id="pbrel">
+                        	<span class="res_primary_cell_label"> relationship</span>
+                           <span class="res_primary_cell_val"> Mom</span>
+                        </div>
+                            <div class="benefit_distribution" id="pbdestribution">
+                            	<span class="res_primary_cell_label"> benefit distribution</span>
+                               <span class="res_primary_cell_val"> 100%</span>
+                               
+                            </div>
+                                <div class="max_benefit_ammount" id="pbamount">
+                                	<span class="res_primary_cell_label"> max benefit amount</span>
+                                   <span class="res_primary_cell_val"> $100,000</span>
+                                </div>
+                    </div>
+                    </div>
+        <div class="General_plan_info">
+        	general plan information
+        </div>
+        	<div class="full_width_row">
+            	<table class="table_style1" cellpadding="0" cellspacing="0" style="margin-top:20px;">
+                	<tr>
+                    	<th>Accelerated Benefit - Life Only </th>
+                        <td class="table_style2">50% benefit amount when employee is diagnosed with a terminal illness </td>
+                       
+                    </tr>
+                    <tr>
+                    	<th>Waiver of Premium - Life Only </th>
+                        <td  class="table_style2">Included for disabled employees to age 70 </td>
+                       
+                    </tr>
+                    <tr>
+                    	<th>Conversion - Life Only</th>
+                        <td  class="table_style2">ncluded for disabled employees to age 70 </td>
+                       
+                    </tr>
+                    <tr>
+                    	<th>Portability</th>
+                        <td  class="table_style2">Not Covered</td>
+                       
+                    </tr>
+                    <tr>
+                    	<th>Suicide</th>
+                        <td  class="table_style2">Not Covered</td>
+                        
+                    </tr>
+                     <tr>
+                    	<th>War Risk</th>
+                        <td  class="table_style2">Not Covered</td>
+                       
+                    </tr>
+                    <tr>
+                    	<th>Terrorism Coverage</th>
+                        <td  class="table_style2">Not Covered</td>
+                        
+                    </tr>
+                </table>
+            </div>
+            </div>
+                   </div>
+    </div>
+</div>
+</div>
+
+
+<div class="footer">
+			<div class="container">
+                <div class="row">
+                    <div class="col-sm-6">
+                        <p class="copy_right">Copyright © 2014 Keenan & Associates • CA Insurance License No. 0451271 </p>
+                        <ul class="bottom_nav">
+                            <li><a href="legalnotice.html">Legal Notices</a></li>  <li>|</li>  <li><a href="privacy.html">Privacy</a></li>  <li>|</li>  <li><a href="#">Sitemap</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-sm-6">
+                        <div class="footer_logo">
+                            <img src="images/benefit_bridge_logo.png" >
+                        </div>
+                    </div>
+                </div>
+    		</div>
+		</div>
+   
+  <div id="editcoverages_modal" class="modal_window" >
+                         <a href="#" class="modal_close" onClick="Custombox.close();"></a>
+                        <h4 class="modal_title">Edit Coverage Amount</h4>
+                        <div class="modal_body">
+                        	<div class="pop_coverages_container">
+                                <div class="form_group">
+                                    <label class="form_label">Your Coverage:</label>
+                                    <div >
+                                    <div class="selectBoxContainer">
+                                    <select class="chosen-select" id="yc">
+                                        <option>$ 10000</option>
+                                        <option>$ 20000</option>
+                                        <option>$ 30000</option>
+                                        <option>$ 40000</option>
+                                        <option>$ 50000</option>
+                                        <option>$ 60000</option>
+                                        <option>$ 70000</option>
+                                        <option>$ 80000</option>
+                                        <option>$ 90000</option>
+                                        <option>$ 100000</option>
+                                    </select>   
+                                    </div>                                 
+                                    </div>
+                               </div>
+                                <div class="form_group">
+                                    <label class="form_label">Spouse Coverage: </label>
+                                    <div >
+                                    <div class="selectBoxContainer">
+                                    <select class="chosen-select" id="sc">
+                                        <option>$ 10000</option>
+                                        <option>$ 20000</option>
+                                        <option>$ 30000</option>
+                                        <option>$ 40000</option>
+                                        <option>$ 50000</option>
+                                    </select>
+                                    </div>
+                                    </div>
+                               </div>
+                                <div class="form_group">
+                                    <label class="form_label">Child Coverage:</label>
+                                    <div >
+                                    <div class="selectBoxContainer">
+                                    <select class="chosen-select" id="cc">
+                                        <option>$ 1000</option>
+                                        <option>$ 2500</option>
+                                        <option>$ 5000</option>
+                                    </select>
+                                    </div>
+                                    </div>
+                               </div>
+                           </div>
+                           
+                        </div>
+                        <div class="modal_footer_btns">
+                        	<div class="btns_container">
+                            <a href="#" class="btn btn_secondary btn_small" onClick="Custombox.close();">Cancel</a>
+                            <a href="#" class="btn btn_primary btn_small" onClick="updateCoverages('yc','sc','cc','yourCoverage','spouseCoverage','childrenCoverage')">Continue</a></div>
+                        </div>
+                    </div>
+                    
+                    
+  <div id="editbenifirespop" class="modal_window edit_benefires_pop" >
+                         <a href="#" class="modal_close" onClick="Custombox.close();"></a>
+                        <h4 class="modal_title">    Edit Beneficiaries</h4>
+                        <div class="modal_body">
+                        	<div class="pop_coverages_container">
+                            
+                            	<div class="primary_beneficiaries_table primary_beneficiaries_res_table">
+                                        <div class="name primary">
+                                            last,first name
+                                    </div>
+                                    <div class="relationship primary">
+                                        relationship
+                                    </div>
+                                    <div class="benefit_distribution primary">
+                                        benefit distribution
+                                    </div>
+                                    <div class="max_benefit_ammount primary">
+                                        max benefit amount
+                                    </div>
+                                </div>
+      	     					<div class="primary_beneficiaries_body primary_beneficiaries_res_body">
+        	<div class="name" id="pop_name">
+            	<span class="res_primary_cell_label"> Name</span>
+            	<span class="res_primary_cell_val"><input type="text" class="form_control"></span>
+            </div>
+            	
+            <div class="relationship" id="pop_relation">
+            	<span class="res_primary_cell_label"> relationship</span>
+            	<span class="res_primary_cell_val"><input type="text" class="form_control"></span>
+            </div>
+            	<div class="benefit_distribution" id="pop_des">
+                	<span class="res_primary_cell_label"> benefit distribution</span>
+                	<span class="res_primary_cell_val"><input type="text" class="form_control"></span>
+                </div>
+                	<div class="max_benefit_ammount" id="pbamount">
+                    	<span class="res_primary_cell_label"> max benefit amount</span>
+                    	<span class="res_primary_cell_val"><select class="chosen-select" id="pop_amount">
+                                                    <option>$ 10000</option>
+                                                    <option>$ 20000</option>
+                                                    <option>$ 30000</option>
+                                                    <option>$ 40000</option>
+                                                    <option>$ 50000</option>
+                                                </select></span>
+                    </div>
+        </div>
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                               
+       						    
+                           </div>
+                          
+                        </div>
+                        <div style="clear:both;"></div>
+                        <div class="modal_footer_btns">
+                        	<div class="btns_container">
+                            <a href="#" class="btn btn_secondary btn_small" onClick="Custombox.close();">Cancel</a>
+                            <a href="#" class="btn btn_primary btn_small" onClick="updateBenifires('pbname','pbrel','pbdestribution','pbamount','pop_name','pop_relation','pop_des','pop_amount')">Continue</a></div>
+                        </div> 
+                        
+                        
+                        <div style="clear:both;"></div>
+                    </div>
+                    
+                    
+  <div id="addBenefiresModal" class="addbenefires_modal" >
+                         <a href="#" class="modal_close" onClick="Custombox.close();"></a>
+                        <h4 class="modal_title">Beneficiary Details</h4>
+                       
+                        	<div class="addbenefires_form_container">
+                            	<div class="addbenefires_type_container">
+                            	<div class="form_group">
+                                	<label class="form_label">Beneficiary Type:</label>
+                                    <div class="full_width_row">
+                                        <div class="check_field_container"><input type="radio" id="radioIndividual" checked name="type"><label class="addbenefires_type_label">Individual</label></div>
+                                        <div class="check_field_container"><input type="radio" id="radioTrust" name="type"><label class="addbenefires_type_label">Trust</label></div>
+                                    </div>
+                                </div>
+                                </div>
+                                
+                                <div class="individual_form" id="beneficiaryIndividual" style="display:block;">
+                                	<div class="form_group">
+                                    	<div class="medium_field_container">
+                                    		<label class="form_label">*FIRST NAME:</label>
+                                            <input type="text" class="form_control" >
+                                        </div>
+                                        <div class="small_field_container">
+                                    		<label class="form_label">Middle Initial:</label>
+                                            <input type="text" class="form_control" >
+                                        </div>
+                                    </div>
+                                    
+                                    <div class="form_group">
+                                    	<div class="medium_field_container">
+                                    		<label class="form_label">*last NAME:</label>
+                                            <input type="text" class="form_control" >
+                                        </div>
+                                        <div class="small_field_container">
+                                    		<label class="form_label">Suffix</label>
+                                            <input type="text" class="form_control" >
+                                        </div>
+                                    </div>
+                                    
+                                    <div class="form_group">
+                                    	<div class="full_width_row">
+                                    		<label class="form_label">*DATE OF BIRTH:</label>
+                                        </div>
+                                    	<div class="small_field_container">
+                                    		<select class="chosen-select">
+                                            	<option>4</option>
+                                            </select>
+                                            
+                                        </div>
+                                        <div class="small_field_container">
+                                    		<select class="chosen-select">
+                                            	<option>4</option>
+                                            </select>
+                                        </div>
+                                         <div class="small_field_container">
+                                    		<select class="chosen-select">
+                                            	<option>1974</option>
+                                            </select>
+                                        </div>
+                                    </div>
+                                    
+                                    <div class="form_group">
+                                    	<div class="medium_field_container">
+                                    		<label class="form_label">*Relation:</label>
+                                            <div class="selectBoxContainer">
+                                                <select class="chosen-select">
+                                                    <option>N/A</option>
+                                                </select>
+                                            </div>
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    <div class="form_group">
+                    	<div class="form_label_container">
+                            	<label class="form_label">*Gender:</label>
+                            </div>
+                         <div class="validation_field_container">  
+                            <div class="small_field_container">
+                                <div class="check_field_container"><input type="radio" name="gender" id="male"><label for="male">MALE</label></div>
+                            </div>
+                            <div class="small_field_container">
+                                
+                                <div class="check_field_container"><input type="radio" name="gender" id="female"><label for="female">FEMALE</label></div>
+                            </div>
+                            <span class="error_msg" id="gender_e">
+                               	Error Message - Content to be provided
+                            </span>
+                         </div>
+                    </div>
+                                    
+                                     <div class="form_group">
+                    	<div class="large_field_container">
+                        	<div class="form_label_container">
+                            	<label class="form_label">*Address:</label>
+                            </div>
+                            <div class="validation_field_container">
+                                	<input type="text" id="address" class="form_control" onKeyUp="validateAddress()">
+                                     <span class="error_msg" id="address_e">
+                                    	Error Message - Content to be provided
+                                    </span>
+                                </div>
+                        </div>
+                    </div>
+                    
+                   					 <div class="form_group">
+                    	<div class="large_field_container">
+                        	<div class="form_label_container">
+                            	<label class="form_label">Address 2:</label>
+                            </div>
+                            <input type="text" class="form_control">
+                        </div>
+                    </div>
+                    
+                    				<div class="form_group">
+                    	<div class="large_field_container">
+                        	<div class="form_label_container">
+                            	<label class="form_label">*City:</label>
+                            </div>
+                            <div class="validation_field_container">
+                                	<input type="text" id="city" class="form_control" onKeyUp="validateCity()">
+                                     <span class="error_msg" id="city_e">
+                                    	Error Message - Content to be provided
+                                    </span>
+                                </div>
+                        </div>
+                    </div>
+                    
+                    				<div class="form_group">
+                    	<div class="small_field_container">
+                        	<div class="form_label_container">
+                            	<label class="form_label">*State:</label>
+                            </div>
+                            <div class="selectBoxContainer">
+                                <select class="chosen-select">
+                                    <option>CA</option>
+                                </select>
+                            </div>
+                        </div>
+                        
+                        <div class="small_field_container">
+                        	<div class="form_label_container">
+                            	<label class="form_label">*ZIP:</label>
+                            </div>
+                            <div class="validation_field_container">
+                                	<input type="text" id="zip" class="form_control" onKeyUp="validateZip()">
+                                     <span class="error_msg" id="zip_e">
+                                    	Error Message - Content to be provided
+                                    </span>
+                                </div>
+                        </div>
+                    </div>
+                                </div>
+                                
+                                <div class="individual_form" id="beneficiaryTrust">
+                                	<div class="form_group">
+                                    	<div class="medium_field_container">
+                                    		<label class="form_label">*FIRST NAME:</label>
+                                            <input type="text" class="form_control" >
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    <div class="form_group">
+                                    	<div class="medium_field_container">
+                                    		<label class="form_label">*Date of Trust:</label>
+                                            <div class="datepicker_container">
+        		<input type="text" class="form_control datepicker"  data-beatpicker="true" data-beatpicker-module="today,clear" data-beatpicker-format="['MM','DD','YYYY'],separator:'/'" data-beatpicker-id="datepicker1">
+                <span class="datepicker_icon show-picker"></span>
+            </div>
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    
+                                    
+                                    
+                                </div>
+                     		    <div class="modal_footer_btns">
+                                <div class="btns_container">
+                                <a href="#" class="btn btn_secondary btn_small" onClick="Custombox.close();">Cancel</a>
+                                <a href="#" class="btn btn_primary btn_small">Save</a></div>
+                        </div>
+                            </div>
+                           
+                        
+                        
+                         <div class="clear_both"></div>
+                    </div>
+
+<script type="text/javascript" src="jquery/jquery-1.11.2.min.js"></script>
+<script type="text/javascript" src="jquery/icheck.min.js"></script>
+<script type="text/javascript" src="jquery/jquery.tooltipster.min.js"></script>
+<script type="text/javascript" src="jquery/ion.rangeSlider.min.js"></script>
+<script type="text/javascript" src="jquery/jquery.responsiveTabs.min.js"></script>
+<script type="text/javascript" src="jquery/jquery.easydropdown.min.js"></script>
+<script type="text/javascript" src="jquery/jquery.akordeon.js"></script>
+<script type="text/javascript" src="jquery/BeatPicker.min.js"></script>
+<script type="text/javascript" src="jquery/legacy.js"></script>
+<script type="text/javascript" src="jquery/custombox.js"></script>
+<script type="text/javascript" src="jquery/menu.js"></script>
+<script type="text/javascript" src="jquery/tab_content_repace.js"></script>
+<!--[if (gte IE 6)&(lte IE 8)]>
+  <script type="text/javascript" src="jquery/selectivizr-min.js"></script>
+  <noscript><link rel="stylesheet" href="[fallback css]" /></noscript>
+<![endif]-->
+<script>
+$(document).ready(function(){
+	 vtabsPostion();
+	 $('#radioIndividual').on('ifClicked', function(){
+			 	$('#beneficiaryIndividual').slideDown();
+				$('#beneficiaryTrust').slideUp();
+			});
+			$('#radioTrust').on('ifClicked', function(){
+			 	$('#beneficiaryTrust').slideDown();
+				$('#beneficiaryIndividual').slideUp();
+			});
+	 $('#showAddBenefiresModal').on('click', function ( e ) {
+            Custombox.open({
+                target: '#addBenefiresModal',
+                effect: 'fadein',
+				width:740,
+				position:"center,center"
+            });
+            e.preventDefault();
+        });
+	 $('#edit_coverages_amount').on('click', function ( e ) {
+            Custombox.open({
+                target: '#editcoverages_modal',
+                effect: 'fadein',
+				width:400
+            });
+            e.preventDefault();
+        });
+		
+	$('#editbeneficiaries').on('click', function ( e ) {
+            Custombox.open({
+                target: '#editbenifirespop',
+                effect: 'fadein',
+				width:740,
+				/*open:   function () {
+					alert('open');
+				} */
+            });
+            e.preventDefault();
+        });
+		
+		
+		
+  $('input').iCheck({
+		checkboxClass: 'icheckbox_square-blue',
+		radioClass: 'iradio_square-blue'
+	  });
+	$('#buttons').akordeon();
+	 $(function(){
+			var $selects = $('.chosen-select');
+								
+			$selects.easyDropDown({
+				cutOff: 7,
+				wrapperClass: 'cust_dropdown',
+			
+			});
+		});
+	   $('#horizontalTab').responsiveTabs({
+                active: 1
+            });
+	  $('.tooltip').tooltipster({
+		  maxWidth:300,
+		  });
+	
+	$("#range_37").ionRangeSlider({
+		type: "double",
+		min: 0,
+		max: 100,
+		from: 30,
+		to: 70,
+		from_fixed: true
+	});
+	$('.show-picker').click(function(e){
+			e.stopPropagation();
+			datepicker1.show();
+		});
+	$('.open_modal').on('click', function ( e ) {
+            Custombox.open({
+                target: '#modal',
+                effect: 'fadein'
+            });
+            e.preventDefault();
+        });
+	
+	});
+	
+	function updateCoverages(yc,sc,cc,yourCoverage,spouseCoverage,childrenCoverage){
+		var YC = $('#'+yc).val();
+		var SC = $('#'+sc).val();
+		var CC = $('#'+cc).val();
+		//alert(YC);
+		$('#'+yourCoverage).text(YC);
+		$('#'+spouseCoverage).text(SC);
+		$('#'+childrenCoverage).text(CC);
+		Custombox.close();
+		
+	}
+function editbenifires(pbname,pbrel,pbdestribution,pbamount,pop_name,pop_relation,pop_des,pop_amount){
+		//alert();
+		var pname = $('#'+pbname).text();
+		var prelation = $('#'+pbrel).text();
+		var pdes = $('#'+pbdestribution).text();
+		var pamount = $('#'+pbamount).text();
+		
+		$('#'+pop_name).find('input').val(pname.trim());
+		$('#'+pop_relation).find('input').val(prelation.trim());
+		$('#'+pop_des).find('input').val(pdes.trim());
+		$('#'+pop_amount).find('input').val(pamount.trim());
+		
+		
+		}
+function updateBenifires(pbname,pbrel,pbdestribution,pbamount,pop_name,pop_relation,pop_des,pop_amount){
+		var pname = $('#'+pop_name).find('input').val();
+		var prelation = $('#'+pop_relation).find('input').val();
+		var pdes = $('#'+pop_des).find('input').val();
+		var pamount = $('#'+pop_amount).val();
+		
+		$('#'+pbname).text(pname);
+		$('#'+pbrel).text(prelation);
+		$('#'+pbdestribution).text(pdes);
+		$('#'+pbamount).text(pamount);
+		Custombox.close();
+		
+	}	
+</script>
+
+</body>
+</html>

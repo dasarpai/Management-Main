@@ -1,0 +1,31 @@
+Sl. NO,Issue ID,Priority,Subject,Status
+1,9774,P1,P1-County of Sacramento-Change Medical Effective Date,Closed
+2,12469,P1,Handling Closed Status from Prudential (Decision File),Closed
+3,13502,P1,p1/COS Active/ Traci Mar/ASAP,Closed
+4,13540,P1,P1/Banning USD/Add EOI Report Notification Due: 8-21-15,Closed
+5,13541,P1,P1/Murrieta Valley USD/Cease EOI Report Notifications Due: 8-21-15,Closed
+6,13542,P1,P1/Snowline USD/Add EOI Report Notifications Due: 8-21-15,Closed
+7,13544,P1,P1/Peralta CCD/Re-Create Pending New Hire Enrollments Due: 8-24-15,Closed
+8,9772,P2,Monthly Recurring Audit: Verify Dependent Medical and Dependent Rx Enrollments,Dev
+9,12846,P2,P2/ Foothill DeAnza/ VSP Test File with Addresses Merged,Dev
+10,13507,P2,P2/ Contra Costa JPA/  VSP Dep Tracking/ Effecitve 1/1/16/ Due Date 8.14.15,Dev
+11,13534,P3,P3 / City of Redondo Beach / Adding Dental & Vision Plans / 08.26.15,Dev
+12,13355,P1,All Clients / After Commit Tasks - OE 7/1/2015,Dev-Pending Clarification
+13,13495,P2,P2/ Saugus USD/ Contact Info Not Saving,Dev-Pending Clarification
+14,8335,P2,KCARES Electronic Clients Incoming File Load - Conejo USD,Hold
+15,8336,P2,KCARES Electronic Clients Incoming File Load - Clovis USD,Hold
+16,8296,P3,KCARES Electronic Clients Incoming File Load - Torrance USD,Hold
+17,8337,P3,KCARES Electronic Clients Incoming File Load - FOOTHILL DE ANZA COLLEGE,Hold
+18,13546,P2,"P2- Alum Rock, EE - Sungail, Jaki - Unable to update Vision",New
+19,13524,P1,"*P2*/ Sacramento City USD / Lindhl, Ruth / 3685/ Error over lapping Medical plan Due 8/17/2015",Prod
+20,13549,P1,P1 / San Luis Obispo CCD / Duplicate Employer Created / 8.27.15,Prod
+21,13550,P1,P1/County of Sacramento-Active/Term Date Correction Due: 8-28-15,Prod
+22,13551,P1,P1/Banning USD/Generate New Hire Enrollment Due: 8-28-15,Prod
+23,13552,P1,P1/County of Sacramento-Active/Reinstate FMLA Medica/Dental Due: 8-28-15,Prod
+24,13530,P2,p2/Oceanside/ update division/8.27.15,Prod
+25,13545,P2,Xmtl: Big Bear Fire Authority - VSP Direct,Prod
+26,13553,P2,P2/Mt San Jacinto CCD/Term Date Correction Due: 8-31-15,Prod
+27,13554,P2,P2/Oceanside USD/Reinstate Dental Coverage Due: 8-31-15,Prod
+28,13461,P1,P1/ Saugus USD/ VSP COA Implementation/ Due Date 8.14.15,QA-Passed
+29,13555,P1,P1/Xmtl: Peralta UHC 834 format missing Relationship mapping,QA-Ready
+30,13387,P1,Xmtl: City of Livingston/Anthem Blue Cross replacing UHC eff 7.1.2015,QA-Started

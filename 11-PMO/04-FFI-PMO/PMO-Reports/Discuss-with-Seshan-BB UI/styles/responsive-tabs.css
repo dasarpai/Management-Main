@@ -1,0 +1,162 @@
+
+.r-tabs {
+	position: relative;
+	float:left;
+	width:100%;
+
+
+}
+
+/* Tab element */
+.r-tabs .r-tabs-nav .r-tabs-tab {
+	position: relative;
+	float:left;
+}
+.r-tabs-nav{
+	width:100%;
+	float:left;
+	}
+
+/* Tab anchor */
+.r-tabs .r-tabs-nav .r-tabs-anchor {
+	display: inline-block;
+	padding: 10px 20px;
+	float:left;
+	text-decoration: none;
+	font-size: 14px;
+	color: #fff;
+	font-weight:400;
+	color:#606060;
+	border:1px solid #d8d8d8;
+	float:left;
+	margin-top:30px;
+	border-bottom:none;
+	margin-left:-1px;
+	font-size:18px;
+
+}
+.r-tabs .r-tabs-nav .r-tabs-state-disabled {
+	opacity: 0.5;
+}
+
+/* Active state tab anchor */
+.r-tabs .r-tabs-nav .r-tabs-state-active .r-tabs-anchor {
+	color: #00c5ad;
+	font-weight:600;
+	color:#606060;
+	padding-top:24px;
+	margin-top:16px;
+	background-color: white;
+}
+
+/* Tab panel */
+.r-tabs .r-tabs-panel {
+	background-color: white;
+
+	
+
+	
+
+}
+.r-tabs-nav li:first-child{
+	margin-left:30px;
+	}
+
+/* Accordion anchor */
+.r-tabs .r-tabs-accordion-title .r-tabs-anchor {
+	display: block;
+	padding: 10px;
+    background:#f7f7f7;
+	font-size: 14px;
+	color:#00687f;
+	width:100%;
+	float:left;
+	border:1px solid #d8d8d8;
+
+}
+
+/* Active accordion anchor */
+.r-tabs .r-tabs-accordion-title.r-tabs-state-active .r-tabs-anchor {
+	width:100%;
+	float:left;
+	background:#00687f;
+	color:#fff;
+	
+}
+
+/* Disabled accordion button */
+.r-tabs .r-tabs-accordion-title.r-tabs-state-disabled {
+	opacity: 0.5;
+}
+
+
+
+
+.r-tabs .r-tabs-nav {
+    margin: 0;
+    padding: 0;
+}
+
+.r-tabs .r-tabs-tab {
+    display: inline-block;
+    margin: 0;
+    list-style: none;
+}
+
+.r-tabs .r-tabs-panel {
+    border-top: 1px solid #d8d8d8;
+    box-sizing: border-box;
+    display: none;
+    float: left;
+    padding: 15px;
+    width: 100%;
+	margin-top:-1px;
+}
+
+.r-tabs .r-tabs-accordion-title {
+    display: none;
+}
+
+.r-tabs .r-tabs-panel.r-tabs-state-active {
+    display: block;
+}
+
+/* Accordion responsive breakpoint */
+@media only screen and (max-width: 767px) {
+    .r-tabs .r-tabs-nav {
+        display: none;
+    }
+
+    .r-tabs .r-tabs-accordion-title {
+        display: block;
+    }
+	.r-tabs .r-tabs-panel.r-tabs-state-active {
+    border:1px solid #00687f;
+	padding:0 10px;
+	}
+	.r-tabs .r-tabs-accordion-title.r-tabs-state-active .r-tabs-anchor{
+		border:1px solid #00687f;
+		}
+	.r-tabs-state-active{
+		position:relative;
+		}
+	.r-tabs-accordion-title{
+		float:left;
+		width:100%;
+		}
+	/*.r-tabs-accordion-title a:before{
+		content:'▼';
+		color:#00687f;
+		position:absolute;
+		top:10px;
+		right:10px;
+		}
+	.r-tabs-state-active a:before{
+		content:'▲';
+		color:#fff;
+		position:absolute;
+		top:10px;
+		right:10px;
+		}*/
+	
+}

@@ -1,0 +1,35 @@
+sl.no,id ,priority,subject,status
+1,13429,P1,P1/County of Sacramento/Change Vision Effective Date Due: 7-2-15,Closed
+2,13393,P1,P1/ABC USD/MetLife Dental 834 5010 transmittal failed/ASAP,Closed
+3,13418,P1,P1/County of Sacramento/Reinstate Medical Plan Due: 6-30-15,Closed
+4,13388,P1,P1 / Ventura CCCD / Reinstate bundled vision / 6.25.2015,Closed
+5,13423,P2,P2/Ventura CCD/Reinstate Bundled Vision Benefit Due: 7-2-15,Closed
+6,13430,P2,P2/Avanti Hospital/Remove Incorrect Record Due: 7-2-15,Closed
+7,13421,P2,"Peralta Community College District - COIL, PAULA - Remove Termination Date",Closed
+8,13332,P2,P2/Elk Grove USD/Correct Benefit Term Date Due: 6-8-15,Closed
+9,13323,P2,P2/Belmont-Redwood Shores/Correct Kaiser Effective Date/End Date Due: 6-4-15,Closed
+10,13364,P2,P2/Peralta CCD/Bundled Vision Cancelled Due: 6-19-15,Closed
+11,13372,P2,P2/Redlands USD/Reinstate Dental Due: 6-22-15,Closed
+12,13404,P2,P2/County of Sacramento/Remove Dependents on Vision Due: 6-29-15,Closed
+13,13419,P2,P2/Banning USD/Change Benefit Term Date-Due: 7-1-15,Closed
+14,13366,P2,P2/ Palo Verde USD/ Walters/ Dep not showing on summary page,Closed
+15,13365,P2,P2/ Desert Sands USD/ Whitlinger Dep Correction,Closed
+16,13367,P2,P2/ Desert Sands/ Renee Iniquez/ Overlapping Coverage/ Dental,Closed
+17,13400,P2,P2/Perris UHSD/Reinstate Medical Plan Due: 6-29-15,Closed
+18,13383,P2,P2/ Desert Sands USD/ Tracy Workman/ Overlapping Coverage/ Dental,Closed
+19,13428,P1,P1/Elk Grove USD/Carrier Enrollment Census Slow Generating Report,Dev
+20,13425,P1,p1/Val Verde/ Fred Workman-no rate on vbb/asap,Dev
+21,13402,P1,P1/ San Mateo JPA/ VSP Dep Tracking/ Due Date 7/29,Dev
+22,13424,P2,P2/ Conejo Valley USD/Overage Dependents Termed/ due Date 7.7.15,Dev
+23,13406,P1,P1 / Mt San Jacinto - Script MHN Enrollments from Kaiser / 7/2/15,Dev-Pending Clarification
+24,13382,P2,p2/Palm Springs USD/ kaiser and MHN enrollments/asap,Dev-Pending Clarification
+25,8335,P2,KCARES Electronic Clients Incoming File Load - Conejo USD,Hold
+26,8336,P2,KCARES Electronic Clients Incoming File Load - Clovis USD,Hold
+27,8337,P3,KCARES Electronic Clients Incoming File Load - FOOTHILL DE ANZA COLLEGE,Hold
+28,13415,P2,P2 / Snowline VTL - Edit Cov Amounts / 7/2/15,New
+29,13338,P1,P1 / Coachella Valley Water District - Script Enrollments / 6/11/15,Prod
+30,13417,P1,*P1*/Lompoc Unified School District/ Francisco Sanchez/ SS#0012/ Data Entry Error/ Due 6.30.15,Prod
+31,13411,P1,p1/Chabot las Positas/update June and July bill for VSP/asap,Prod
+32,13373,P2,P2/Ventura CCD/Classification Effective Date Due: 6-23-15,Prod
+33,13387,P1,Xmtl: City of Livingston/Anthem Blue Cross replacing UHC eff 7.1.2015,Prod-Ready
+34,12469,P1,Handling Closed Status from Prudential (Decision File),QA-Ready

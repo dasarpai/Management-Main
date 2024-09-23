@@ -1,0 +1,465 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>BenefitBridge::Home</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="styles/main.css" type="text/css" rel="stylesheet" >
+<link href="styles/jquery.mCustomScrollbar.css" type="text/css" rel="stylesheet" >
+<link href="styles/stylesheet.css" type="text/css" rel="stylesheet">
+<link href="styles/iCheck.css" type="text/css" rel="stylesheet">
+<link href="styles/tooltipster.css" type="text/css" rel="stylesheet">
+<link href="styles/ion.rangeSlider.skinNice.css" type="text/css" rel="stylesheet">
+<link href="styles/responsive-tabs.css" type="text/css" rel="stylesheet">
+<link href="styles/easydropdown.css" type="text/css" rel="stylesheet" >
+<link href="styles/jquery.akordeon.css" type="text/css" rel="stylesheet" >
+<link href="styles/BeatPicker.css" type="text/css" rel="stylesheet" >
+<link href="styles/custombox.css" type="text/css" rel="stylesheet" >
+<link href="styles/responsive.css" type="text/css" rel="stylesheet" >
+
+
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700,300' rel='stylesheet' type='text/css'>
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <!--[if gte IE 8]>
+    	<link href="styles/ie8.css" type="text/css" rel="stylesheet" />
+    <![endif]-->
+    <!--[if lt IE 9]>
+   		<link href="styles/ie9.css" type="text/css" rel="stylesheet" />
+	<![endif]-->
+      <script> 
+		if (/*@cc_on!@*/false) { 
+			var headHTML = document.getElementsByTagName('head')[0].innerHTML; 
+			headHTML    += '<link type="text/css" rel="stylesheet" href="styles/ie10.css">'; 
+			document.getElementsByTagName('head')[0].innerHTML = headHTML; 
+		} 
+	</script>
+</head>
+
+<body class="pattern_bg">
+<div class="topbar">
+	<div class="container">
+        <ul class="top_navbar">
+             <li><a href="#">(800) 814-1862</a></li>
+             <li>|</li>
+             <li><a href="#">Help</a></li>
+             <li>|</li>
+             <li class="top_nav_search_btn">
+             	<div class="search_input_container">
+                	<input type="text" class="top_search_filed" placeholder="Search"> 
+                    <a href="#" class="top_search_btn"></a>
+                </div>
+             	<a href="#" id="showSearchBox"><img src="images/icons/serach.png"></a>
+            </li>
+        </ul>
+    </div>
+</div>
+<div class="header_bar">
+	<div class="container">
+    	<div class="logo"><a href="main.html"><img src="images/logo.png"></a></div>
+        <div class="menu_container">
+        <div class="primary_nav">
+        		<a href="#" class="mobile_menu">
+                	<span class="bar_icon"></span>
+                    <span class="bar_icon"></span>
+                    <span class="bar_icon"></span>
+                </a>
+                 <ul class="toggle_menu">
+                    <li><a href="listpackage.html">My Benefits</a></li>
+                    <li><a href="all_plans.html">All Plans</a></li>
+                    <li><a href="messagecenter.html">Message Center</a></li>
+                    <li><a href="resourcecenter.html">Resource Center <span class="caret"></span></a>
+                    	<!--<ul class="submenu">
+                        	<i class="submenu_caret"></i>
+                        	<li><a href="#">Sub Menu 1</a></li>
+                            <li><a href="#">Sub Menu 1</a></li>
+                            <li><a href="#">Sub Menu 1</a></li>
+                            <li><a href="#">Sub Menu 1</a></li>
+                        </ul>-->
+                    </li>
+                </ul>
+                
+            </div>
+          <div class="user_account_container">
+            	<a href="index.html" id="logout_fun"><i class="user_icon"></i>John Doe</a>
+            </div>
+           <div class="mobile_user_acct">
+            	<a href="#mobile_menu" class="usermenu_icon"></a>
+                <ul class="user_acc_menu" id="mobile_menu">
+                	<li><a href="#">John Doe</a></li>
+                    <li><a href="index.html">Logout</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="bannerv2">
+	<div class="alert">
+        <div class="container"><div class="alert_msg_content">This is an Alert Message that Says: <b>“This is an Alert Message on your Website.  This is only an alert”</b>  </div><a href="#">View message</a><a href="#" class="close"></a>
+        </div> 
+    </div>
+	<div class="container">
+    	<div class="">
+        	<div class="">
+        		<div class="hero_header_containerv2">
+                	<h1 class="hero_header_titlev2">Open Enrollment is currently closed.</h1>
+                    <span class="dividerv2"></span>
+                    <h4 class="hero_header_sub_titlev2">Open enrollment will begin in: </h4>
+                    <div class="circle">
+                    <span class="counter_textv2">41 </span>
+                     <div class="counter_textv3">Days
+                </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="white_bg benefit_options_container">
+	<div class="container">
+    	<div class="row">
+        	<div class="col-md-3 col-sm-6">
+            	<a href="#" id="show_life_event_modal">
+            	<div class="benefit_option">
+                	<div class="icon_container">
+                    	<div class="make_change_icon"></div>
+                    </div>
+                    <div class="card_option_title">
+                    	<h4>Make Changes <br>to My Benefits </h4>
+                    </div>
+                </div>
+            	</a>
+            </div>
+            <div class="col-md-3 col-sm-6">
+            	<a href="#">
+            	<div class="benefit_option">
+                	<div class="icon_container">
+                    	<div class="change_beneficiaries_icon"></div>
+                    </div>
+                    <div class="card_option_title">
+                    	<h4>Change <br>Beneficiaries  </h4>
+                    </div>
+                </div>
+            </a>
+            </div>
+            
+            <div class="col-md-3 col-sm-6">
+            <a href="dependents.html">
+            	<div class="benefit_option">
+                	<div class="icon_container">
+                    	<div class="add_or_remove_dependents_icon"></div>
+                    </div>
+                    <div class="card_option_title">
+                    	<h4>Add or Remove <br>Dependents  </h4>
+                    </div>
+                </div>
+                </a>
+            </div>
+            
+            <div class="col-md-3 col-sm-6">
+            <a href="personalinfo.html">
+            	<div class="benefit_option">
+                	<div class="icon_container">
+                    	<div class="update_my_account_info_icon"></div>
+                    </div>
+                    <div class="card_option_title">
+                    	<h4>Update My <br>Account Info </h4>
+                    </div>
+                </div>
+             </a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="my_benefits_container">
+        	<div class="container">
+            	<h1>LEARN ABOUT MY BENEFITS</h1>
+                <ul class="category_list">
+        	<li>
+            	<span class="icon_place">
+                	<span class="health_icon"></span>
+                </span>
+                <h5>Health</h5>
+                <p>KP CA Bronze <br>5000/60/Pediatric</p>
+            </li>
+            <li>
+            	<span class="icon_place">
+                	<span class="dental_icon"></span>
+                </span>
+                <h5>Dental</h5>
+                <p>Delta Dental <br>Family Premium</p>
+            </li>
+            <li class="no_border">
+            	<span class="icon_place">
+                	<span class="vision_icon"></span>
+                </span>
+                <h5>Vision</h5>
+                <p>VSP Standard</p>
+            </li>
+            <li>
+            	<span class="icon_place">
+                	<span class="life_icon"></span>
+                </span>
+                <h5>Life</h5>
+                <p>Metlife North <br>America...</p>
+            </li>
+            <li>
+            	<span class="icon_place">
+                	<span class="short_term_disability_icon"></span>
+                </span>
+                <h5>Short Term <br>Disability</h5>
+            </li>
+            
+            <li>
+            	<span class="icon_place">
+                	<span class="long_term_disability_icon"></span>
+                </span>
+                <h5>Long Term <br>Disability</h5>
+            </li>
+        </ul>
+            </div>
+        </div>
+        
+        <div id="life_event_modal" class="waive_coverages_modal">
+                    	
+                    	<div class="">
+                            <a href="#" class="modal_close" onClick="Custombox.close();"></a>
+                            <div class="life_event_modal_wrapper">
+                            	<h1 class="life_event_modal_header">SPECIFY YOUR LIFE EVENT </h1>
+                                <div class="life_event_modal_section">
+                                	<h5><span>1. Which life event applies to your situation?</span> <span class="tooltip_help event_applies_tooltip" title='<div class="life_event_situation_tooltip_wrapper"> <div class="life_event_situation_row"> <div class="life_event_situation_col1"> <h5>Birth/Adoption</h5> <p>Content goes here, Content goes here, Content goes here, Content goes here, Content goes here, </p></div><div class="life_event_situation_col2"> <h5>Spouse Gain/Loss of Coverage</h5> <p>Content goes here, Content goes here, Content goes here, Content goes here, Content goes here, </p></div><div class="life_event_situation_col3"> <h5>IRS Dependent Status</h5> <p>Content goes here, Content goes here, Content goes here, Content goes here, Content goes here, </p></div></div><div class="life_event_situation_row"> <div class="life_event_situation_col1"> <h5>Marriage</h5> <p>Content goes here, Content goes here, Content goes here, Content goes here, Content goes here, </p></div><div class="life_event_situation_col2"> <h5>Reduction in Hours</h5> <p>Content goes here, Content goes here, Content goes here, Content goes here, Content goes here, </p></div><div class="life_event_situation_col3"> <h5>Promotion</h5> <p>Content goes here, Content goes here, Content goes here, Content goes here, Content goes here, </p></div></div><div class="life_event_situation_row"> <div class="life_event_situation_col1"> <h5>Domestic Partnership</h5> <p>Content goes here, Content goes here, Content goes here, Content goes here, Content goes here, </p></div><div class="life_event_situation_col2"> <h5>Reduction in Hours</h5> <p>Content goes here, Content goes here, Content goes here, Content goes here, Content goes here, </p></div><div class="life_event_situation_col3"> <h5>Retiree - District Pay Ends</h5> <p>Content goes here, Content goes here, Content goes here, Content goes here, Content goes here, </p></div></div><div class="life_event_situation_row"> <div class="life_event_situation_col1"> <h5>Death</h5> <p>Content goes here, Content goes here, Content goes here, Content goes here, Content goes here, </p></div><div class="life_event_situation_col2"> <h5>Dependent Loss of Coverage</h5> <p>Content goes here, Content goes here, Content goes here, Content goes here, Content goes here, </p></div><div class="life_event_situation_col3"> <h5>Other</h5> <p>Content goes here, Content goes here, Content goes here, Content goes here, Content goes here, </p></div></div><div class="life_event_situation_row"> <div class="life_event_situation_col1"> <h5>Ineligible Dependent</h5> <p>Content goes here, Content goes here, Content goes here, Content goes here, Content goes here, </p></div><div class="life_event_situation_col2"> <h5>New Hire</h5> <p>Content goes here, Content goes here, Content goes here, Content goes here, Content goes here, </p></div></div></div>'></span></h5>
+                                    <div class="life_event_modal_form">
+                                    	<div class="full_width_row">
+                                        	<div class="col-md-4">
+                                            	<div class="check_field_container"><input type="radio" name="radio1"><label class="life_event_radio_label">Birth/Adoption</label></div>
+                                            </div>
+                                            <div class="col-md-4">
+                                            	<div class="check_field_container"><input type="radio" name="radio1"><label class="life_event_radio_label">Spouse Gain/Loss of Coverage</label></div>
+                                            </div>
+                                            <div class="col-md-4">
+                                            	<div class="check_field_container"><input type="radio" name="radio1"><label class="life_event_radio_label">IRS Dependent Status</label></div>
+                                            </div>
+                                            <div class="col-md-4">
+                                            	<div class="check_field_container"><input type="radio" name="radio1"><label class="life_event_radio_label">Marriage</label></div>
+                                            </div>
+                                            <div class="col-md-4">
+                                            	<div class="check_field_container"><input type="radio" name="radio1"><label class="life_event_radio_label">Reduction in Hours</label></div>
+                                            </div>
+                                            <div class="col-md-4">
+                                            	<div class="check_field_container"><input type="radio" name="radio1"><label class="life_event_radio_label">Promotion</label></div>
+                                            </div>
+                                            <div class="col-md-4">
+                                            	<div class="check_field_container"><input type="radio" name="radio1"><label class="life_event_radio_label">Domestic Partnership</label></div>
+                                            </div>
+                                            <div class="col-md-4">
+                                            	<div class="check_field_container"><input type="radio" name="radio1"><label class="life_event_radio_label">Reduction in Hours</label></div>
+                                            </div>
+                                            <div class="col-md-4">
+                                            	<div class="check_field_container"><input type="radio" name="radio1"><label class="life_event_radio_label">Retiree - District Pay Ends</label></div>
+                                            </div>
+                                            <div class="col-md-4">
+                                            	<div class="check_field_container"><input type="radio" name="radio1"><label class="life_event_radio_label">Death</label></div>
+                                            </div>
+                                            <div class="col-md-4">
+                                            	<div class="check_field_container"><input type="radio" name="radio1"><label class="life_event_radio_label">Dependent Loss of Coverage</label></div>
+                                            </div>                                            
+                                            <div class="col-md-4">
+                                            	<div class="check_field_container"><input type="radio" name="radio1"><label class="life_event_radio_label">Other</label></div>
+                                            </div>
+                                            <div class="col-md-4">
+                                            	<div class="check_field_container"><input type="radio" name="radio1"><label class="life_event_radio_label">Ineligible Dependent</label></div>
+                                            </div>
+                                            <div class="col-md-4">
+                                            	<div class="check_field_container"><input type="radio" name="radio1"><label class="life_event_radio_label">New Hire</label></div>
+                                            </div>
+                                            
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                                <div class="life_event_modal_section">
+                                	<h5>2. What was the date of your life event?</h5>
+                                    <div class="life_event_modal_form">
+                                    	<div class="full_width_row">
+                                        	<div class="col-md-3">
+                                            	<div class="datepicker_container">
+        		<input type="text" class="form_control datepicker"  data-beatpicker="true" data-beatpicker-module="today,clear" data-beatpicker-format="['MM','DD','YYYY'],separator:'/'" data-beatpicker-id="datepicker1">
+                <span class="datepicker_icon show-picker"></span>
+            </div>
+                                            </div>
+                                           
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                                <div class="life_event_modal_section">
+                                	<h5>3. Please describe your event?</h5>
+                                    <div class="life_event_modal_form">
+                                    	<div class="full_width_row">
+                                        	<textarea class="life_event_textarea"></textarea>
+                                           
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                                
+                                <div class="life_event_modal_section">
+                                	<h5><span>4. Please provide documentation of your Life Event. (optional)</span> <span class="tooltip_help doc_life_event" title="<div class='life_event_small_tooltip'><p class='tooltext'>Acceptable file formats:<br>
+<strong>PDF, JPG, PNG, TIFF</strong></p></div>"></span></h5>
+                                    <div class="life_event_modal_form">
+                                    	<div class="full_width_row">
+                                        	<a href="#" class="icon_btn"><i class="upload_icon"></i>Upload Document   </a>
+                                           
+                                        </div>
+                                    </div>
+                                </div>
+                                <div style="clear:both"></div>
+                            </div>
+                            <div class="life_event_modal_footer">
+                            	<div class="life_event_modal_wrapper">
+                                	<a href="listpackage.html" class="btn btn_primary">Proceed</a>
+                                </div>
+                            </div>
+                            	
+                                
+                                
+                            
+                    		
+                        </div>
+                        <div style="clear:both"></div>
+                    </div>
+<div class="footer">
+			<div class="container">
+                <div class="row">
+                    <div class="col-sm-6">
+                        <p class="copy_right">Copyright © 2014 Keenan & Associates • CA Insurance License No. 0451271 </p>
+                        <ul class="bottom_nav">
+                            <li><a href="legalnotice.html">Legal Notices</a></li>  <li>|</li>  <li><a href="privacy.html">Privacy</a></li>  <li>|</li>  <li><a href="#">Sitemap</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-sm-6">
+                        <div class="footer_logo">
+                            <img src="images/benefit_bridge_logo.png" >
+                        </div>
+                    </div>
+                </div>
+    		</div>
+		</div>
+
+<script type="text/javascript" src="jquery/jquery-1.11.2.min.js"></script>
+<script type="text/javascript" src="jquery/icheck.min.js"></script>
+<script type="text/javascript" src="jquery/jquery.tooltipster.min.js"></script>
+<script type="text/javascript" src="jquery/ion.rangeSlider.min.js"></script>
+<script type="text/javascript" src="jquery/jquery.responsiveTabs.min.js"></script>
+<script type="text/javascript" src="jquery/jquery.easydropdown.min.js"></script>
+<script type="text/javascript" src="jquery/jquery.akordeon.js"></script>
+<script type="text/javascript" src="jquery/BeatPicker.min.js"></script>
+<script type="text/javascript" src="jquery/legacy.js"></script>
+<script type="text/javascript" src="jquery/custombox.js"></script>
+<script type="text/javascript" src="jquery/menu.js"></script>
+<script type="text/javascript" src="jquery/jquery.mCustomScrollbar.concat.min.js"></script>
+<!--[if (gte IE 6)&(lte IE 8)]>
+  <script type="text/javascript" src="jquery/selectivizr-min.js"></script>
+  <noscript><link rel="stylesheet" href="[fallback css]" /></noscript>
+<![endif]-->
+<script>
+$(document).ready(function(){
+  $('input').iCheck({
+		checkboxClass: 'icheckbox_square-blue',
+		radioClass: 'iradio_square-blue'
+	  });
+	$('#buttons').akordeon();
+	  $(function(){
+			var $selects = $('.chosen-select');
+								
+			$selects.easyDropDown({
+				cutOff: 7,
+				wrapperClass: 'cust_dropdown',
+			
+			});
+		});
+	   $('#horizontalTab').responsiveTabs({
+                active: 1
+            });
+	  $('.tooltip').tooltipster({
+		  maxWidth:300,
+		  });
+	  
+	
+	$("#range_37").ionRangeSlider({
+		type: "double",
+		min: 0,
+		max: 100,
+		from: 30,
+		to: 70,
+		from_fixed: true
+	});
+	$('.show-picker').click(function(e){
+			e.stopPropagation();
+			datepicker1.show();
+		});
+	$('.open_modal').on('click', function ( e ) {
+            Custombox.open({
+                target: '#modal',
+                effect: 'fadein'
+            });
+            e.preventDefault();
+        });
+	
+	});
+
+$(".life_event_situation_tooltip_wrapper").mCustomScrollbar({
+					theme:"rounded-dots",
+					scrollInertia:400
+				});			
+	$('#show_life_event_modal').on('click', function ( e ) {
+            Custombox.open({
+                target: '#life_event_modal',
+                effect: 'fadein',
+				width:932,
+				complete:function(){
+					loadtooltip()
+					}
+            });
+            e.preventDefault();
+        });	
+	function loadtooltip(){
+		
+		$('.doc_life_event').tooltipster({
+					  minWidth:300,
+					  position:'top',
+		              interactive:true,
+					   theme:'tooltipster-dark',
+					  contentAsHTML:true
+					  });
+				$('.event_applies_tooltip').tooltipster({
+					  minWidth:840,
+		              interactive:true,
+					  contentAsHTML:true,
+					  offsetX:-110,
+					 //autoClose:false,
+					  theme:'tooltipster_arrow_adjust',
+					   position:'bottom',
+					   positionTracker:true,
+					   functionReady:function() {
+						  $(".life_event_situation_tooltip_wrapper").mCustomScrollbar({
+								theme:"rounded-dots",
+								scrollInertia:400
+							});	
+						   }
+					   //offsetY:571
+					  
+					  });
+			
+			
+				  
+		}
+	
+</script>
+</body>
+</html>

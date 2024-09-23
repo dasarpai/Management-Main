@@ -1,0 +1,558 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>BenefitBridge::Beneficiaries</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="styles/main.css" type="text/css" rel="stylesheet" >
+<link href="styles/stylesheet.css" type="text/css" rel="stylesheet">
+
+<link href="styles/iCheck.css" type="text/css" rel="stylesheet">
+<link href="styles/tooltipster.css" type="text/css" rel="stylesheet">
+<link href="styles/ion.rangeSlider.skinNice.css" type="text/css" rel="stylesheet">
+<link href="styles/responsive-tabs.css" type="text/css" rel="stylesheet">
+<link href="styles/easydropdown.css" type="text/css" rel="stylesheet" >
+<link href="styles/jquery.akordeon.css" type="text/css" rel="stylesheet" >
+<link href="styles/BeatPicker.css" type="text/css" rel="stylesheet" >
+<link href="styles/custombox.css" type="text/css" rel="stylesheet" >
+<link href="styles/responsive.css" type="text/css" rel="stylesheet" >
+
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700,300' rel='stylesheet' type='text/css'>
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <!--[if gte IE 8]>
+    	<link href="styles/ie8.css" type="text/css" rel="stylesheet" />
+    <![endif]-->
+    <!--[if lt IE 9]>
+   		<link href="styles/ie9.css" type="text/css" rel="stylesheet" />
+	<![endif]-->
+</head>
+
+<body class="">
+<div class="topbar">
+	<div class="container">
+        <ul class="top_navbar">
+             <li><a href="#">(800) 814-1862</a></li>
+             <li>|</li>
+             <li><a href="#">Help</a></li>
+             <li>|</li>
+             <li class="top_nav_search_btn">
+             	<div class="search_input_container">
+                	<input type="text" class="top_search_filed" placeholder="Search"> 
+                    <a href="#" class="top_search_btn"></a>
+                </div>
+             	<a href="#" id="showSearchBox"><img src="images/icons/serach.png"></a>
+            </li>
+        </ul>
+    </div>
+</div>
+<div class="header_bar">
+	<div class="container">
+    	<div class="logo"><a href="main.html"><img src="images/logo.png"></a></div>
+        <div class="menu_container">
+        <div class="primary_nav">
+        		<a href="#" class="mobile_menu">
+                	<span class="bar_icon"></span>
+                    <span class="bar_icon"></span>
+                    <span class="bar_icon"></span>
+                </a>
+                 <ul class="toggle_menu">
+                    <li><a href="listpackage.html">My Benefits</a></li>
+                    <li><a href="all_plans.html">All Plans</a></li>
+                    <li><a href="messagecenter.html">Message Center</a></li>
+                    <li><a href="resourcecenter.html">Resource Center <span class="caret"></span></a>
+                    	<!--<ul class="submenu">
+                        	<i class="submenu_caret"></i>
+                        	<li><a href="#">Sub Menu 1</a></li>
+                            <li><a href="#">Sub Menu 1</a></li>
+                            <li><a href="#">Sub Menu 1</a></li>
+                            <li><a href="#">Sub Menu 1</a></li>
+                        </ul>-->
+                    </li>
+                </ul>
+                
+            </div>
+          <div class="user_account_container">
+            	<a href="index.html" id="logout_fun"><i class="user_icon"></i>John Doe</a>
+            </div>
+           <div class="mobile_user_acct">
+            	<a href="#mobile_menu" class="usermenu_icon"></a>
+                <ul class="user_acc_menu" id="mobile_menu">
+                	<li><a href="#">John Doe</a></li>
+                    <li><a href="index.html">Logout</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="sub_navbar pattern_bg">
+	<div class="container">
+    	<ul>
+        	<li><a href="#">Employee & Family </a></li>
+            <li>|</li>
+            <li> Benefit Selection</li>
+        </ul>
+    </div>
+</div>
+
+<div class="user_reg_container">
+	<div class="container">
+	<div class="">
+    	
+		<div class="">
+        	
+			<div class="user_profile_container" id="vtab2_content">
+            	<div class="page-header">
+                	<h1>Beneficiaries</h1>
+                </div>
+                
+               
+               <p class="alternative"><strong> Content goes here:</strong> content goes here, content goes here, content goes here, content goes here, content goes here, content goes here, content goes here, content goes here, content goes here, content goes here, content goes here, content goes here, content goes here, content goes here, content goes here, content goes here </p>
+  			   <div class="dependents_list" id="showmore_cnt" style="display:none;">
+	<ul class="round_list">
+    <li><i class="list_icon"></i>content goes here, content goes here, content goes here, content goes here, content goes here, content goes here, content goes here, content goes here, content goes here</li>
+    <li><i class="list_icon"></i>content goes here, content goes here, content goes here, content goes here, content goes here, content goes here, content goes here, content goes here, content goes here</li>
+    </ul>
+    </div>
+   			   <a href="#showmore_cnt" class="show_packages">Know more <img src="images/icons/down_arrow.png" border="0"></a>
+               
+               <div class="dependents_table_container">
+               		<a href="#" class="btn btn_primary btn_small btn_auto_width align_right" id="addBenefiresShow">Add Beneficiaries</a>
+                    <div class="dependents_table">
+                    	<table cellpadding="0" cellspacing="0" class="gray_table" style="margin-bottom:100px;">
+                            <tr>
+                                <th>First Name</th>
+                                <th>Relationship</th>
+                                <th>DOB</th>
+                                <th>Beneficiaries Type</th>
+                               <th> Options</th>
+                            </tr>
+                            <tr>
+                                <td>Joan</td>
+                                <td><label>Relationship</label><span class="dependent_responsive_table_content">N/A</span></td>
+                                <td><label>DOB</label><span class="dependent_responsive_table_content">4/4/1974</span></td>
+                                <td><label>Beneficiaries Type</label><span class="dependent_responsive_table_content">Trust</span></td>
+                               
+                                <td width="165">
+                                	<label>SSN</label>
+                                    <span class="dependent_responsive_table_content">
+                                    <select class="chosen-select" onChange="dependentPageChange(this.value)" id="dependentsPageChange">
+                                        <option>Select</option>
+                                        <option>Edit</option>
+                                        <option>Remove</option>
+                                    </select>
+                                    </span>
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+               </div>
+
+
+			</div>
+		</div>
+    </div>
+</div>
+</div>
+
+
+
+
+<div class="footer">
+			<div class="container">
+                <div class="row">
+                    <div class="col-sm-6">
+                        <p class="copy_right">Copyright © 2014 Keenan & Associates • CA Insurance License No. 0451271 </p>
+                        <ul class="bottom_nav">
+                            <li><a href="legalnotice.html">Legal Notices</a></li>  <li>|</li>  <li><a href="privacy.html">Privacy</a></li>  <li>|</li>  <li><a href="#">Sitemap</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-sm-6">
+                        <div class="footer_logo">
+                            <img src="images/benefit_bridge_logo.png" >
+                        </div>
+                    </div>
+                </div>
+    		</div>
+		</div>
+
+<div id="addBenefiresModal" class="addbenefires_modal" >
+                         <a href="#" class="modal_close" onClick="Custombox.close();"></a>
+                        <h4 class="modal_title">Beneficiary Details</h4>
+                            <input type="hidden" id="trustradio" value="1">
+                        	<div class="addbenefires_form_container">
+                            	<div class="addbenefires_type_container">
+                            	<div class="form_group">
+                                	<label class="form_label">Beneficiary Type:</label>
+                                    <div class="full_width_row">
+                                        <div class="check_field_container"><input type="radio" id="radioIndividual" value="1" checked name="type"><label class="addbenefires_type_label">Individual</label></div>
+                                        <div class="check_field_container"><input type="radio" id="radioTrust" value="2" name="type"><label class="addbenefires_type_label">Trust</label></div>
+                                    </div>
+                                </div>
+                                </div>
+                                
+                                <div class="individual_form" id="beneficiaryIndividual" style="display:block;">
+                                	<div class="form_group">
+                                    	<div class="medium_field_container">
+                                    		<label class="form_label">*FIRST NAME:</label>
+                                            <div class="validation_field_container">
+                                                <input type="text" id="firstName" class="form_control" onKeyUp="validateFirstName()">
+                                                 <span class="error_msg" id="firstName_e">Error Message - Content to be provided</span>
+                                            </div>
+                                        </div>
+                                        <div class="small_field_container">
+                                    		<label class="form_label">Middle Initial:</label>
+                                            <input type="text" class="form_control" >
+                                        </div>
+                                    </div>
+                                    
+                                    <div class="form_group">
+                                    	<div class="medium_field_container">
+                                    		<label class="form_label">*last NAME:</label>
+                                           <div class="validation_field_container">
+                                                <input type="text" id="lastName" class="form_control" onKeyUp="validateLastName()">
+                                                 <span class="error_msg" id="lastName_e">
+                                                    Error Message - Content to be provided
+                                                </span>
+                                            </div>
+                                        </div>
+                                        <div class="small_field_container">
+                                    		<label class="form_label">Suffix</label>
+                                            <input type="text" class="form_control" >
+                                        </div>
+                                    </div>
+                                    
+                                    <div class="form_group">
+                                    	<div class="full_width_row">
+                                    		<label class="form_label">*DATE OF BIRTH:</label>
+                                        </div>
+                                    	<div class="small_field_container">
+                                    		<select class="chosen-select" id="month">
+                                            	
+                                            </select>
+                                            
+                                        </div>
+                                        <div class="small_field_container">
+                                    		<select class="chosen-select" id="date">
+                                            	
+                                            </select>
+                                        </div>
+                                         <div class="small_field_container">
+                                    		<select class="chosen-select" id="year">
+                                            	
+                                            </select>
+                                        </div>
+                                    </div>
+                                    
+                                    <div class="form_group">
+                                    	<div class="medium_field_container">
+                                    		<label class="form_label">*Relation:</label>
+                                            <div class="selectBoxContainer">
+                                            <select class="chosen-select">
+                                            	<option>N/A</option>
+                                            </select>
+                                            </div>
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    <div class="form_group">
+                    	<div class="form_label_container">
+                            	<label class="form_label">*Gender:</label>
+                            </div>
+                         <div class="validation_field_container">  
+                            <div class="small_field_container">
+                                <div class="check_field_container"><input type="radio" name="gender" id="male"><label for="male">MALE</label></div>
+                            </div>
+                            <div class="small_field_container">
+                                
+                                <div class="check_field_container"><input type="radio" name="gender" id="female"><label for="female">FEMALE</label></div>
+                            </div>
+                            <span class="error_msg" id="gender_e">
+                               	Error Message - Content to be provided
+                            </span>
+                         </div>
+                    </div>
+                                    
+                                     <div class="form_group">
+                    	<div class="large_field_container">
+                        	<div class="form_label_container">
+                            	<label class="form_label">*Address:</label>
+                            </div>
+                            <div class="validation_field_container">
+                                	<input type="text" id="address" class="form_control" onKeyUp="validateAddress()">
+                                     <span class="error_msg" id="address_e">
+                                    	Error Message - Content to be provided
+                                    </span>
+                                </div>
+                        </div>
+                    </div>
+                    
+                   					 <div class="form_group">
+                    	<div class="large_field_container">
+                        	<div class="form_label_container">
+                            	<label class="form_label">Address 2:</label>
+                            </div>
+                            <input type="text" class="form_control">
+                        </div>
+                    </div>
+                    
+                    				<div class="form_group">
+                    	<div class="large_field_container">
+                        	<div class="form_label_container">
+                            	<label class="form_label">*City:</label>
+                            </div>
+                            <div class="validation_field_container">
+                                	<input type="text" id="city" class="form_control" onKeyUp="validateCity()">
+                                     <span class="error_msg" id="city_e">
+                                    	Error Message - Content to be provided
+                                    </span>
+                                </div>
+                        </div>
+                    </div>
+                    
+                    				<div class="form_group">
+                    	<div class="small_field_container">
+                        	<div class="form_label_container">
+                            	<label class="form_label">*State:</label>
+                            </div>
+                            <div class="selectBoxContainer">
+                                <select class="chosen-select">
+                                    <option>CA</option>
+                                </select>
+                            </div>
+                        </div>
+                        
+                        <div class="small_field_container">
+                        	<div class="form_label_container">
+                            	<label class="form_label">*ZIP:</label>
+                            </div>
+                            <div class="validation_field_container">
+                                	<input type="text" id="zip" class="form_control" onKeyUp="validateZip()">
+                                     <span class="error_msg" id="zip_e">
+                                    	Error Message - Content to be provided
+                                    </span>
+                                </div>
+                        </div>
+                    </div>
+                                </div>
+                                
+                                <div class="individual_form" id="beneficiaryTrust">
+                                	<div class="form_group">
+                                    	<div class="medium_field_container">
+                                    		<label class="form_label">*FIRST NAME:</label>
+                                            <input type="text" class="form_control" >
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    <div class="form_group">
+                                    	<div class="medium_field_container">
+                                    		<label class="form_label">*Date of Trust:</label>
+                                            <div class="datepicker_container">
+        		<input type="text" class="form_control datepicker"  data-beatpicker="true" data-beatpicker-module="today,clear" data-beatpicker-format="['MM','DD','YYYY'],separator:'/'" data-beatpicker-id="datepicker1">
+                <span class="datepicker_icon show-picker"></span>
+            </div>
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    
+                                    
+                                    
+                                </div>
+                     		    <div class="modal_footer_btns">
+                                <div class="btns_container">
+                                <a href="#" class="btn btn_secondary btn_small" onClick="Custombox.close();">Cancel</a>
+                                <a href="javascript:void(0)" class="btn btn_primary btn_small individuallifeForm">Save</a></div>
+                        </div>
+                            </div>
+                           
+                        
+                        
+                         <div class="clear_both"></div>
+                    </div>
+<script type="text/javascript" src="jquery/jquery-1.11.2.min.js"></script>
+<script type="text/javascript" src="jquery/icheck.min.js"></script>
+<script type="text/javascript" src="jquery/jquery.tooltipster.min.js"></script>
+<script type="text/javascript" src="jquery/ion.rangeSlider.min.js"></script>
+<script type="text/javascript" src="jquery/jquery.responsiveTabs.min.js"></script>
+<script type="text/javascript" src="jquery/jquery.easydropdown.min.js"></script>
+<script type="text/javascript" src="jquery/jquery.akordeon.js"></script>
+<script type="text/javascript" src="jquery/BeatPicker.min.js"></script>
+<script type="text/javascript" src="jquery/legacy.js"></script>
+<script type="text/javascript" src="jquery/custombox.js"></script>
+<script type="text/javascript" src="jquery/menu.js"></script>
+<script type="text/javascript" src="jquery/tab_content_repace.js"></script>
+<!--[if (gte IE 6)&(lte IE 8)]>
+  <script type="text/javascript" src="jquery/selectivizr-min.js"></script>
+  <noscript><link rel="stylesheet" href="[fallback css]" /></noscript>
+<![endif]-->
+<script>
+$(document).ready(function(){
+	vtabsPostion();
+	$('#radioIndividual').on('ifClicked', function(){
+			 	$('#beneficiaryIndividual').slideDown();
+				$('#beneficiaryTrust').slideUp();
+			});
+			$('#radioTrust').on('ifClicked', function(){
+			 	$('#beneficiaryTrust').slideDown();
+				$('#beneficiaryIndividual').slideUp();
+			});
+  $('input').iCheck({
+		checkboxClass: 'icheckbox_square-blue',
+		radioClass: 'iradio_square-blue'
+	  });
+$('#addBenefiresShow').on('click', function(){
+	Custombox.open({
+                target: '#addBenefiresModal',
+                effect: 'fadein',
+				width:740,
+				position:"center,center"
+            });
+	
+	});
+	$('#buttons').akordeon();
+	 $(function(){
+			var $selects = $('.chosen-select');
+								
+			$selects.easyDropDown({
+				cutOff: 7,
+				wrapperClass: 'cust_dropdown',
+			
+			});
+		});
+	   $('#horizontalTab').responsiveTabs({
+                active: 1
+            });
+	  $('.tooltip').tooltipster({
+		  maxWidth:300,
+		  });
+	
+	$("#range_37").ionRangeSlider({
+		type: "double",
+		min: 0,
+		max: 100,
+		from: 30,
+		to: 70,
+		from_fixed: true
+	});
+	$('.show-picker').click(function(e){
+			e.stopPropagation();
+			datepicker1.show();
+		});
+	$('.open_modal').on('click', function ( e ) {
+            Custombox.open({
+                target: '#modal',
+                effect: 'fadein'
+            });
+            e.preventDefault();
+        });
+	
+	
+	    $('.show_packages').click(function(e) {
+			e.preventDefault();
+            var id = $(this).attr('href');
+			 var link = $(this);
+			//$(id).slideToggle(600);
+			 $(id).slideToggle(600, function() {
+				if ($(this).is(":visible")) {
+					 link.text('Hide ');   
+					 link.append('<img src="images/icons/up_arrow.png" border="0">');            
+				} else {
+					 link.text('Know more ');    
+					  link.append('<img src="images/icons/down_arrow.png" border="0">');                  
+				}        
+			});
+			
+			
+			
+        });
+	});
+function dependentPageChange(val){
+		var sbs = $('#dependentsPageChange').val();
+		if(sbs == "Edit"){
+			showBenifiresModal();
+			}
+		}
+function showBenifiresModal(){
+	Custombox.open({
+                target: '#addBenefiresModal',
+                effect: 'fadein',
+				width:740,
+				position:"center,center"
+            });
+	}
+	 $(function(){
+
+     $('#radioIndividual').on('ifClicked', function(){
+         $("#trustradio").val($('#radioIndividual').val());
+     });
+    $('#radioTrust').on('ifClicked', function(){
+         $("#trustradio").val($('#radioTrust').val());
+     });
+    $(".individuallifeForm").click(function(){
+         var zipValidate = validateZip();
+         var cityValidate = validateCity();
+         var addressValidate = validateAddress();
+         var genderValidate = validateGender();
+         var lnameval = validateLastName();
+         var fnameval = validateFirstName();
+    });
+    });
+  $(function() {
+    var month = document.getElementById('month'),
+        df = document.createDocumentFragment();
+    for (var i =01; i <= 12; i++) {
+        if(i<10){
+            var k="0"+i;
+        }else{
+            var k=i;
+        }
+        var option = document.createElement('option');
+        option.value = k;
+        option.appendChild(document.createTextNode(k));
+        df.appendChild(option);
+        //alert(i);
+    }
+    month.appendChild(df);
+    
+    var date = document.getElementById('date'),
+        df = document.createDocumentFragment();
+    for (var i =01; i <= 31; i++) {
+        if(i<10){
+            var k="0"+i;
+        }else{
+            var k=i;
+        }
+        var option = document.createElement('option');
+        option.value = k;
+        option.appendChild(document.createTextNode(k));
+        df.appendChild(option);
+        //alert(i);
+    }
+    date.appendChild(df);
+    
+    var currentyear = new Date().getFullYear();
+    //alert(currentyear);
+    var year = document.getElementById('year'),
+        df = document.createDocumentFragment();
+        for (var y =1950; y <= currentyear; y++) {
+        var option = document.createElement('option');
+        option.value = y;
+        option.appendChild(document.createTextNode(y));
+        df.appendChild(option);
+    }
+    year.appendChild(df);
+    
+
+
+}());
+</script>
+</body>
+</html>

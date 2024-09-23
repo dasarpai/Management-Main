@@ -1,0 +1,28 @@
+Sl.no,Issue ID,Priority,Subject,Status
+1,13504,P1,P1/COS - Restore Sutter Xmtls for Research,Closed
+2,13487,P1,P1 / San Bernardino CCD / VTL premium wrong on Summary Page / 8.5.15,Closed
+3,13499,P2,p2/Oceanside/ update rule end date/tbd,Closed
+4,13505,P1,"*P1*/ Cabrillo USD / Dinucci, Dwayne/9258 /Rate Correction",Dev
+5,13492,P1,p1/ Fontana and all Clients/ Fi band error/ASAP,Dev
+6,9772,P2,Monthly Recurring Audit: Verify Dependent Medical and Dependent Rx Enrollments,Dev
+7,8336,P2,KCARES Electronic Clients Incoming File Load - Clovis USD,Hold
+8,8335,P2,KCARES Electronic Clients Incoming File Load - Conejo USD,Hold
+9,8337,P3,KCARES Electronic Clients Incoming File Load - FOOTHILL DE ANZA COLLEGE,Hold
+10,8296,P3,KCARES Electronic Clients Incoming File Load - Torrance USD,Hold
+11,13518,P1,P1/County of Sacramento-Active/FMLA Term Date Correction Due: 8-14-15,Prod
+12,13513,P1,P1/Victor Valley UHSD/EOI Report Notification Due: 8-12-15,Prod
+13,13512,P1,P1/Barstow USD/Cease EOI Notification Reports/Emails Due: 8-12-15,Prod
+14,13509,P1,P1/County of Sacramento-Active/Correct Dental Effective Date Due: 8-12-15,Prod
+15,13508,P1,P1/County of Sacramento-Active/Reinstate Vision Due: 8-12-15,Prod
+16,13502,P1,p1/COS Active/ Traci Mar/ASAP,Prod
+17,13501,P1,P1/Victor Valley UHSD/Cease EOI Notification Emails Due: 8-11-15,Prod
+18,13500,P1,p1/Oceanside/ Duplicate rules/asap,Prod
+19,13494,P1,P1/County of Sacramento-Reinstate Bundled Vision Due: 8-7-15,Prod
+20,13516,P2,P2/MCSIG/1500 Gonzales USD/Remove Retiree Benefits & Correct Effective Dates Due: 8-14-15,Prod
+21,13515,P2,P2/City of Glendale/Remove Duplicate Dependent Due: 8-14-15,Prod
+22,13514,P2,P2/ABC USD/Correct Medical Effective Dates Due: 8-14-15,Prod
+23,13488,P2,P2/Municipal Services Authority/Remove Dup. Dependent Due: 8-6-15,Prod
+24,13503,P2,p2/Tri City/ Salary Upload/asap,QA-Passed
+25,12681,P2,P2/ San Mateo CCD/ KCARES to Electronic COA Client/ Eff 1/1/15,QA-Pending Clarification
+26,13511,P1,"P1 - OHLONE COMMUNITY COLLEGE DISTRICT - GALLEGOS, WILLIE - OAD AUTOTERMINATE",QA-Ready
+27,13467,P1,Xmtl:Jurupa USD/Add Vision to MetLife 834 5010 format,QA-Started

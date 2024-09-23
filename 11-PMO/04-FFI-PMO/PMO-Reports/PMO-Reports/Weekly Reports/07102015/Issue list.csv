@@ -1,0 +1,27 @@
+Sl.No,Issue ID,Priority,Subject,Status
+1,13428,P1,P1/Elk Grove USD/Carrier Enrollment Census Slow Generating Report,Closed
+2,13424,P2,P2/ Conejo Valley USD/Overage Dependents Termed/ due Date 7.7.15,Closed
+3,13433,P2,"Elk Grove USD  Employee Name:  MORRISROE, DIANA  - Change Classification",Closed
+4,13434,P2,"P2 / REDLANDS USD - GARCIA, NICHOLAS - ADDING DEPENDENT",Closed
+5,13438,P2,"P2 - Fontana Unified School District - MORALES, STEVEN - Unable to Complete Life Event Enrollment",Closed
+6,13354,P1,P1/ Conejo Valley USD/ Flack/ Dep Coverage to Match FI,Dev
+7,13387,P1,Xmtl: City of Livingston/Anthem Blue Cross replacing UHC eff 7.1.2015,Dev
+8,13358,P2,P2/Eyemed Scripting - No longer needed/06.22.2015,Dev-Pending Clarification
+9,13390,P2,P2 / Banning USD / Kaiser & MHN Enrollments / 6.29.2015,Dev-Pending Clarification
+10,13397,P2,P2 / San Jacinto USD / Kaiser & MHN Enrollments / 6.30.2015,Dev-Pending Clarification
+11,13401,P2,P2 / Romoland SD / Kaiser & MHN Enrollments / 7.1.2015,Dev-Pending Clarification
+12,13416,P2,P2 / Nuview USD / REEP Kaiser&MHN Enrollments / 7.1.15,Dev-Pending Clarification
+13,8296,P3,KCARES Electronic Clients Incoming File Load - Torrance USD,Hold
+14,8337,P3,KCARES Electronic Clients Incoming File Load - FOOTHILL DE ANZA COLLEGE,Hold
+15,13410,P1,"P1 / VBB - Detailed vs Summary / July 2, 2015",New
+16,13315,P1,P1 / Elk Grove USD - Invalid Med/RX Bundle - enrollment error / 6/5/15,Prod
+17,13420,P1,P1/Chino Valley USD/Cease EOI Notification Emails Due: 7-1-2015,Prod
+18,13425,P1,p1/Val Verde/ Fred Workman-no rate on vbb/asap,Prod
+19,13435,P1,p1/Barstow USD/ Incorrect premiums for VTL and VADD,Prod
+20,13436,P1,p1/ OakGrove/ Joanne Wong - correct status/7.8.15,Prod
+21,13370,P2,P2/Palo Verde CCD/EOI Report Notification Due: 6-22-15,Prod
+22,13371,P2,P2/Victor Valley High SD/EOI Notification Due: 6-22-15,Prod
+23,13415,P2,P2 / Snowline VTL - Edit Cov Amounts / 7/2/15,Prod
+24,13432,P1,p1/Fontana USD/Recalculate of age reduction for GTL,QA-Passed
+25,12469,P1,Handling Closed Status from Prudential (Decision File),QA-Ready
+26,13426,P1,P1/Val Verde USD/EOI Report Not Generating,QA-Ready
