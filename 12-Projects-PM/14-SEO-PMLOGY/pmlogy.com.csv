@@ -1,0 +1,59 @@
+What's included in my Crawl Test report?,
+,
+URL,
+The URL of each crawled page.,
+,
+Time Crawled,
+The time (GMT) that our crawler crawled each page.,
+,
+Title Tag,
+The title element of each page crawled.,
+,
+Meta Description,
+The meta description of each page crawled.,
+,
+HTTP Status Code,
+The HTTP status code that each URL returned.,
+,
+Referrer,
+The page which linked to the discovered URL.,
+,
+Link Count,
+The total number of links on each page crawled.,
+,
+Content-Type Header,
+"The type of content as returned by the given HTTP header for each page crawled. (Ex. content=""text/html;"")",
+4XX (Client Error),Does the page have a 4XX error? 4xx status codes are shown when the client requests a page that cannot be accessed. This is usually the result of a bad or broken link.
+5XX (Server Error),"Does the page have a 5XX error? 5xx errors are shown when a valid request was made by the client, but the server failed to complete the request."
+Title Missing or Empty,Is your title missing? Search engines consider the title element to be the most important place to identify keywords and associate the page with a topic.
+Duplicate Page Content,Do you have repeating content? Content that is nearly identical to content on other pages of your site forces your pages to unnecessarily compete with each other for rankings.
+URLs with Duplicate Page Content (up to 5),The URLs of up to five pages that have similar content.
+Duplicate Page Title,Do you have duplicate page titles? You should use unique titles for your different pages to ensure that they describe each page uniquely and don't compete with each other for keyword relevance.
+URLs with Duplicate Title Tags (up to 5),The URLs of up to five pages that have identical title elements.
+Long URL,"Is your URL too long? A good URL is descriptive and concise. Although not a high priority, we recommend a URL that is shorter than 75 characters."
+Overly-Dynamic URL,"Is your URL overly dynamic? Although search engines can crawl dynamic URLs, search engine representatives have warned against using over 2 parameters in any given URL."
+301 (Permanent Redirect),"Does the page have a 301 redirect? The 301 redirect, as it is commonly called by SEOs, should be used any time one URL needs to be redirected to another."
+302 (Temporary Redirect),Does the page have a 302 redirect? Using a 302 redirect will cause search engine crawlers to treat the redirect as temporary and not pass any link juice (ranking power).
+301/302 Target,The target redirect page for pages that return a 301 or 302 redirect.
+Meta Refresh,Are you using meta refreshes? Meta refreshes are a type of redirect that is executed at the page level rather than the server level. They are usually slower and we usually recommend using a 301 redirect instead.
+Meta Refresh Target,The target page for pages that have a meta refresh redirect.
+Title Element Too Short,A really short title element may not sufficiently describe the page to the user and likely does not include relevant keywords for the search engines.
+Title Element Too Long,"Is your title element longer than 70 characters? The visible portion of the title tag in the search results extends to 66 characters, after which it is truncated by the engines."
+Too Many On-Page Links,"We recommend you include less than 100 links per page to ensure that they are all crawled, though if your pages have a high page authority, search engines will usually follow more links."
+Missing Meta Description Tag,Do you have meta descriptions? Meta description tags are extremely important in gaining user click-through from search engine result pages (SERPs).
+Search Engine blocked by robots.txt,"Can your page be crawled by search engines? If it is blocked by the robots.txt protocol, we'll let you know."
+Meta-robots Nofollow,"When the meta robots tag for a page includes 'nofollow', no link juice is passed on through the links on that page."
+Blocked by X-robots,"Is your page blocked by X-robots? When the X-Robots tag for a page includes 'nofollow', no link juice is passed on through the links on that page."
+X-Robots-Tag Header,The x-robots directive which is returned in HTTP headers of each page crawled. (Ex. Disallow: /no-google/)
+Blocked by meta-robots,Is your page blocked by meta-robots? This page is being kept out of the search engine indexes by meta-robots.
+Meta Robots Tag,The value of the meta robots tag which is returned in the HTTP headers of each page crawled.
+Rel Canonical,Is this the canonical version of the page? Using rel=canonical suggests to search engines which URL should be seen as canonical.
+Rel-Canonical Target,The value of the rel-canonical element for each page crawled.
+Blocking All User Agents,"Your page is blocked from being crawled or indexed by Google, Yahoo, and Bing by the rules included in the robots.txt file."
+Blocking Google,Your page is blocked from being crawled or indexed by Google by the rules included in the robots.txt file.
+Blocking Yahoo,Your page is blocked from being crawled or indexed by Yahoo by the rules included in the robots.txt file.
+Blocking Bing,Your page is blocked from being crawled or indexed by Bing by the rules included in the robots.txt file.
+Internal Links,Number of links on a page that point to the same domain as that page.
+Linking Root Domains,Number of root domains that link to this page.
+External Links,Number of links on a page that point to a page that is not on the same domain as that page.
+Page Authority,Page Authority is Moz's calculated metric for how well a given webpage is likely to rank in search results.

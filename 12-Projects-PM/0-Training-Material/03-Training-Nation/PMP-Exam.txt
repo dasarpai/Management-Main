@@ -1,0 +1,4 @@
+Standard deviation for a set of data is - a measure of dispersion
+Discounted Cash-flow takes into account the time value of money
+Generally End Product Monte Carto Simulation is Probability distribution
+In DCF the IRR makes NPV equal to zero

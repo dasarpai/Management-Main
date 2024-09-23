@@ -1,0 +1,1856 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Ganga-River" themeId="2" version="65538" templateID="SimpleProjectTemplate">
+  <MediaItems>
+    <MediaItem id="53" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Ganga-River\images9.jpg" arWidth="259" arHeight="194" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="54" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Ganga-River\images10.jpg" arWidth="259" arHeight="194" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="1" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Ganga-River\images11.jpg" arWidth="362" arHeight="139" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="55" filePath="C:\11-Audio-Sync\09-Regional\Hindi\Fusion-Sheena\Stillness of the lake - Shiv Kumar Sharma.mp3" arWidth="0" arHeight="0" duration="440.03266660000003" songTitle="" songArtist="" songAlbum="Fusion" />
+    <MediaItem id="2" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Ganga-River\1-0.jpg" arWidth="500" arHeight="375" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="3" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Ganga-River\1-1.jpg" arWidth="450" arHeight="300" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="4" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Ganga-River\1-2.jpg" arWidth="640" arHeight="424" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="5" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Ganga-River\1-3.jpg" arWidth="1024" arHeight="699" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="6" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Ganga-River\1-4.jpg" arWidth="500" arHeight="333" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="7" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Ganga-River\1-5.jpg" arWidth="400" arHeight="267" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="8" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Ganga-River\1-6.jpg" arWidth="500" arHeight="333" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="9" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Ganga-River\1-7.jpg" arWidth="457" arHeight="295" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="10" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Ganga-River\1-8.jpg" arWidth="650" arHeight="366" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="11" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Ganga-River\1-9.jpg" arWidth="450" arHeight="298" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="12" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Ganga-River\1-10.jpg" arWidth="1152" arHeight="768" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="13" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Ganga-River\1-11.jpg" arWidth="960" arHeight="615" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="14" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Ganga-River\1-12.jpg" arWidth="500" arHeight="344" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="15" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Ganga-River\1-13.jpg" arWidth="900" arHeight="598" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="16" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Ganga-River\1-14.jpg" arWidth="900" arHeight="598" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="17" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Ganga-River\1-15.jpg" arWidth="250" arHeight="335" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="18" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Ganga-River\2-01.jpeg" arWidth="857" arHeight="600" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="19" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Ganga-River\2-02.jpg" arWidth="960" arHeight="640" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="20" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Ganga-River\2-03.jpg" arWidth="550" arHeight="412" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="21" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Ganga-River\2-04.jpg" arWidth="790" arHeight="593" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="22" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Ganga-River\2-05.jpg" arWidth="550" arHeight="412" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="23" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Ganga-River\2-06.jpg" arWidth="575" arHeight="384" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="24" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Ganga-River\2-07.jpg" arWidth="575" arHeight="298" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="25" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Ganga-River\2-08.jpg" arWidth="575" arHeight="325" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="26" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Ganga-River\2-09.jpg" arWidth="575" arHeight="383" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="27" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Ganga-River\2-10.jpg" arWidth="575" arHeight="338" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="28" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Ganga-River\2-11.jpg" arWidth="575" arHeight="403" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="29" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Ganga-River\2-12.png" arWidth="790" arHeight="444" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="30" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Ganga-River\2-13.jpg" arWidth="980" arHeight="300" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="31" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Ganga-River\2-14.jpg" arWidth="630" arHeight="359" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="32" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Ganga-River\2-15.jpg" arWidth="630" arHeight="316" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="33" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Ganga-River\2-16.jpg" arWidth="630" arHeight="342" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="34" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Ganga-River\2-17.jpg" arWidth="630" arHeight="345" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="35" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Ganga-River\2-18.jpg" arWidth="630" arHeight="337" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="36" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Ganga-River\2-19.jpg" arWidth="640" arHeight="338" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="37" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Ganga-River\2-20.jpg" arWidth="575" arHeight="327" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="38" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Ganga-River\2-21.jpg" arWidth="575" arHeight="431" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="39" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Ganga-River\2-22.jpg" arWidth="750" arHeight="456" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="40" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Ganga-River\2-23.jpg" arWidth="750" arHeight="492" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="41" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Ganga-River\2-24.jpg" arWidth="840" arHeight="505" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="42" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Ganga-River\2-25.jpg" arWidth="636" arHeight="252" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="43" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Ganga-River\2-26.jpg" arWidth="690" arHeight="460" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="44" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Ganga-River\2-27.jpg" arWidth="500" arHeight="370" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="45" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Ganga-River\images1.jpg" arWidth="259" arHeight="194" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="46" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Ganga-River\images2.jpg" arWidth="284" arHeight="177" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="47" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Ganga-River\images3.jpg" arWidth="259" arHeight="194" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="48" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Ganga-River\images4.jpg" arWidth="183" arHeight="275" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="49" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Ganga-River\images5.jpg" arWidth="351" arHeight="144" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="50" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Ganga-River\images6.jpg" arWidth="275" arHeight="184" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="51" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Ganga-River\images7.jpg" arWidth="624" arHeight="468" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="52" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Ganga-River\images8.jpg" arWidth="275" arHeight="183" duration="0" songTitle="" songArtist="" songAlbum="" />
+  </MediaItems>
+  <Extents>
+    <ImageClip extentID="53" gapBefore="0" mediaItemID="49" duration="4">
+      <Effects>
+        <PanAndZoomShapeEffect effectTemplateID="PanAndZoomEffectZoomInFullToCenterTemplate">
+          <BoundProperties>
+            <BoundPropertyInt Name="effectType" Value="5" />
+          </BoundProperties>
+        </PanAndZoomShapeEffect>
+        <ShaderEffect effectTemplateID="FadeOutToBlackEffectTemplate">
+          <BoundProperties />
+        </ShaderEffect>
+      </Effects>
+      <Transitions>
+        <ShapeEffect effectTemplateID="BlurTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="54" gapBefore="0" mediaItemID="50" duration="4">
+      <Effects />
+      <Transitions>
+        <ShapeEffect effectTemplateID="CinematicBlurTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <TitleClip extentID="108" gapBefore="0" duration="7">
+      <Effects />
+      <Transitions>
+        <ShaderEffect effectTemplateID="CrossfadeTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShaderEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyFloatSet Name="diffuseColor">
+          <BoundPropertyFloatElement Value="0" />
+          <BoundPropertyFloatElement Value="0" />
+          <BoundPropertyFloatElement Value="0" />
+        </BoundPropertyFloatSet>
+        <BoundPropertyFloat Name="transparency" Value="0" />
+      </BoundProperties>
+    </TitleClip>
+    <ImageClip extentID="55" gapBefore="0" mediaItemID="51" duration="4">
+      <Effects>
+        <PanAndZoomShapeEffect effectTemplateID="PanAndZoomEffectZoomInFullToCenterWithCWRotationTemplate">
+          <BoundProperties>
+            <BoundPropertyInt Name="effectType" Value="5" />
+          </BoundProperties>
+        </PanAndZoomShapeEffect>
+      </Effects>
+      <Transitions>
+        <ShapeEffect effectTemplateID="BlurTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <TitleClip extentID="109" gapBefore="32.221354166666671" duration="5">
+      <Effects>
+        <TextEffect effectTemplateID="TextEffectCinematicTitleTemplate" TextScriptId="11">
+          <BoundProperties>
+            <BoundPropertyBool Name="automatic" Value="false" />
+            <BoundPropertyFloatSet Name="color">
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyStringSet Name="family">
+              <BoundPropertyStringElement Value="Cambria" />
+            </BoundPropertyStringSet>
+            <BoundPropertyBool Name="horizontal" Value="true" />
+            <BoundPropertyStringSet Name="justify">
+              <BoundPropertyStringElement Value="MIDDLE" />
+            </BoundPropertyStringSet>
+            <BoundPropertyFloatSet Name="length" />
+            <BoundPropertyFloat Name="maxExtent" Value="0" />
+            <BoundPropertyFloatSet Name="position">
+              <BoundPropertyFloatElement Value="0" />
+              <BoundPropertyFloatElement Value="0.29999995231628418" />
+              <BoundPropertyFloatElement Value="0.02500000037252903" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyFloat Name="size" Value="0.80000001192092896" />
+            <BoundPropertyStringSet Name="string">
+              <BoundPropertyStringElement Value="But there is a hope." />
+              <BoundPropertyStringElement Value="" />
+              <BoundPropertyStringElement Value="A Success Case Study in India" />
+            </BoundPropertyStringSet>
+            <BoundPropertyString Name="style" Value="Plain" />
+            <BoundPropertyFloat Name="transparency" Value="0" />
+          </BoundProperties>
+        </TextEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyFloatSet Name="diffuseColor">
+          <BoundPropertyFloatElement Value="0.75" />
+          <BoundPropertyFloatElement Value="1" />
+          <BoundPropertyFloatElement Value="0" />
+        </BoundPropertyFloatSet>
+        <BoundPropertyFloat Name="transparency" Value="1" />
+      </BoundProperties>
+    </TitleClip>
+    <ImageClip extentID="56" gapBefore="0" mediaItemID="52" duration="4">
+      <Effects>
+        <PanAndZoomShapeEffect effectTemplateID="PanAndZoomEffectZoomOutCenterToFullTemplate">
+          <BoundProperties>
+            <BoundPropertyInt Name="effectType" Value="6" />
+          </BoundProperties>
+        </PanAndZoomShapeEffect>
+      </Effects>
+      <Transitions>
+        <ShapeEffect effectTemplateID="CrossfadeTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="57" gapBefore="0" mediaItemID="53" duration="4">
+      <Effects />
+      <Transitions>
+        <ShapeEffect effectTemplateID="BlurTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="58" gapBefore="0" mediaItemID="54" duration="4">
+      <Effects>
+        <PanAndZoomShapeEffect effectTemplateID="PanAndZoomEffectPanLeftToRightAlongBottomTemplate">
+          <BoundProperties>
+            <BoundPropertyInt Name="effectType" Value="1" />
+          </BoundProperties>
+        </PanAndZoomShapeEffect>
+        <ShaderEffect effectTemplateID="FadeOutToBlackEffectTemplate">
+          <BoundProperties />
+        </ShaderEffect>
+      </Effects>
+      <Transitions>
+        <ShapeEffect effectTemplateID="CrossfadeTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="5" gapBefore="0" mediaItemID="1" duration="4">
+      <Effects>
+        <PanAndZoomShapeEffect effectTemplateID="PanAndZoomEffectZoomInFullToCenterWithCWRotationTemplate">
+          <BoundProperties>
+            <BoundPropertyInt Name="effectType" Value="5" />
+          </BoundProperties>
+        </PanAndZoomShapeEffect>
+      </Effects>
+      <Transitions>
+        <ShapeEffect effectTemplateID="CrossfadeTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="6" gapBefore="0" mediaItemID="2" duration="3">
+      <Effects>
+        <PanAndZoomShapeEffect effectTemplateID="PanAndZoomEffectZoomInFullToCenterTemplate">
+          <BoundProperties>
+            <BoundPropertyInt Name="effectType" Value="5" />
+          </BoundProperties>
+        </PanAndZoomShapeEffect>
+      </Effects>
+      <Transitions>
+        <ShapeEffect effectTemplateID="BlurTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <TitleClip extentID="60" gapBefore="20.000000000000171" duration="1.333333333333087">
+      <Effects>
+        <TextEffect effectTemplateID="TextEffectCinematicCaption1Template" TextScriptId="12">
+          <BoundProperties>
+            <BoundPropertyBool Name="automatic" Value="false" />
+            <BoundPropertyFloatSet Name="color">
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyStringSet Name="family">
+              <BoundPropertyStringElement Value="Cambria" />
+            </BoundPropertyStringSet>
+            <BoundPropertyBool Name="horizontal" Value="true" />
+            <BoundPropertyStringSet Name="justify">
+              <BoundPropertyStringElement Value="MIDDLE" />
+            </BoundPropertyStringSet>
+            <BoundPropertyFloatSet Name="length" />
+            <BoundPropertyFloat Name="maxExtent" Value="0" />
+            <BoundPropertyFloatSet Name="position">
+              <BoundPropertyFloatElement Value="0" />
+              <BoundPropertyFloatElement Value="-1.8000001907348633" />
+              <BoundPropertyFloatElement Value="0.02500000037252903" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyFloat Name="size" Value="0.3333333432674408" />
+            <BoundPropertyStringSet Name="string">
+              <BoundPropertyStringElement Value="-" />
+            </BoundPropertyStringSet>
+            <BoundPropertyString Name="style" Value="Plain" />
+            <BoundPropertyFloat Name="transparency" Value="0" />
+          </BoundProperties>
+        </TextEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyFloatSet Name="diffuseColor">
+          <BoundPropertyFloatElement Value="0.75" />
+          <BoundPropertyFloatElement Value="1" />
+          <BoundPropertyFloatElement Value="0" />
+        </BoundPropertyFloatSet>
+        <BoundPropertyFloat Name="transparency" Value="1" />
+      </BoundProperties>
+    </TitleClip>
+    <ImageClip extentID="7" gapBefore="0" mediaItemID="3" duration="3">
+      <Effects />
+      <Transitions>
+        <ShapeEffect effectTemplateID="BlurThroughBlackTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="8" gapBefore="0" mediaItemID="4" duration="3">
+      <Effects>
+        <PanAndZoomShapeEffect effectTemplateID="PanAndZoomEffectZoomOutCenterToFullTemplate">
+          <BoundProperties>
+            <BoundPropertyInt Name="effectType" Value="6" />
+          </BoundProperties>
+        </PanAndZoomShapeEffect>
+      </Effects>
+      <Transitions>
+        <ShapeEffect effectTemplateID="CinematicBlurTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="9" gapBefore="0" mediaItemID="5" duration="3">
+      <Effects>
+        <PanAndZoomShapeEffect effectTemplateID="PanAndZoomEffectZoomInFullToCenterTemplate">
+          <BoundProperties>
+            <BoundPropertyInt Name="effectType" Value="5" />
+          </BoundProperties>
+        </PanAndZoomShapeEffect>
+        <ShaderEffect effectTemplateID="FadeOutToBlackEffectTemplate">
+          <BoundProperties />
+        </ShaderEffect>
+      </Effects>
+      <Transitions>
+        <ShapeEffect effectTemplateID="BlurTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="10" gapBefore="0" mediaItemID="6" duration="3">
+      <Effects />
+      <Transitions>
+        <ShapeEffect effectTemplateID="CinematicBlurTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="11" gapBefore="0" mediaItemID="7" duration="3">
+      <Effects>
+        <PanAndZoomShapeEffect effectTemplateID="PanAndZoomEffectZoomInFullToCenterWithCWRotationTemplate">
+          <BoundProperties>
+            <BoundPropertyInt Name="effectType" Value="5" />
+          </BoundProperties>
+        </PanAndZoomShapeEffect>
+      </Effects>
+      <Transitions>
+        <ShapeEffect effectTemplateID="BlurTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="12" gapBefore="0" mediaItemID="8" duration="3">
+      <Effects>
+        <PanAndZoomShapeEffect effectTemplateID="PanAndZoomEffectZoomOutCenterToFullTemplate">
+          <BoundProperties>
+            <BoundPropertyInt Name="effectType" Value="6" />
+          </BoundProperties>
+        </PanAndZoomShapeEffect>
+      </Effects>
+      <Transitions>
+        <ShapeEffect effectTemplateID="CrossfadeTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="13" gapBefore="0" mediaItemID="9" duration="3">
+      <Effects />
+      <Transitions>
+        <ShapeEffect effectTemplateID="BlurTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="14" gapBefore="0" mediaItemID="10" duration="3">
+      <Effects>
+        <PanAndZoomShapeEffect effectTemplateID="PanAndZoomEffectZoomInFullToCenterTemplate">
+          <BoundProperties>
+            <BoundPropertyInt Name="effectType" Value="5" />
+          </BoundProperties>
+        </PanAndZoomShapeEffect>
+      </Effects>
+      <Transitions>
+        <ShapeEffect effectTemplateID="BlurTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <TitleClip extentID="68" gapBefore="0" duration="9">
+      <Effects>
+        <TextEffect effectTemplateID="TextEffectCinematicTitleTemplate" TextScriptId="11">
+          <BoundProperties>
+            <BoundPropertyBool Name="automatic" Value="false" />
+            <BoundPropertyFloatSet Name="color">
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyStringSet Name="family">
+              <BoundPropertyStringElement Value="Cambria" />
+            </BoundPropertyStringSet>
+            <BoundPropertyBool Name="horizontal" Value="true" />
+            <BoundPropertyStringSet Name="justify">
+              <BoundPropertyStringElement Value="MIDDLE" />
+            </BoundPropertyStringSet>
+            <BoundPropertyFloatSet Name="length" />
+            <BoundPropertyFloat Name="maxExtent" Value="0" />
+            <BoundPropertyFloatSet Name="position">
+              <BoundPropertyFloatElement Value="-0.023087978363037109" />
+              <BoundPropertyFloatElement Value="1.3153846263885498" />
+              <BoundPropertyFloatElement Value="0.02500000037252903" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyFloat Name="size" Value="0.5" />
+            <BoundPropertyStringSet Name="string">
+              <BoundPropertyStringElement Value="Cleaning Ganga River : " />
+              <BoundPropertyStringElement Value="" />
+              <BoundPropertyStringElement Value="Feasbility Study with a High Level Plan" />
+            </BoundPropertyStringSet>
+            <BoundPropertyString Name="style" Value="Plain" />
+            <BoundPropertyFloat Name="transparency" Value="0" />
+          </BoundProperties>
+        </TextEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyFloatSet Name="diffuseColor">
+          <BoundPropertyFloatElement Value="0.75" />
+          <BoundPropertyFloatElement Value="1" />
+          <BoundPropertyFloatElement Value="0" />
+        </BoundPropertyFloatSet>
+        <BoundPropertyFloat Name="transparency" Value="1" />
+      </BoundProperties>
+    </TitleClip>
+    <ImageClip extentID="15" gapBefore="0" mediaItemID="11" duration="3">
+      <Effects>
+        <PanAndZoomShapeEffect effectTemplateID="PanAndZoomEffectZoomInFullToCenterTemplate">
+          <BoundProperties>
+            <BoundPropertyInt Name="effectType" Value="5" />
+          </BoundProperties>
+        </PanAndZoomShapeEffect>
+      </Effects>
+      <Transitions>
+        <ShapeEffect effectTemplateID="BlurThroughBlackTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="16" gapBefore="0" mediaItemID="12" duration="3">
+      <Effects>
+        <PanAndZoomShapeEffect effectTemplateID="PanAndZoomEffectZoomInFullToCenterWithCWRotationTemplate">
+          <BoundProperties>
+            <BoundPropertyInt Name="effectType" Value="5" />
+          </BoundProperties>
+        </PanAndZoomShapeEffect>
+      </Effects>
+      <Transitions>
+        <ShapeEffect effectTemplateID="CinematicBlurTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="123" gapBefore="0" mediaItemID="54" duration="4">
+      <Effects>
+        <ShaderEffect effectTemplateID="BlackAndWhiteEffectTemplate">
+          <BoundProperties />
+        </ShaderEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="17" gapBefore="0" mediaItemID="13" duration="3">
+      <Effects>
+        <PanAndZoomShapeEffect effectTemplateID="PanAndZoomEffectZoomInFullToCenterWithCCWRotationTemplate">
+          <BoundProperties>
+            <BoundPropertyInt Name="effectType" Value="5" />
+          </BoundProperties>
+        </PanAndZoomShapeEffect>
+      </Effects>
+      <Transitions>
+        <ShapeEffect effectTemplateID="BlurTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="124" gapBefore="0" mediaItemID="54" duration="4">
+      <Effects>
+        <ShaderEffect effectTemplateID="BlackAndWhiteEffectTemplate">
+          <BoundProperties />
+        </ShaderEffect>
+        <ShaderEffect effectTemplateID="FadeOutToBlackEffectTemplate">
+          <BoundProperties />
+        </ShaderEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="18" gapBefore="0" mediaItemID="14" duration="3">
+      <Effects>
+        <PanAndZoomShapeEffect effectTemplateID="PanAndZoomEffectZoomInFullToCenterTemplate">
+          <BoundProperties>
+            <BoundPropertyInt Name="effectType" Value="5" />
+          </BoundProperties>
+        </PanAndZoomShapeEffect>
+      </Effects>
+      <Transitions>
+        <ShapeEffect effectTemplateID="CinematicBlurTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="125" gapBefore="0" mediaItemID="54" duration="4">
+      <Effects>
+        <ShaderEffect effectTemplateID="BlackAndWhiteEffectTemplate">
+          <BoundProperties />
+        </ShaderEffect>
+      </Effects>
+      <Transitions>
+        <ShapeEffect effectTemplateID="BlurTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="19" gapBefore="0" mediaItemID="15" duration="3">
+      <Effects />
+      <Transitions>
+        <ShapeEffect effectTemplateID="BlurTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <TitleClip extentID="126" gapBefore="0" duration="7">
+      <Effects />
+      <Transitions>
+        <ShaderEffect effectTemplateID="CrossfadeTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShaderEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyFloatSet Name="diffuseColor">
+          <BoundPropertyFloatElement Value="0" />
+          <BoundPropertyFloatElement Value="0" />
+          <BoundPropertyFloatElement Value="0" />
+        </BoundPropertyFloatSet>
+        <BoundPropertyFloat Name="transparency" Value="0" />
+      </BoundProperties>
+    </TitleClip>
+    <ImageClip extentID="20" gapBefore="0" mediaItemID="16" duration="3">
+      <Effects>
+        <PanAndZoomShapeEffect effectTemplateID="PanAndZoomEffectZoomOutCenterToFullTemplate">
+          <BoundProperties>
+            <BoundPropertyInt Name="effectType" Value="6" />
+          </BoundProperties>
+        </PanAndZoomShapeEffect>
+      </Effects>
+      <Transitions>
+        <ShapeEffect effectTemplateID="CrossfadeTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <TitleClip extentID="74" gapBefore="0" duration="12.5">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyFloatSet Name="diffuseColor">
+          <BoundPropertyFloatElement Value="0" />
+          <BoundPropertyFloatElement Value="0" />
+          <BoundPropertyFloatElement Value="0" />
+        </BoundPropertyFloatSet>
+        <BoundPropertyFloat Name="transparency" Value="0" />
+      </BoundProperties>
+    </TitleClip>
+    <ImageClip extentID="21" gapBefore="0" mediaItemID="17" duration="3">
+      <Effects>
+        <PanAndZoomShapeEffect effectTemplateID="PanAndZoomEffectZoomInFullToCenterTemplate">
+          <BoundProperties>
+            <BoundPropertyInt Name="effectType" Value="5" />
+          </BoundProperties>
+        </PanAndZoomShapeEffect>
+        <ShaderEffect effectTemplateID="FadeOutToBlackEffectTemplate">
+          <BoundProperties />
+        </ShaderEffect>
+      </Effects>
+      <Transitions>
+        <ShapeEffect effectTemplateID="BlurTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <TitleClip extentID="75" gapBefore="-2" duration="12.5">
+      <Effects>
+        <TextEffect effectTemplateID="TextEffectCinematicCaption1Template" TextScriptId="12">
+          <BoundProperties>
+            <BoundPropertyBool Name="automatic" Value="false" />
+            <BoundPropertyFloatSet Name="color">
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyStringSet Name="family">
+              <BoundPropertyStringElement Value="Cambria" />
+            </BoundPropertyStringSet>
+            <BoundPropertyBool Name="horizontal" Value="true" />
+            <BoundPropertyStringSet Name="justify">
+              <BoundPropertyStringElement Value="BEGIN" />
+            </BoundPropertyStringSet>
+            <BoundPropertyFloatSet Name="length" />
+            <BoundPropertyFloat Name="maxExtent" Value="0" />
+            <BoundPropertyFloatSet Name="position">
+              <BoundPropertyFloatElement Value="-4.8715729713439941" />
+              <BoundPropertyFloatElement Value="2.7461538314819336" />
+              <BoundPropertyFloatElement Value="0.02500000037252903" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyFloat Name="size" Value="0.3333333432674408" />
+            <BoundPropertyStringSet Name="string">
+              <BoundPropertyStringElement Value="This is not just a flowing stream of water. But a " />
+              <BoundPropertyStringElement Value="river which is root of our civilization." />
+              <BoundPropertyStringElement Value="" />
+              <BoundPropertyStringElement Value="We call this river our mother, but as we should " />
+              <BoundPropertyStringElement Value="behaved with our mother and respect her we " />
+              <BoundPropertyStringElement Value="have not respected our this mother." />
+              <BoundPropertyStringElement Value="" />
+              <BoundPropertyStringElement Value="Today challenge before us is to clean this and " />
+              <BoundPropertyStringElement Value="ensure that after it is maintained without fail " />
+              <BoundPropertyStringElement Value="after that." />
+            </BoundPropertyStringSet>
+            <BoundPropertyString Name="style" Value="Plain" />
+            <BoundPropertyFloat Name="transparency" Value="0" />
+          </BoundProperties>
+        </TextEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyFloatSet Name="diffuseColor">
+          <BoundPropertyFloatElement Value="0.75" />
+          <BoundPropertyFloatElement Value="1" />
+          <BoundPropertyFloatElement Value="0" />
+        </BoundPropertyFloatSet>
+        <BoundPropertyFloat Name="transparency" Value="1" />
+      </BoundProperties>
+    </TitleClip>
+    <ImageClip extentID="22" gapBefore="0" mediaItemID="18" duration="4">
+      <Effects>
+        <PanAndZoomShapeEffect effectTemplateID="PanAndZoomEffectZoomInFullToCenterWithCWRotationTemplate">
+          <BoundProperties>
+            <BoundPropertyInt Name="effectType" Value="5" />
+          </BoundProperties>
+        </PanAndZoomShapeEffect>
+      </Effects>
+      <Transitions>
+        <ShapeEffect effectTemplateID="BlurThroughBlackTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <TitleClip extentID="76" gapBefore="0" duration="12.5">
+      <Effects />
+      <Transitions>
+        <ShapeEffect effectTemplateID="CinematicFadeThroughGrayTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyFloatSet Name="diffuseColor">
+          <BoundPropertyFloatElement Value="0" />
+          <BoundPropertyFloatElement Value="0" />
+          <BoundPropertyFloatElement Value="0" />
+        </BoundPropertyFloatSet>
+        <BoundPropertyFloat Name="transparency" Value="0" />
+      </BoundProperties>
+    </TitleClip>
+    <ImageClip extentID="23" gapBefore="0" mediaItemID="19" duration="4">
+      <Effects>
+        <PanAndZoomShapeEffect effectTemplateID="PanAndZoomEffectZoomOutCenterToFullTemplate">
+          <BoundProperties>
+            <BoundPropertyInt Name="effectType" Value="6" />
+          </BoundProperties>
+        </PanAndZoomShapeEffect>
+      </Effects>
+      <Transitions>
+        <ShapeEffect effectTemplateID="CinematicBlurTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <TitleClip extentID="77" gapBefore="0" duration="11">
+      <Effects>
+        <TextEffect effectTemplateID="TextEffectCinematicCaption1Template" TextScriptId="12">
+          <BoundProperties>
+            <BoundPropertyBool Name="automatic" Value="false" />
+            <BoundPropertyFloatSet Name="color">
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyStringSet Name="family">
+              <BoundPropertyStringElement Value="Cambria" />
+            </BoundPropertyStringSet>
+            <BoundPropertyBool Name="horizontal" Value="true" />
+            <BoundPropertyStringSet Name="justify">
+              <BoundPropertyStringElement Value="BEGIN" />
+            </BoundPropertyStringSet>
+            <BoundPropertyFloatSet Name="length" />
+            <BoundPropertyFloat Name="maxExtent" Value="0" />
+            <BoundPropertyFloatSet Name="position">
+              <BoundPropertyFloatElement Value="-5.0793652534484863" />
+              <BoundPropertyFloatElement Value="2.7461538314819336" />
+              <BoundPropertyFloatElement Value="0.02500000037252903" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyFloat Name="size" Value="0.3333333432674408" />
+            <BoundPropertyStringSet Name="string">
+              <BoundPropertyStringElement Value="Scope of this project is" />
+              <BoundPropertyStringElement Value="- Conduct feasibility study" />
+              <BoundPropertyStringElement Value="- Determine the cost of this project" />
+              <BoundPropertyStringElement Value="- Develop a high level plan with key deliverables " />
+              <BoundPropertyStringElement Value="and milestones" />
+              <BoundPropertyStringElement Value="- Determine project managment methodology" />
+              <BoundPropertyStringElement Value="- Establish project governance systems" />
+              <BoundPropertyStringElement Value="- Establish Reporting Need of the project" />
+            </BoundPropertyStringSet>
+            <BoundPropertyString Name="style" Value="Plain" />
+            <BoundPropertyFloat Name="transparency" Value="0" />
+          </BoundProperties>
+        </TextEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyFloatSet Name="diffuseColor">
+          <BoundPropertyFloatElement Value="0.75" />
+          <BoundPropertyFloatElement Value="1" />
+          <BoundPropertyFloatElement Value="0" />
+        </BoundPropertyFloatSet>
+        <BoundPropertyFloat Name="transparency" Value="1" />
+      </BoundProperties>
+    </TitleClip>
+    <ImageClip extentID="24" gapBefore="0" mediaItemID="20" duration="4">
+      <Effects />
+      <Transitions>
+        <ShapeEffect effectTemplateID="BlurTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <TitleClip extentID="78" gapBefore="0" duration="12.5">
+      <Effects />
+      <Transitions>
+        <ShapeEffect effectTemplateID="CinematicFadeThroughGrayTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyFloatSet Name="diffuseColor">
+          <BoundPropertyFloatElement Value="0" />
+          <BoundPropertyFloatElement Value="0" />
+          <BoundPropertyFloatElement Value="0" />
+        </BoundPropertyFloatSet>
+        <BoundPropertyFloat Name="transparency" Value="0" />
+      </BoundProperties>
+    </TitleClip>
+    <ImageClip extentID="25" gapBefore="0" mediaItemID="21" duration="4">
+      <Effects>
+        <PanAndZoomShapeEffect effectTemplateID="PanAndZoomEffectZoomInFullToCenterTemplate">
+          <BoundProperties>
+            <BoundPropertyInt Name="effectType" Value="5" />
+          </BoundProperties>
+        </PanAndZoomShapeEffect>
+      </Effects>
+      <Transitions>
+        <ShapeEffect effectTemplateID="CinematicBlurTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <TitleClip extentID="79" gapBefore="0" duration="11">
+      <Effects>
+        <TextEffect effectTemplateID="TextEffectCinematicCaption1Template" TextScriptId="12">
+          <BoundProperties>
+            <BoundPropertyBool Name="automatic" Value="false" />
+            <BoundPropertyFloatSet Name="color">
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyStringSet Name="family">
+              <BoundPropertyStringElement Value="Cambria" />
+            </BoundPropertyStringSet>
+            <BoundPropertyBool Name="horizontal" Value="true" />
+            <BoundPropertyStringSet Name="justify">
+              <BoundPropertyStringElement Value="BEGIN" />
+            </BoundPropertyStringSet>
+            <BoundPropertyFloatSet Name="length" />
+            <BoundPropertyFloat Name="maxExtent" Value="0" />
+            <BoundPropertyFloatSet Name="position">
+              <BoundPropertyFloatElement Value="-5.0793652534484863" />
+              <BoundPropertyFloatElement Value="2.7461538314819336" />
+              <BoundPropertyFloatElement Value="0.02500000037252903" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyFloat Name="size" Value="0.3333333432674408" />
+            <BoundPropertyStringSet Name="string">
+              <BoundPropertyStringElement Value="Duration: 3 month" />
+              <BoundPropertyStringElement Value="Budget allocated : INR 10cr. But contract is T&amp;M" />
+              <BoundPropertyStringElement Value="" />
+              <BoundPropertyStringElement Value="Assumption: All Govt Department Will Respond to querries within " />
+              <BoundPropertyStringElement Value="2days" />
+              <BoundPropertyStringElement Value="" />
+              <BoundPropertyStringElement Value="Constraints: Complete study of 2525 Km River in 90 days." />
+              <BoundPropertyStringElement Value="" />
+              <BoundPropertyStringElement Value="Dependency: State Govermenment, Factory Owners, Muncipal " />
+              <BoundPropertyStringElement Value="Corporations, Environemtalists" />
+              <BoundPropertyStringElement Value="" />
+              <BoundPropertyStringElement Value="Project Manager: ??" />
+              <BoundPropertyStringElement Value="" />
+              <BoundPropertyStringElement Value="Project Sponsor: ABC Research &amp; Co." />
+            </BoundPropertyStringSet>
+            <BoundPropertyString Name="style" Value="Plain" />
+            <BoundPropertyFloat Name="transparency" Value="0" />
+          </BoundProperties>
+        </TextEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyFloatSet Name="diffuseColor">
+          <BoundPropertyFloatElement Value="0.75" />
+          <BoundPropertyFloatElement Value="1" />
+          <BoundPropertyFloatElement Value="0" />
+        </BoundPropertyFloatSet>
+        <BoundPropertyFloat Name="transparency" Value="1" />
+      </BoundProperties>
+    </TitleClip>
+    <ImageClip extentID="26" gapBefore="0" mediaItemID="22" duration="4">
+      <Effects>
+        <PanAndZoomShapeEffect effectTemplateID="PanAndZoomEffectZoomInFullToCenterTemplate">
+          <BoundProperties>
+            <BoundPropertyInt Name="effectType" Value="5" />
+          </BoundProperties>
+        </PanAndZoomShapeEffect>
+      </Effects>
+      <Transitions>
+        <ShapeEffect effectTemplateID="BlurTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <TitleClip extentID="80" gapBefore="0" duration="12.5">
+      <Effects />
+      <Transitions>
+        <ShapeEffect effectTemplateID="BlurTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyFloatSet Name="diffuseColor">
+          <BoundPropertyFloatElement Value="0" />
+          <BoundPropertyFloatElement Value="0" />
+          <BoundPropertyFloatElement Value="0" />
+        </BoundPropertyFloatSet>
+        <BoundPropertyFloat Name="transparency" Value="0" />
+      </BoundProperties>
+    </TitleClip>
+    <ImageClip extentID="27" gapBefore="0" mediaItemID="23" duration="4">
+      <Effects>
+        <PanAndZoomShapeEffect effectTemplateID="PanAndZoomEffectZoomInFullToCenterWithCWRotationTemplate">
+          <BoundProperties>
+            <BoundPropertyInt Name="effectType" Value="5" />
+          </BoundProperties>
+        </PanAndZoomShapeEffect>
+      </Effects>
+      <Transitions>
+        <ShapeEffect effectTemplateID="CrossfadeTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <TitleClip extentID="81" gapBefore="0" duration="11">
+      <Effects>
+        <TextEffect effectTemplateID="TextEffectCinematicCaption1Template" TextScriptId="12">
+          <BoundProperties>
+            <BoundPropertyBool Name="automatic" Value="false" />
+            <BoundPropertyFloatSet Name="color">
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyStringSet Name="family">
+              <BoundPropertyStringElement Value="Cambria" />
+            </BoundPropertyStringSet>
+            <BoundPropertyBool Name="horizontal" Value="true" />
+            <BoundPropertyStringSet Name="justify">
+              <BoundPropertyStringElement Value="MIDDLE" />
+            </BoundPropertyStringSet>
+            <BoundPropertyFloatSet Name="length" />
+            <BoundPropertyFloat Name="maxExtent" Value="0" />
+            <BoundPropertyFloatSet Name="position">
+              <BoundPropertyFloatElement Value="0.046176433563232422" />
+              <BoundPropertyFloatElement Value="0.29999995231628418" />
+              <BoundPropertyFloatElement Value="0.02500000037252903" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyFloat Name="size" Value="0.3333333432674408" />
+            <BoundPropertyStringSet Name="string">
+              <BoundPropertyStringElement Value="Status as of Today" />
+              <BoundPropertyStringElement Value="" />
+              <BoundPropertyStringElement Value="Few mind boggling pictures" />
+            </BoundPropertyStringSet>
+            <BoundPropertyString Name="style" Value="Plain" />
+            <BoundPropertyFloat Name="transparency" Value="0" />
+          </BoundProperties>
+        </TextEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyFloatSet Name="diffuseColor">
+          <BoundPropertyFloatElement Value="0.75" />
+          <BoundPropertyFloatElement Value="1" />
+          <BoundPropertyFloatElement Value="0" />
+        </BoundPropertyFloatSet>
+        <BoundPropertyFloat Name="transparency" Value="1" />
+      </BoundProperties>
+    </TitleClip>
+    <ImageClip extentID="28" gapBefore="0" mediaItemID="24" duration="4">
+      <Effects>
+        <PanAndZoomShapeEffect effectTemplateID="PanAndZoomEffectZoomInFullToCenterWithCCWRotationTemplate">
+          <BoundProperties>
+            <BoundPropertyInt Name="effectType" Value="5" />
+          </BoundProperties>
+        </PanAndZoomShapeEffect>
+      </Effects>
+      <Transitions>
+        <ShapeEffect effectTemplateID="BlurTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <TitleClip extentID="82" gapBefore="0" duration="12.5">
+      <Effects />
+      <Transitions>
+        <ShapeEffect effectTemplateID="BlurTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyFloatSet Name="diffuseColor">
+          <BoundPropertyFloatElement Value="0" />
+          <BoundPropertyFloatElement Value="0" />
+          <BoundPropertyFloatElement Value="0" />
+        </BoundPropertyFloatSet>
+        <BoundPropertyFloat Name="transparency" Value="0" />
+      </BoundProperties>
+    </TitleClip>
+    <ImageClip extentID="29" gapBefore="0" mediaItemID="25" duration="4">
+      <Effects>
+        <PanAndZoomShapeEffect effectTemplateID="PanAndZoomEffectZoomInFullToCenterTemplate">
+          <BoundProperties>
+            <BoundPropertyInt Name="effectType" Value="5" />
+          </BoundProperties>
+        </PanAndZoomShapeEffect>
+      </Effects>
+      <Transitions>
+        <ShapeEffect effectTemplateID="BlurTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <TitleClip extentID="83" gapBefore="0" duration="11">
+      <Effects>
+        <TextEffect effectTemplateID="TextEffectCinematicCaption1Template" TextScriptId="12">
+          <BoundProperties>
+            <BoundPropertyBool Name="automatic" Value="false" />
+            <BoundPropertyFloatSet Name="color">
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyStringSet Name="family">
+              <BoundPropertyStringElement Value="Cambria" />
+            </BoundPropertyStringSet>
+            <BoundPropertyBool Name="horizontal" Value="true" />
+            <BoundPropertyStringSet Name="justify">
+              <BoundPropertyStringElement Value="BEGIN" />
+            </BoundPropertyStringSet>
+            <BoundPropertyFloatSet Name="length" />
+            <BoundPropertyFloat Name="maxExtent" Value="0" />
+            <BoundPropertyFloatSet Name="position">
+              <BoundPropertyFloatElement Value="-5.0793652534484863" />
+              <BoundPropertyFloatElement Value="2.7461538314819336" />
+              <BoundPropertyFloatElement Value="0.02500000037252903" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyFloat Name="size" Value="0.3333333432674408" />
+            <BoundPropertyStringSet Name="string">
+              <BoundPropertyStringElement Value="Scope continue..." />
+              <BoundPropertyStringElement Value="" />
+              <BoundPropertyStringElement Value="- Establish high level risk managment framework of the project" />
+              <BoundPropertyStringElement Value="- Establish procurement (product, services, results) need of the project" />
+              <BoundPropertyStringElement Value="- Establish human resource plan" />
+              <BoundPropertyStringElement Value="- Establish quality parameters of this project" />
+              <BoundPropertyStringElement Value="- Develop stakeholder managment plan " />
+              <BoundPropertyStringElement Value="- Develop a business model out of this project" />
+            </BoundPropertyStringSet>
+            <BoundPropertyString Name="style" Value="Plain" />
+            <BoundPropertyFloat Name="transparency" Value="0" />
+          </BoundProperties>
+        </TextEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyFloatSet Name="diffuseColor">
+          <BoundPropertyFloatElement Value="0.75" />
+          <BoundPropertyFloatElement Value="1" />
+          <BoundPropertyFloatElement Value="0" />
+        </BoundPropertyFloatSet>
+        <BoundPropertyFloat Name="transparency" Value="1" />
+      </BoundProperties>
+    </TitleClip>
+    <ImageClip extentID="30" gapBefore="0" mediaItemID="26" duration="4">
+      <Effects />
+      <Transitions>
+        <ShapeEffect effectTemplateID="BlurThroughBlackTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <TitleClip extentID="84" gapBefore="0" duration="4">
+      <Effects />
+      <Transitions>
+        <ShapeEffect effectTemplateID="CrossfadeTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyFloatSet Name="diffuseColor">
+          <BoundPropertyFloatElement Value="0" />
+          <BoundPropertyFloatElement Value="0" />
+          <BoundPropertyFloatElement Value="0" />
+        </BoundPropertyFloatSet>
+        <BoundPropertyFloat Name="transparency" Value="0" />
+      </BoundProperties>
+    </TitleClip>
+    <ImageClip extentID="31" gapBefore="0" mediaItemID="27" duration="4">
+      <Effects>
+        <PanAndZoomShapeEffect effectTemplateID="PanAndZoomEffectZoomOutCenterToFullTemplate">
+          <BoundProperties>
+            <BoundPropertyInt Name="effectType" Value="6" />
+          </BoundProperties>
+        </PanAndZoomShapeEffect>
+      </Effects>
+      <Transitions>
+        <ShapeEffect effectTemplateID="CinematicBlurTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="32" gapBefore="0" mediaItemID="28" duration="4">
+      <Effects>
+        <PanAndZoomShapeEffect effectTemplateID="PanAndZoomEffectZoomInFullToCenterTemplate">
+          <BoundProperties>
+            <BoundPropertyInt Name="effectType" Value="5" />
+          </BoundProperties>
+        </PanAndZoomShapeEffect>
+        <ShaderEffect effectTemplateID="FadeOutToBlackEffectTemplate">
+          <BoundProperties />
+        </ShaderEffect>
+      </Effects>
+      <Transitions>
+        <ShapeEffect effectTemplateID="BlurTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <TitleClip extentID="86" gapBefore="0" duration="4">
+      <Effects />
+      <Transitions>
+        <ShapeEffect effectTemplateID="BlurTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyFloatSet Name="diffuseColor">
+          <BoundPropertyFloatElement Value="0" />
+          <BoundPropertyFloatElement Value="0" />
+          <BoundPropertyFloatElement Value="0" />
+        </BoundPropertyFloatSet>
+        <BoundPropertyFloat Name="transparency" Value="0" />
+      </BoundProperties>
+    </TitleClip>
+    <ImageClip extentID="33" gapBefore="0" mediaItemID="29" duration="4">
+      <Effects />
+      <Transitions>
+        <ShapeEffect effectTemplateID="CinematicBlurTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <TitleClip extentID="87" gapBefore="72.445312500000014" duration="0.33333333333317228">
+      <Effects>
+        <TextEffect effectTemplateID="TextEffectCinematicCaption1Template" TextScriptId="12">
+          <BoundProperties>
+            <BoundPropertyBool Name="automatic" Value="false" />
+            <BoundPropertyFloatSet Name="color">
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyStringSet Name="family">
+              <BoundPropertyStringElement Value="Cambria" />
+            </BoundPropertyStringSet>
+            <BoundPropertyBool Name="horizontal" Value="true" />
+            <BoundPropertyStringSet Name="justify">
+              <BoundPropertyStringElement Value="MIDDLE" />
+            </BoundPropertyStringSet>
+            <BoundPropertyFloatSet Name="length" />
+            <BoundPropertyFloat Name="maxExtent" Value="0" />
+            <BoundPropertyFloatSet Name="position">
+              <BoundPropertyFloatElement Value="0" />
+              <BoundPropertyFloatElement Value="0.29999995231628418" />
+              <BoundPropertyFloatElement Value="0.02500000037252903" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyFloat Name="size" Value="0.3333333432674408" />
+            <BoundPropertyStringSet Name="string">
+              <BoundPropertyStringElement Value="Park &amp; Tourism Places" />
+            </BoundPropertyStringSet>
+            <BoundPropertyString Name="style" Value="Plain" />
+            <BoundPropertyFloat Name="transparency" Value="0" />
+          </BoundProperties>
+        </TextEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyFloatSet Name="diffuseColor">
+          <BoundPropertyFloatElement Value="0.75" />
+          <BoundPropertyFloatElement Value="1" />
+          <BoundPropertyFloatElement Value="0" />
+        </BoundPropertyFloatSet>
+        <BoundPropertyFloat Name="transparency" Value="1" />
+      </BoundProperties>
+    </TitleClip>
+    <ImageClip extentID="34" gapBefore="0" mediaItemID="30" duration="4">
+      <Effects>
+        <PanAndZoomShapeEffect effectTemplateID="PanAndZoomEffectZoomInFullToCenterWithCWRotationTemplate">
+          <BoundProperties>
+            <BoundPropertyInt Name="effectType" Value="5" />
+          </BoundProperties>
+        </PanAndZoomShapeEffect>
+      </Effects>
+      <Transitions>
+        <ShapeEffect effectTemplateID="BlurTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="35" gapBefore="0" mediaItemID="31" duration="4">
+      <Effects>
+        <PanAndZoomShapeEffect effectTemplateID="PanAndZoomEffectZoomOutCenterToFullTemplate">
+          <BoundProperties>
+            <BoundPropertyInt Name="effectType" Value="6" />
+          </BoundProperties>
+        </PanAndZoomShapeEffect>
+      </Effects>
+      <Transitions>
+        <ShapeEffect effectTemplateID="CrossfadeTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="36" gapBefore="0" mediaItemID="32" duration="4">
+      <Effects />
+      <Transitions>
+        <ShapeEffect effectTemplateID="BlurTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <TitleClip extentID="90" gapBefore="0" duration="7">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyFloatSet Name="diffuseColor">
+          <BoundPropertyFloatElement Value="0" />
+          <BoundPropertyFloatElement Value="0" />
+          <BoundPropertyFloatElement Value="0" />
+        </BoundPropertyFloatSet>
+        <BoundPropertyFloat Name="transparency" Value="0" />
+      </BoundProperties>
+    </TitleClip>
+    <ImageClip extentID="37" gapBefore="0" mediaItemID="33" duration="4">
+      <Effects>
+        <PanAndZoomShapeEffect effectTemplateID="PanAndZoomEffectZoomInFullToCenterTemplate">
+          <BoundProperties>
+            <BoundPropertyInt Name="effectType" Value="5" />
+          </BoundProperties>
+        </PanAndZoomShapeEffect>
+      </Effects>
+      <Transitions>
+        <ShapeEffect effectTemplateID="BlurTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <AudioClip extentID="91" gapBefore="0" mediaItemID="55" inTime="0" outTime="0" speed="1">
+      <Effects>
+        <AudioEffect effectTemplateID="AudioFadeEffectTemplate">
+          <BoundProperties>
+            <BoundPropertyFloat Name="AudioFadeInDuration" Value="0" />
+            <BoundPropertyFloat Name="AudioFadeOutDuration" Value="5" />
+          </BoundProperties>
+        </AudioEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyFloat Name="Volume" Value="1" />
+      </BoundProperties>
+    </AudioClip>
+    <ImageClip extentID="38" gapBefore="0" mediaItemID="34" duration="4">
+      <Effects>
+        <PanAndZoomShapeEffect effectTemplateID="PanAndZoomEffectZoomInFullToCenterTemplate">
+          <BoundProperties>
+            <BoundPropertyInt Name="effectType" Value="5" />
+          </BoundProperties>
+        </PanAndZoomShapeEffect>
+      </Effects>
+      <Transitions>
+        <ShapeEffect effectTemplateID="BlurThroughBlackTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="39" gapBefore="0" mediaItemID="35" duration="4">
+      <Effects>
+        <PanAndZoomShapeEffect effectTemplateID="PanAndZoomEffectZoomInFullToCenterWithCWRotationTemplate">
+          <BoundProperties>
+            <BoundPropertyInt Name="effectType" Value="5" />
+          </BoundProperties>
+        </PanAndZoomShapeEffect>
+      </Effects>
+      <Transitions>
+        <ShapeEffect effectTemplateID="CinematicBlurTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="40" gapBefore="0" mediaItemID="36" duration="4">
+      <Effects>
+        <PanAndZoomShapeEffect effectTemplateID="PanAndZoomEffectZoomInFullToCenterWithCCWRotationTemplate">
+          <BoundProperties>
+            <BoundPropertyInt Name="effectType" Value="5" />
+          </BoundProperties>
+        </PanAndZoomShapeEffect>
+      </Effects>
+      <Transitions>
+        <ShapeEffect effectTemplateID="BlurTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="41" gapBefore="0" mediaItemID="37" duration="4">
+      <Effects>
+        <PanAndZoomShapeEffect effectTemplateID="PanAndZoomEffectZoomInFullToCenterTemplate">
+          <BoundProperties>
+            <BoundPropertyInt Name="effectType" Value="5" />
+          </BoundProperties>
+        </PanAndZoomShapeEffect>
+      </Effects>
+      <Transitions>
+        <ShapeEffect effectTemplateID="CinematicBlurTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <TitleClip extentID="95" gapBefore="7.166666666666913" duration="3.4999999999997158">
+      <Effects>
+        <TextEffect effectTemplateID="TextEffectCinematicCreditsRightTemplate" TextScriptId="16">
+          <BoundProperties>
+            <BoundPropertyBool Name="automatic" Value="false" />
+            <BoundPropertyFloatSet Name="color">
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyStringSet Name="family">
+              <BoundPropertyStringElement Value="Cambria" />
+            </BoundPropertyStringSet>
+            <BoundPropertyBool Name="horizontal" Value="true" />
+            <BoundPropertyStringSet Name="justify">
+              <BoundPropertyStringElement Value="BEGIN" />
+            </BoundPropertyStringSet>
+            <BoundPropertyFloatSet Name="length" />
+            <BoundPropertyFloat Name="maxExtent" Value="0" />
+            <BoundPropertyFloatSet Name="position">
+              <BoundPropertyFloatElement Value="0.99278497695922852" />
+              <BoundPropertyFloatElement Value="0.92307686805725098" />
+              <BoundPropertyFloatElement Value="0.02500000037252903" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyFloat Name="size" Value="0.30000001192092896" />
+            <BoundPropertyStringSet Name="string">
+              <BoundPropertyStringElement Value="DIRECTED BY" />
+              <BoundPropertyStringElement Value="" />
+              <BoundPropertyStringElement Value="[Enter your name here]" />
+            </BoundPropertyStringSet>
+            <BoundPropertyString Name="style" Value="Plain" />
+            <BoundPropertyFloat Name="transparency" Value="0" />
+          </BoundProperties>
+        </TextEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyFloatSet Name="diffuseColor">
+          <BoundPropertyFloatElement Value="0.75" />
+          <BoundPropertyFloatElement Value="1" />
+          <BoundPropertyFloatElement Value="0" />
+        </BoundPropertyFloatSet>
+        <BoundPropertyFloat Name="transparency" Value="1" />
+      </BoundProperties>
+    </TitleClip>
+    <ImageClip extentID="42" gapBefore="0" mediaItemID="38" duration="4">
+      <Effects />
+      <Transitions>
+        <ShapeEffect effectTemplateID="BlurTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <TitleClip extentID="96" gapBefore="0.50000000000028422" duration="2.166666666666373">
+      <Effects>
+        <TextEffect effectTemplateID="TextEffectCinematicCreditsLeftTemplate" TextScriptId="15">
+          <BoundProperties>
+            <BoundPropertyBool Name="automatic" Value="false" />
+            <BoundPropertyFloatSet Name="color">
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyStringSet Name="family">
+              <BoundPropertyStringElement Value="Cambria" />
+            </BoundPropertyStringSet>
+            <BoundPropertyBool Name="horizontal" Value="true" />
+            <BoundPropertyStringSet Name="justify">
+              <BoundPropertyStringElement Value="END" />
+            </BoundPropertyStringSet>
+            <BoundPropertyFloatSet Name="length" />
+            <BoundPropertyFloat Name="maxExtent" Value="0" />
+            <BoundPropertyFloatSet Name="position">
+              <BoundPropertyFloatElement Value="-1.0158729553222656" />
+              <BoundPropertyFloatElement Value="0.92307686805725098" />
+              <BoundPropertyFloatElement Value="0.02500000037252903" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyFloat Name="size" Value="0.30000001192092896" />
+            <BoundPropertyStringSet Name="string">
+              <BoundPropertyStringElement Value="STARRING" />
+              <BoundPropertyStringElement Value="" />
+              <BoundPropertyStringElement Value="[Enter your cast here]" />
+            </BoundPropertyStringSet>
+            <BoundPropertyString Name="style" Value="Plain" />
+            <BoundPropertyFloat Name="transparency" Value="0" />
+          </BoundProperties>
+        </TextEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyFloatSet Name="diffuseColor">
+          <BoundPropertyFloatElement Value="0.75" />
+          <BoundPropertyFloatElement Value="1" />
+          <BoundPropertyFloatElement Value="0" />
+        </BoundPropertyFloatSet>
+        <BoundPropertyFloat Name="transparency" Value="1" />
+      </BoundProperties>
+    </TitleClip>
+    <ImageClip extentID="43" gapBefore="0" mediaItemID="39" duration="4">
+      <Effects>
+        <PanAndZoomShapeEffect effectTemplateID="PanAndZoomEffectZoomInFullToCenterTemplate">
+          <BoundProperties>
+            <BoundPropertyInt Name="effectType" Value="5" />
+          </BoundProperties>
+        </PanAndZoomShapeEffect>
+        <ShaderEffect effectTemplateID="FadeOutToBlackEffectTemplate">
+          <BoundProperties />
+        </ShaderEffect>
+      </Effects>
+      <Transitions>
+        <ShapeEffect effectTemplateID="BlurTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <TitleClip extentID="97" gapBefore="1.833333333333627" duration="0.83333333333303017">
+      <Effects>
+        <TextEffect effectTemplateID="TextEffectCinematicCreditsRightTemplate" TextScriptId="16">
+          <BoundProperties>
+            <BoundPropertyBool Name="automatic" Value="false" />
+            <BoundPropertyFloatSet Name="color">
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyStringSet Name="family">
+              <BoundPropertyStringElement Value="Cambria" />
+            </BoundPropertyStringSet>
+            <BoundPropertyBool Name="horizontal" Value="true" />
+            <BoundPropertyStringSet Name="justify">
+              <BoundPropertyStringElement Value="BEGIN" />
+            </BoundPropertyStringSet>
+            <BoundPropertyFloatSet Name="length" />
+            <BoundPropertyFloat Name="maxExtent" Value="0" />
+            <BoundPropertyFloatSet Name="position">
+              <BoundPropertyFloatElement Value="0.99278497695922852" />
+              <BoundPropertyFloatElement Value="0.92307686805725098" />
+              <BoundPropertyFloatElement Value="0.02500000037252903" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyFloat Name="size" Value="0.30000001192092896" />
+            <BoundPropertyStringSet Name="string">
+              <BoundPropertyStringElement Value="FILMED ON LOCATION" />
+              <BoundPropertyStringElement Value="" />
+              <BoundPropertyStringElement Value="Varanasi, India" />
+            </BoundPropertyStringSet>
+            <BoundPropertyString Name="style" Value="Plain" />
+            <BoundPropertyFloat Name="transparency" Value="0" />
+          </BoundProperties>
+        </TextEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyFloatSet Name="diffuseColor">
+          <BoundPropertyFloatElement Value="0.75" />
+          <BoundPropertyFloatElement Value="1" />
+          <BoundPropertyFloatElement Value="0" />
+        </BoundPropertyFloatSet>
+        <BoundPropertyFloat Name="transparency" Value="1" />
+      </BoundProperties>
+    </TitleClip>
+    <ImageClip extentID="44" gapBefore="0" mediaItemID="40" duration="4">
+      <Effects />
+      <Transitions>
+        <ShapeEffect effectTemplateID="BlurTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="45" gapBefore="0" mediaItemID="41" duration="4">
+      <Effects>
+        <PanAndZoomShapeEffect effectTemplateID="PanAndZoomEffectZoomInFullToCenterWithCWRotationTemplate">
+          <BoundProperties>
+            <BoundPropertyInt Name="effectType" Value="5" />
+          </BoundProperties>
+        </PanAndZoomShapeEffect>
+      </Effects>
+      <Transitions>
+        <ShapeEffect effectTemplateID="BlurThroughBlackTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="46" gapBefore="0" mediaItemID="42" duration="4">
+      <Effects>
+        <PanAndZoomShapeEffect effectTemplateID="PanAndZoomEffectZoomOutCenterToFullTemplate">
+          <BoundProperties>
+            <BoundPropertyInt Name="effectType" Value="6" />
+          </BoundProperties>
+        </PanAndZoomShapeEffect>
+      </Effects>
+      <Transitions>
+        <ShapeEffect effectTemplateID="CinematicBlurTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="47" gapBefore="0" mediaItemID="43" duration="4">
+      <Effects />
+      <Transitions>
+        <ShapeEffect effectTemplateID="BlurTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <TitleClip extentID="101" gapBefore="0" duration="7">
+      <Effects>
+        <TextEffect effectTemplateID="TextEffectCinematicTitleTemplate" TextScriptId="11">
+          <BoundProperties>
+            <BoundPropertyBool Name="automatic" Value="false" />
+            <BoundPropertyFloatSet Name="color">
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyStringSet Name="family">
+              <BoundPropertyStringElement Value="Cambria" />
+            </BoundPropertyStringSet>
+            <BoundPropertyBool Name="horizontal" Value="true" />
+            <BoundPropertyStringSet Name="justify">
+              <BoundPropertyStringElement Value="MIDDLE" />
+            </BoundPropertyStringSet>
+            <BoundPropertyFloatSet Name="length" />
+            <BoundPropertyFloat Name="maxExtent" Value="0" />
+            <BoundPropertyFloatSet Name="position">
+              <BoundPropertyFloatElement Value="0" />
+              <BoundPropertyFloatElement Value="0.29999995231628418" />
+              <BoundPropertyFloatElement Value="0.02500000037252903" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyFloat Name="size" Value="0.5" />
+            <BoundPropertyStringSet Name="string">
+              <BoundPropertyStringElement Value="Ganga-River" />
+            </BoundPropertyStringSet>
+            <BoundPropertyString Name="style" Value="Plain" />
+            <BoundPropertyFloat Name="transparency" Value="0" />
+          </BoundProperties>
+        </TextEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyFloatSet Name="diffuseColor">
+          <BoundPropertyFloatElement Value="0.75" />
+          <BoundPropertyFloatElement Value="1" />
+          <BoundPropertyFloatElement Value="0" />
+        </BoundPropertyFloatSet>
+        <BoundPropertyFloat Name="transparency" Value="1" />
+      </BoundProperties>
+    </TitleClip>
+    <ImageClip extentID="48" gapBefore="0" mediaItemID="44" duration="4">
+      <Effects>
+        <PanAndZoomShapeEffect effectTemplateID="PanAndZoomEffectZoomInFullToCenterTemplate">
+          <BoundProperties>
+            <BoundPropertyInt Name="effectType" Value="5" />
+          </BoundProperties>
+        </PanAndZoomShapeEffect>
+      </Effects>
+      <Transitions>
+        <ShapeEffect effectTemplateID="CinematicBlurTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="49" gapBefore="0" mediaItemID="45" duration="4">
+      <Effects>
+        <PanAndZoomShapeEffect effectTemplateID="PanAndZoomEffectZoomInFullToCenterWithCCWRotationTemplate">
+          <BoundProperties>
+            <BoundPropertyInt Name="effectType" Value="5" />
+          </BoundProperties>
+        </PanAndZoomShapeEffect>
+      </Effects>
+      <Transitions>
+        <ShapeEffect effectTemplateID="BlurTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="50" gapBefore="0" mediaItemID="46" duration="4">
+      <Effects>
+        <PanAndZoomShapeEffect effectTemplateID="PanAndZoomEffectZoomInFullToCenterTemplate">
+          <BoundProperties>
+            <BoundPropertyInt Name="effectType" Value="5" />
+          </BoundProperties>
+        </PanAndZoomShapeEffect>
+      </Effects>
+      <Transitions>
+        <ShapeEffect effectTemplateID="BlurTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="51" gapBefore="0" mediaItemID="47" duration="4">
+      <Effects />
+      <Transitions>
+        <ShapeEffect effectTemplateID="BlurThroughBlackTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="52" gapBefore="0" mediaItemID="48" duration="4">
+      <Effects>
+        <PanAndZoomShapeEffect effectTemplateID="PanAndZoomEffectZoomOutCenterToFullTemplate">
+          <BoundProperties>
+            <BoundPropertyInt Name="effectType" Value="6" />
+          </BoundProperties>
+        </PanAndZoomShapeEffect>
+      </Effects>
+      <Transitions>
+        <ShapeEffect effectTemplateID="CinematicBlurTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ExtentSelector extentID="1" gapBefore="0" primaryTrack="true">
+      <Effects />
+      <Transitions />
+      <BoundProperties />
+      <ExtentRefs>
+        <ExtentRef id="126" />
+        <ExtentRef id="90" />
+        <ExtentRef id="74" />
+        <ExtentRef id="78" />
+        <ExtentRef id="76" />
+        <ExtentRef id="82" />
+        <ExtentRef id="80" />
+        <ExtentRef id="6" />
+        <ExtentRef id="7" />
+        <ExtentRef id="8" />
+        <ExtentRef id="9" />
+        <ExtentRef id="10" />
+        <ExtentRef id="11" />
+        <ExtentRef id="12" />
+        <ExtentRef id="13" />
+        <ExtentRef id="14" />
+        <ExtentRef id="15" />
+        <ExtentRef id="16" />
+        <ExtentRef id="17" />
+        <ExtentRef id="18" />
+        <ExtentRef id="19" />
+        <ExtentRef id="20" />
+        <ExtentRef id="21" />
+        <ExtentRef id="108" />
+        <ExtentRef id="22" />
+        <ExtentRef id="23" />
+        <ExtentRef id="24" />
+        <ExtentRef id="25" />
+        <ExtentRef id="26" />
+        <ExtentRef id="27" />
+        <ExtentRef id="28" />
+        <ExtentRef id="29" />
+        <ExtentRef id="30" />
+        <ExtentRef id="31" />
+        <ExtentRef id="32" />
+        <ExtentRef id="33" />
+        <ExtentRef id="34" />
+        <ExtentRef id="35" />
+        <ExtentRef id="36" />
+        <ExtentRef id="37" />
+        <ExtentRef id="38" />
+        <ExtentRef id="39" />
+        <ExtentRef id="40" />
+        <ExtentRef id="41" />
+        <ExtentRef id="42" />
+        <ExtentRef id="84" />
+        <ExtentRef id="43" />
+        <ExtentRef id="44" />
+        <ExtentRef id="45" />
+        <ExtentRef id="46" />
+        <ExtentRef id="47" />
+        <ExtentRef id="48" />
+        <ExtentRef id="86" />
+        <ExtentRef id="5" />
+        <ExtentRef id="49" />
+        <ExtentRef id="50" />
+        <ExtentRef id="51" />
+        <ExtentRef id="52" />
+        <ExtentRef id="53" />
+        <ExtentRef id="54" />
+        <ExtentRef id="55" />
+        <ExtentRef id="56" />
+        <ExtentRef id="57" />
+        <ExtentRef id="58" />
+        <ExtentRef id="125" />
+        <ExtentRef id="123" />
+        <ExtentRef id="124" />
+      </ExtentRefs>
+    </ExtentSelector>
+    <ExtentSelector extentID="2" gapBefore="0" primaryTrack="false">
+      <Effects />
+      <Transitions />
+      <BoundProperties />
+      <ExtentRefs>
+        <ExtentRef id="91" />
+      </ExtentRefs>
+    </ExtentSelector>
+    <ExtentSelector extentID="3" gapBefore="0" primaryTrack="false">
+      <Effects />
+      <Transitions />
+      <BoundProperties />
+      <ExtentRefs />
+    </ExtentSelector>
+    <ExtentSelector extentID="4" gapBefore="0" primaryTrack="false">
+      <Effects />
+      <Transitions />
+      <BoundProperties />
+      <ExtentRefs>
+        <ExtentRef id="101" />
+        <ExtentRef id="68" />
+        <ExtentRef id="75" />
+        <ExtentRef id="79" />
+        <ExtentRef id="77" />
+        <ExtentRef id="83" />
+        <ExtentRef id="81" />
+        <ExtentRef id="109" />
+        <ExtentRef id="87" />
+        <ExtentRef id="60" />
+        <ExtentRef id="95" />
+        <ExtentRef id="96" />
+        <ExtentRef id="97" />
+      </ExtentRefs>
+    </ExtentSelector>
+  </Extents>
+  <BoundPlaceholders>
+    <BoundPlaceholder placeholderID="SingleExtentView" extentID="0" />
+    <BoundPlaceholder placeholderID="Main" extentID="1" />
+    <BoundPlaceholder placeholderID="SoundTrack" extentID="2" />
+    <BoundPlaceholder placeholderID="Text" extentID="4" />
+    <BoundPlaceholder placeholderID="Narration" extentID="3" />
+  </BoundPlaceholders>
+  <BoundProperties>
+    <BoundPropertyFloatSet Name="AspectRatio">
+      <BoundPropertyFloatElement Value="1.7777776718139648" />
+    </BoundPropertyFloatSet>
+    <BoundPropertyFloat Name="SoundTrackMix" Value="1" />
+  </BoundProperties>
+  <ThemeOperationLog themeID="2">
+    <MonolithicThemeOperations>
+      <MTOMakeAssetBkgrdForTitleCredit NewImageExtentID="125" />
+      <MTOMakeAssetBkgrdForTitleCredit NewImageExtentID="123" />
+      <MTOMakeAssetBkgrdForTitleCredit NewImageExtentID="124" />
+    </MonolithicThemeOperations>
+  </ThemeOperationLog>
+</Project>

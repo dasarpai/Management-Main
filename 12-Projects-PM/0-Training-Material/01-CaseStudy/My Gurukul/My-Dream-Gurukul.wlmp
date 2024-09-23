@@ -1,0 +1,2368 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="My-Dream-Gurukul" themeId="0" version="65538" templateID="SimpleProjectTemplate">
+  <MediaItems>
+    <MediaItem id="163" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Trees &amp; Plants\images26.jpg" arWidth="259" arHeight="194" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="164" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Trees &amp; Plants\images25.jpg" arWidth="259" arHeight="194" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="1" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Sketches\images25.jpg" arWidth="275" arHeight="183" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="165" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Trees &amp; Plants\ashikaga-flower-park-2[2].jpg" arWidth="790" arHeight="592" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="2" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Sketches\images49.jpg" arWidth="259" arHeight="194" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="166" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Gardens\images1.jpg" arWidth="259" arHeight="194" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="3" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\School\images1.jpg" arWidth="275" arHeight="183" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="167" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Gardens\images2.jpg" arWidth="284" arHeight="177" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="4" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\School\images2.jpg" arWidth="287" arHeight="176" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="168" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Gardens\images3.jpg" arWidth="259" arHeight="194" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="5" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\School\images3.jpg" arWidth="321" arHeight="157" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="169" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Gardens\images4.jpg" arWidth="183" arHeight="275" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="6" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\School\images4.jpg" arWidth="289" arHeight="174" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="170" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Gardens\images5.jpg" arWidth="351" arHeight="144" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="7" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\School\images5.jpg" arWidth="275" arHeight="183" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="171" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Gardens\images6.jpg" arWidth="275" arHeight="184" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="8" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\School\images6.jpg" arWidth="364" arHeight="139" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="172" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Gardens\images7.jpg" arWidth="624" arHeight="468" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="9" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\School\images7.jpg" arWidth="354" arHeight="142" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="173" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Gardens\images8.jpg" arWidth="275" arHeight="183" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="10" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\School\images8.jpg" arWidth="274" arHeight="184" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="174" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Gardens\images14.jpg" arWidth="259" arHeight="194" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="11" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\School\images9.jpg" arWidth="355" arHeight="142" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="175" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Gardens\images28.jpg" arWidth="259" arHeight="194" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="12" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\School\images10.jpg" arWidth="259" arHeight="194" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="176" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Gardens\images50.jpg" arWidth="362" arHeight="139" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="13" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Designs\images.jpg" arWidth="259" arHeight="194" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="14" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Designs\images2.jpg" arWidth="179" arHeight="281" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="15" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Designs\images8.jpg" arWidth="334" arHeight="151" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="16" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Designs\images9.jpg" arWidth="286" arHeight="176" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="17" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Designs\images10.jpg" arWidth="301" arHeight="168" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="18" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Designs\images31.jpg" arWidth="251" arHeight="201" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="19" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Designs\images47.jpg" arWidth="284" arHeight="177" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="20" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Designs\images48.jpg" arWidth="238" arHeight="212" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="21" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Play Area\images3.jpg" arWidth="259" arHeight="194" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="22" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Play Area\images4.jpg" arWidth="259" arHeight="194" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="23" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Play Area\images5.jpg" arWidth="290" arHeight="174" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="24" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Play Area\images6.jpg" arWidth="297" arHeight="170" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="25" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Play Area\index.jpg" arWidth="259" arHeight="194" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="26" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Play Area\index2.jpg" arWidth="275" arHeight="183" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="27" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Lanscapes\images67.jpg" arWidth="267" arHeight="189" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="28" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Lanscapes\images66.jpg" arWidth="273" arHeight="184" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="29" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Lanscapes\images65.jpg" arWidth="300" arHeight="168" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="30" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Lanscapes\images64.jpg" arWidth="275" arHeight="183" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="31" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Lanscapes\images63.jpg" arWidth="259" arHeight="194" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="32" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Lanscapes\images62.jpg" arWidth="267" arHeight="188" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="33" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Lanscapes\images61.jpg" arWidth="276" arHeight="183" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="34" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Lanscapes\images60.jpg" arWidth="276" arHeight="183" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="35" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Lanscapes\images59.jpg" arWidth="259" arHeight="194" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="36" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Lanscapes\images58.jpg" arWidth="259" arHeight="194" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="37" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Lanscapes\images57.jpg" arWidth="430" arHeight="117" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="38" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Lanscapes\images56.jpg" arWidth="300" arHeight="168" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="39" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Lanscapes\images54.jpg" arWidth="277" arHeight="182" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="40" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Lanscapes\images53.jpg" arWidth="259" arHeight="194" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="41" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Lanscapes\images52.jpg" arWidth="259" arHeight="194" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="42" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Lanscapes\images50.jpg" arWidth="266" arHeight="190" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="43" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Lanscapes\images48.jpg" arWidth="300" arHeight="168" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="44" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Lanscapes\images45.jpg" arWidth="284" arHeight="177" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="45" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Lanscapes\images44.jpg" arWidth="275" arHeight="183" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="46" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Lanscapes\images43.jpg" arWidth="300" arHeight="168" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="47" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Lanscapes\images42.jpg" arWidth="300" arHeight="168" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="48" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Lanscapes\images40.jpg" arWidth="300" arHeight="168" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="49" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Lanscapes\images39.jpg" arWidth="275" arHeight="183" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="50" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Lanscapes\images38.jpg" arWidth="300" arHeight="168" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="51" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Lanscapes\images37.jpg" arWidth="284" arHeight="177" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="52" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Lanscapes\images36.jpg" arWidth="284" arHeight="177" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="53" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Lanscapes\images35.jpg" arWidth="259" arHeight="194" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="54" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Lanscapes\images34.jpg" arWidth="300" arHeight="168" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="55" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Lanscapes\images30.jpg" arWidth="284" arHeight="177" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="56" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Lanscapes\images27.jpg" arWidth="284" arHeight="177" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="57" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Lanscapes\images26.jpg" arWidth="259" arHeight="194" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="58" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Lanscapes\images24.jpg" arWidth="259" arHeight="194" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="59" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Lanscapes\images23.jpg" arWidth="318" arHeight="159" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="60" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Lanscapes\images19.jpg" arWidth="259" arHeight="194" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="61" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Lanscapes\images18.jpg" arWidth="259" arHeight="194" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="62" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Lanscapes\images11.jpg" arWidth="252" arHeight="200" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="63" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Lanscapes\images10.jpg" arWidth="276" arHeight="183" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="64" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Facilities\images1.jpg" arWidth="259" arHeight="194" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="65" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Facilities\images2.jpg" arWidth="259" arHeight="194" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="66" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Facilities\images3.jpg" arWidth="276" arHeight="183" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="67" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Facilities\images4.jpg" arWidth="275" arHeight="183" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="68" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Facilities\images5.jpg" arWidth="355" arHeight="142" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="69" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Facilities\images6.jpg" arWidth="384" arHeight="131" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="70" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Facilities\images7.jpg" arWidth="412" arHeight="122" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="71" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Facilities\images8.jpg" arWidth="273" arHeight="185" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="72" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Facilities\images9.jpg" arWidth="261" arHeight="193" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="73" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Facilities\images10.jpg" arWidth="259" arHeight="194" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="74" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Facilities\images12.jpg" arWidth="259" arHeight="194" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="75" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Fruits\images20.jpg" arWidth="290" arHeight="174" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="76" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Fruits\images19.jpg" arWidth="181" arHeight="278" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="77" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Fruits\images18.jpg" arWidth="275" arHeight="183" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="78" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Fruits\images17.jpg" arWidth="259" arHeight="194" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="79" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Fruits\images16.jpg" arWidth="259" arHeight="194" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="80" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Fruits\images15.jpg" arWidth="251" arHeight="201" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="81" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Fruits\images14.jpg" arWidth="290" arHeight="174" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="82" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Fruits\images13.jpg" arWidth="300" arHeight="168" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="83" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Fruits\images12.jpg" arWidth="259" arHeight="194" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="84" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Fruits\images11.jpg" arWidth="280" arHeight="180" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="85" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Fruits\images10.jpg" arWidth="259" arHeight="194" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="86" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Fruits\images9.jpg" arWidth="299" arHeight="168" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="87" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Fruits\images8.jpg" arWidth="275" arHeight="183" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="88" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Fruits\images7.jpg" arWidth="128" arHeight="120" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="89" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Fruits\images6.jpg" arWidth="225" arHeight="225" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="90" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Fruits\images5.jpg" arWidth="225" arHeight="225" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="91" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Fruits\images4.jpg" arWidth="225" arHeight="225" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="92" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Fruits\images3.jpg" arWidth="276" arHeight="183" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="93" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Fruits\images2.jpg" arWidth="239" arHeight="160" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="94" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Fruits\images1.jpg" arWidth="259" arHeight="194" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="95" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Flowers\images43.jpg" arWidth="284" arHeight="177" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="96" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Flowers\images42.jpg" arWidth="259" arHeight="194" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="97" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Flowers\images41.jpg" arWidth="225" arHeight="225" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="98" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Flowers\images40.jpg" arWidth="259" arHeight="194" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="99" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Flowers\images39.jpg" arWidth="275" arHeight="183" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="100" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Flowers\images38.jpg" arWidth="183" arHeight="275" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="101" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Flowers\images37.jpg" arWidth="284" arHeight="177" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="102" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Flowers\images36.jpg" arWidth="224" arHeight="224" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="103" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Flowers\Images35.jpg" arWidth="520" arHeight="355" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="104" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Flowers\images32.jpg" arWidth="225" arHeight="225" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="105" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Flowers\images31.jpg" arWidth="225" arHeight="225" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="106" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Flowers\images30.jpg" arWidth="287" arHeight="175" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="107" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Flowers\images29.jpg" arWidth="265" arHeight="190" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="108" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Flowers\images28.jpg" arWidth="276" arHeight="183" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="109" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Flowers\images27.jpg" arWidth="276" arHeight="183" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="110" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Flowers\images24.jpg" arWidth="275" arHeight="183" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="111" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Flowers\images23.jpg" arWidth="259" arHeight="194" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="112" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Flowers\images22.jpg" arWidth="251" arHeight="201" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="113" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Flowers\images21.jpg" arWidth="284" arHeight="177" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="114" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Flowers\images20.jpg" arWidth="274" arHeight="184" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="115" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Flowers\images19.jpg" arWidth="201" arHeight="251" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="116" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Flowers\images18.jpg" arWidth="358" arHeight="141" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="117" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Flowers\images17.jpg" arWidth="284" arHeight="177" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="118" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Flowers\images16.jpg" arWidth="259" arHeight="194" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="119" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Flowers\images15.jpg" arWidth="284" arHeight="177" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="120" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Flowers\images14.jpg" arWidth="300" arHeight="168" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="121" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Flowers\images13.jpg" arWidth="259" arHeight="194" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="122" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Flowers\images12.jpg" arWidth="284" arHeight="177" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="123" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Flowers\images11.jpg" arWidth="259" arHeight="194" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="124" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Flowers\images10.jpg" arWidth="259" arHeight="194" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="125" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Flowers\images9.jpg" arWidth="284" arHeight="177" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="126" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Flowers\images8.jpg" arWidth="275" arHeight="184" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="127" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Flowers\images7.jpg" arWidth="275" arHeight="183" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="128" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Flowers\images6.jpg" arWidth="259" arHeight="194" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="129" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Flowers\images5.jpg" arWidth="284" arHeight="177" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="130" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Flowers\images4.jpg" arWidth="259" arHeight="194" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="131" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Flowers\images3.jpg" arWidth="284" arHeight="177" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="132" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Flowers\images2.jpg" arWidth="262" arHeight="192" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="133" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Flowers\images1.jpg" arWidth="284" arHeight="177" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="134" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Trees &amp; Plants\images60.jpg" arWidth="271" arHeight="186" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="135" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Trees &amp; Plants\images59.jpg" arWidth="259" arHeight="194" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="136" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Trees &amp; Plants\images58.jpg" arWidth="195" arHeight="259" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="137" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Trees &amp; Plants\images57.jpg" arWidth="275" arHeight="183" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="138" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Trees &amp; Plants\images56.jpg" arWidth="284" arHeight="177" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="139" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Trees &amp; Plants\images55.jpg" arWidth="259" arHeight="194" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="140" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Trees &amp; Plants\images54.jpg" arWidth="225" arHeight="225" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="141" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Trees &amp; Plants\images53.jpg" arWidth="274" arHeight="184" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="142" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Trees &amp; Plants\images52.jpg" arWidth="253" arHeight="199" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="143" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Trees &amp; Plants\images51.jpg" arWidth="279" arHeight="181" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="144" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Trees &amp; Plants\images50.jpg" arWidth="279" arHeight="181" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="145" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Trees &amp; Plants\images49.jpg" arWidth="235" arHeight="215" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="146" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Trees &amp; Plants\images48.jpg" arWidth="315" arHeight="160" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="147" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Trees &amp; Plants\images47.jpg" arWidth="179" arHeight="281" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="148" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Trees &amp; Plants\images46.jpg" arWidth="234" arHeight="216" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="149" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Trees &amp; Plants\images45.jpg" arWidth="225" arHeight="225" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="150" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Trees &amp; Plants\images44.jpg" arWidth="194" arHeight="259" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="151" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Trees &amp; Plants\images43.jpg" arWidth="259" arHeight="194" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="152" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Trees &amp; Plants\images42.jpg" arWidth="225" arHeight="225" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="153" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Trees &amp; Plants\images41.jpg" arWidth="259" arHeight="195" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="154" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Trees &amp; Plants\images40.jpg" arWidth="275" arHeight="183" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="155" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Trees &amp; Plants\images39.jpg" arWidth="259" arHeight="194" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="156" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Trees &amp; Plants\images34.jpg" arWidth="226" arHeight="223" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="157" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Trees &amp; Plants\images32.jpg" arWidth="225" arHeight="225" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="158" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Trees &amp; Plants\images31.jpg" arWidth="240" arHeight="200" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="159" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Trees &amp; Plants\images30.jpg" arWidth="259" arHeight="195" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="160" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Trees &amp; Plants\images29.jpg" arWidth="259" arHeight="194" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="161" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Trees &amp; Plants\images28.jpg" arWidth="334" arHeight="151" duration="0" songTitle="" songArtist="" songAlbum="" />
+    <MediaItem id="162" filePath="C:\01-Works\02-Work\12-Training-Material\00-CaseStudy\Park-Of-International-Repute\Trees &amp; Plants\images27.jpg" arWidth="178" arHeight="283" duration="0" songTitle="" songArtist="" songAlbum="" />
+  </MediaItems>
+  <Extents>
+    <ImageClip extentID="163" gapBefore="0" mediaItemID="133" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="164" gapBefore="0" mediaItemID="134" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="165" gapBefore="0" mediaItemID="135" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="166" gapBefore="0" mediaItemID="136" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="167" gapBefore="0" mediaItemID="137" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="168" gapBefore="0" mediaItemID="138" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="169" gapBefore="0" mediaItemID="139" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="170" gapBefore="0" mediaItemID="140" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <TitleClip extentID="7" gapBefore="0" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyFloatSet Name="diffuseColor">
+          <BoundPropertyFloatElement Value="0" />
+          <BoundPropertyFloatElement Value="0" />
+          <BoundPropertyFloatElement Value="0" />
+        </BoundPropertyFloatSet>
+        <BoundPropertyFloat Name="transparency" Value="0" />
+      </BoundProperties>
+    </TitleClip>
+    <ImageClip extentID="171" gapBefore="0" mediaItemID="141" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <TitleClip extentID="8" gapBefore="20" duration="2">
+      <Effects>
+        <TextEffect effectTemplateID="TextEffectFadeZoomTemplate" TextScriptId="9">
+          <BoundProperties>
+            <BoundPropertyBool Name="automatic" Value="false" />
+            <BoundPropertyFloatSet Name="color">
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyStringSet Name="family">
+              <BoundPropertyStringElement Value="Segoe UI" />
+            </BoundPropertyStringSet>
+            <BoundPropertyBool Name="horizontal" Value="true" />
+            <BoundPropertyStringSet Name="justify">
+              <BoundPropertyStringElement Value="MIDDLE" />
+            </BoundPropertyStringSet>
+            <BoundPropertyFloatSet Name="length" />
+            <BoundPropertyFloat Name="maxExtent" Value="0" />
+            <BoundPropertyFloatSet Name="position">
+              <BoundPropertyFloatElement Value="0" />
+              <BoundPropertyFloatElement Value="0.30232548713684082" />
+              <BoundPropertyFloatElement Value="0.02500000037252903" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyFloat Name="size" Value="0.60000002384185791" />
+            <BoundPropertyStringSet Name="string">
+              <BoundPropertyStringElement Value="Designs" />
+            </BoundPropertyStringSet>
+            <BoundPropertyString Name="style" Value="Plain" />
+            <BoundPropertyFloat Name="transparency" Value="0" />
+          </BoundProperties>
+        </TextEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyFloatSet Name="diffuseColor">
+          <BoundPropertyFloatElement Value="0.75" />
+          <BoundPropertyFloatElement Value="1" />
+          <BoundPropertyFloatElement Value="0" />
+        </BoundPropertyFloatSet>
+        <BoundPropertyFloat Name="transparency" Value="1" />
+      </BoundProperties>
+    </TitleClip>
+    <ImageClip extentID="172" gapBefore="0" mediaItemID="142" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <TitleClip extentID="9" gapBefore="0" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyFloatSet Name="diffuseColor">
+          <BoundPropertyFloatElement Value="0" />
+          <BoundPropertyFloatElement Value="0" />
+          <BoundPropertyFloatElement Value="0" />
+        </BoundPropertyFloatSet>
+        <BoundPropertyFloat Name="transparency" Value="0" />
+      </BoundProperties>
+    </TitleClip>
+    <ImageClip extentID="173" gapBefore="0" mediaItemID="143" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <TitleClip extentID="10" gapBefore="74" duration="2">
+      <Effects>
+        <TextEffect effectTemplateID="TextEffectFadeZoomTemplate" TextScriptId="9">
+          <BoundProperties>
+            <BoundPropertyBool Name="automatic" Value="false" />
+            <BoundPropertyFloatSet Name="color">
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyStringSet Name="family">
+              <BoundPropertyStringElement Value="Segoe UI" />
+            </BoundPropertyStringSet>
+            <BoundPropertyBool Name="horizontal" Value="true" />
+            <BoundPropertyStringSet Name="justify">
+              <BoundPropertyStringElement Value="MIDDLE" />
+            </BoundPropertyStringSet>
+            <BoundPropertyFloatSet Name="length" />
+            <BoundPropertyFloat Name="maxExtent" Value="0" />
+            <BoundPropertyFloatSet Name="position">
+              <BoundPropertyFloatElement Value="0" />
+              <BoundPropertyFloatElement Value="0.30232548713684082" />
+              <BoundPropertyFloatElement Value="0.02500000037252903" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyFloat Name="size" Value="0.60000002384185791" />
+            <BoundPropertyStringSet Name="string">
+              <BoundPropertyStringElement Value="Facilities" />
+            </BoundPropertyStringSet>
+            <BoundPropertyString Name="style" Value="Plain" />
+            <BoundPropertyFloat Name="transparency" Value="0" />
+          </BoundProperties>
+        </TextEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyFloatSet Name="diffuseColor">
+          <BoundPropertyFloatElement Value="0.75" />
+          <BoundPropertyFloatElement Value="1" />
+          <BoundPropertyFloatElement Value="0" />
+        </BoundPropertyFloatSet>
+        <BoundPropertyFloat Name="transparency" Value="1" />
+      </BoundProperties>
+    </TitleClip>
+    <ImageClip extentID="174" gapBefore="0" mediaItemID="144" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <TitleClip extentID="11" gapBefore="0" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyFloatSet Name="diffuseColor">
+          <BoundPropertyFloatElement Value="0" />
+          <BoundPropertyFloatElement Value="0" />
+          <BoundPropertyFloatElement Value="0" />
+        </BoundPropertyFloatSet>
+        <BoundPropertyFloat Name="transparency" Value="0" />
+      </BoundProperties>
+    </TitleClip>
+    <ImageClip extentID="175" gapBefore="0" mediaItemID="145" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <TitleClip extentID="12" gapBefore="40" duration="2">
+      <Effects>
+        <TextEffect effectTemplateID="TextEffectFadeZoomTemplate" TextScriptId="9">
+          <BoundProperties>
+            <BoundPropertyBool Name="automatic" Value="false" />
+            <BoundPropertyFloatSet Name="color">
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyStringSet Name="family">
+              <BoundPropertyStringElement Value="Segoe UI" />
+            </BoundPropertyStringSet>
+            <BoundPropertyBool Name="horizontal" Value="true" />
+            <BoundPropertyStringSet Name="justify">
+              <BoundPropertyStringElement Value="MIDDLE" />
+            </BoundPropertyStringSet>
+            <BoundPropertyFloatSet Name="length" />
+            <BoundPropertyFloat Name="maxExtent" Value="0" />
+            <BoundPropertyFloatSet Name="position">
+              <BoundPropertyFloatElement Value="0" />
+              <BoundPropertyFloatElement Value="0.30232548713684082" />
+              <BoundPropertyFloatElement Value="0.02500000037252903" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyFloat Name="size" Value="0.60000002384185791" />
+            <BoundPropertyStringSet Name="string">
+              <BoundPropertyStringElement Value="Flower Selection" />
+            </BoundPropertyStringSet>
+            <BoundPropertyString Name="style" Value="Plain" />
+            <BoundPropertyFloat Name="transparency" Value="0" />
+          </BoundProperties>
+        </TextEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyFloatSet Name="diffuseColor">
+          <BoundPropertyFloatElement Value="0.75" />
+          <BoundPropertyFloatElement Value="1" />
+          <BoundPropertyFloatElement Value="0" />
+        </BoundPropertyFloatSet>
+        <BoundPropertyFloat Name="transparency" Value="1" />
+      </BoundProperties>
+    </TitleClip>
+    <ImageClip extentID="176" gapBefore="0" mediaItemID="146" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <TitleClip extentID="13" gapBefore="0" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyFloatSet Name="diffuseColor">
+          <BoundPropertyFloatElement Value="0" />
+          <BoundPropertyFloatElement Value="0" />
+          <BoundPropertyFloatElement Value="0" />
+        </BoundPropertyFloatSet>
+        <BoundPropertyFloat Name="transparency" Value="0" />
+      </BoundProperties>
+    </TitleClip>
+    <ImageClip extentID="177" gapBefore="0" mediaItemID="147" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <TitleClip extentID="14" gapBefore="22" duration="2">
+      <Effects>
+        <TextEffect effectTemplateID="TextEffectFadeZoomTemplate" TextScriptId="9">
+          <BoundProperties>
+            <BoundPropertyBool Name="automatic" Value="false" />
+            <BoundPropertyFloatSet Name="color">
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyStringSet Name="family">
+              <BoundPropertyStringElement Value="Segoe UI" />
+            </BoundPropertyStringSet>
+            <BoundPropertyBool Name="horizontal" Value="true" />
+            <BoundPropertyStringSet Name="justify">
+              <BoundPropertyStringElement Value="MIDDLE" />
+            </BoundPropertyStringSet>
+            <BoundPropertyFloatSet Name="length" />
+            <BoundPropertyFloat Name="maxExtent" Value="0" />
+            <BoundPropertyFloatSet Name="position">
+              <BoundPropertyFloatElement Value="0" />
+              <BoundPropertyFloatElement Value="0.30232548713684082" />
+              <BoundPropertyFloatElement Value="0.02500000037252903" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyFloat Name="size" Value="0.60000002384185791" />
+            <BoundPropertyStringSet Name="string">
+              <BoundPropertyStringElement Value="Selected Fruit Trees" />
+            </BoundPropertyStringSet>
+            <BoundPropertyString Name="style" Value="Plain" />
+            <BoundPropertyFloat Name="transparency" Value="0" />
+          </BoundProperties>
+        </TextEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyFloatSet Name="diffuseColor">
+          <BoundPropertyFloatElement Value="0.75" />
+          <BoundPropertyFloatElement Value="1" />
+          <BoundPropertyFloatElement Value="0" />
+        </BoundPropertyFloatSet>
+        <BoundPropertyFloat Name="transparency" Value="1" />
+      </BoundProperties>
+    </TitleClip>
+    <ImageClip extentID="178" gapBefore="0" mediaItemID="148" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <TitleClip extentID="15" gapBefore="0" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyFloatSet Name="diffuseColor">
+          <BoundPropertyFloatElement Value="0" />
+          <BoundPropertyFloatElement Value="0" />
+          <BoundPropertyFloatElement Value="0" />
+        </BoundPropertyFloatSet>
+        <BoundPropertyFloat Name="transparency" Value="0" />
+      </BoundProperties>
+    </TitleClip>
+    <ImageClip extentID="179" gapBefore="0" mediaItemID="149" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <TitleClip extentID="16" gapBefore="64" duration="2">
+      <Effects>
+        <TextEffect effectTemplateID="TextEffectFadeZoomTemplate" TextScriptId="9">
+          <BoundProperties>
+            <BoundPropertyBool Name="automatic" Value="false" />
+            <BoundPropertyFloatSet Name="color">
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyStringSet Name="family">
+              <BoundPropertyStringElement Value="Segoe UI" />
+            </BoundPropertyStringSet>
+            <BoundPropertyBool Name="horizontal" Value="true" />
+            <BoundPropertyStringSet Name="justify">
+              <BoundPropertyStringElement Value="MIDDLE" />
+            </BoundPropertyStringSet>
+            <BoundPropertyFloatSet Name="length" />
+            <BoundPropertyFloat Name="maxExtent" Value="0" />
+            <BoundPropertyFloatSet Name="position">
+              <BoundPropertyFloatElement Value="0" />
+              <BoundPropertyFloatElement Value="0.30232548713684082" />
+              <BoundPropertyFloatElement Value="0.02500000037252903" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyFloat Name="size" Value="0.60000002384185791" />
+            <BoundPropertyStringSet Name="string">
+              <BoundPropertyStringElement Value="Gradens" />
+            </BoundPropertyStringSet>
+            <BoundPropertyString Name="style" Value="Plain" />
+            <BoundPropertyFloat Name="transparency" Value="0" />
+          </BoundProperties>
+        </TextEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyFloatSet Name="diffuseColor">
+          <BoundPropertyFloatElement Value="0.75" />
+          <BoundPropertyFloatElement Value="1" />
+          <BoundPropertyFloatElement Value="0" />
+        </BoundPropertyFloatSet>
+        <BoundPropertyFloat Name="transparency" Value="1" />
+      </BoundProperties>
+    </TitleClip>
+    <ImageClip extentID="180" gapBefore="0" mediaItemID="150" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <TitleClip extentID="17" gapBefore="0" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyFloatSet Name="diffuseColor">
+          <BoundPropertyFloatElement Value="0" />
+          <BoundPropertyFloatElement Value="0" />
+          <BoundPropertyFloatElement Value="0" />
+        </BoundPropertyFloatSet>
+        <BoundPropertyFloat Name="transparency" Value="0" />
+      </BoundProperties>
+    </TitleClip>
+    <ImageClip extentID="181" gapBefore="0" mediaItemID="151" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <TitleClip extentID="18" gapBefore="12" duration="2">
+      <Effects>
+        <TextEffect effectTemplateID="TextEffectFadeZoomTemplate" TextScriptId="9">
+          <BoundProperties>
+            <BoundPropertyBool Name="automatic" Value="false" />
+            <BoundPropertyFloatSet Name="color">
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyStringSet Name="family">
+              <BoundPropertyStringElement Value="Segoe UI" />
+            </BoundPropertyStringSet>
+            <BoundPropertyBool Name="horizontal" Value="true" />
+            <BoundPropertyStringSet Name="justify">
+              <BoundPropertyStringElement Value="MIDDLE" />
+            </BoundPropertyStringSet>
+            <BoundPropertyFloatSet Name="length" />
+            <BoundPropertyFloat Name="maxExtent" Value="0" />
+            <BoundPropertyFloatSet Name="position">
+              <BoundPropertyFloatElement Value="0" />
+              <BoundPropertyFloatElement Value="0.30232548713684082" />
+              <BoundPropertyFloatElement Value="0.02500000037252903" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyFloat Name="size" Value="0.60000002384185791" />
+            <BoundPropertyStringSet Name="string">
+              <BoundPropertyStringElement Value="Landscapes" />
+            </BoundPropertyStringSet>
+            <BoundPropertyString Name="style" Value="Plain" />
+            <BoundPropertyFloat Name="transparency" Value="0" />
+          </BoundProperties>
+        </TextEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyFloatSet Name="diffuseColor">
+          <BoundPropertyFloatElement Value="0.75" />
+          <BoundPropertyFloatElement Value="1" />
+          <BoundPropertyFloatElement Value="0" />
+        </BoundPropertyFloatSet>
+        <BoundPropertyFloat Name="transparency" Value="1" />
+      </BoundProperties>
+    </TitleClip>
+    <ImageClip extentID="182" gapBefore="0" mediaItemID="152" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <TitleClip extentID="19" gapBefore="0" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyFloatSet Name="diffuseColor">
+          <BoundPropertyFloatElement Value="0" />
+          <BoundPropertyFloatElement Value="0" />
+          <BoundPropertyFloatElement Value="0" />
+        </BoundPropertyFloatSet>
+        <BoundPropertyFloat Name="transparency" Value="0" />
+      </BoundProperties>
+    </TitleClip>
+    <ImageClip extentID="183" gapBefore="0" mediaItemID="153" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <TitleClip extentID="20" gapBefore="16" duration="2">
+      <Effects>
+        <TextEffect effectTemplateID="TextEffectFadeZoomTemplate" TextScriptId="9">
+          <BoundProperties>
+            <BoundPropertyBool Name="automatic" Value="false" />
+            <BoundPropertyFloatSet Name="color">
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyStringSet Name="family">
+              <BoundPropertyStringElement Value="Segoe UI" />
+            </BoundPropertyStringSet>
+            <BoundPropertyBool Name="horizontal" Value="true" />
+            <BoundPropertyStringSet Name="justify">
+              <BoundPropertyStringElement Value="MIDDLE" />
+            </BoundPropertyStringSet>
+            <BoundPropertyFloatSet Name="length" />
+            <BoundPropertyFloat Name="maxExtent" Value="0" />
+            <BoundPropertyFloatSet Name="position">
+              <BoundPropertyFloatElement Value="0" />
+              <BoundPropertyFloatElement Value="0.30232548713684082" />
+              <BoundPropertyFloatElement Value="0.02500000037252903" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyFloat Name="size" Value="0.60000002384185791" />
+            <BoundPropertyStringSet Name="string">
+              <BoundPropertyStringElement Value="Play Area" />
+            </BoundPropertyStringSet>
+            <BoundPropertyString Name="style" Value="Plain" />
+            <BoundPropertyFloat Name="transparency" Value="0" />
+          </BoundProperties>
+        </TextEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyFloatSet Name="diffuseColor">
+          <BoundPropertyFloatElement Value="0.75" />
+          <BoundPropertyFloatElement Value="1" />
+          <BoundPropertyFloatElement Value="0" />
+        </BoundPropertyFloatSet>
+        <BoundPropertyFloat Name="transparency" Value="1" />
+      </BoundProperties>
+    </TitleClip>
+    <ImageClip extentID="184" gapBefore="0" mediaItemID="154" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <TitleClip extentID="21" gapBefore="0" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyFloatSet Name="diffuseColor">
+          <BoundPropertyFloatElement Value="0" />
+          <BoundPropertyFloatElement Value="0" />
+          <BoundPropertyFloatElement Value="0" />
+        </BoundPropertyFloatSet>
+        <BoundPropertyFloat Name="transparency" Value="0" />
+      </BoundProperties>
+    </TitleClip>
+    <ImageClip extentID="185" gapBefore="0" mediaItemID="155" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <TitleClip extentID="22" gapBefore="4" duration="2">
+      <Effects>
+        <TextEffect effectTemplateID="TextEffectFadeZoomTemplate" TextScriptId="9">
+          <BoundProperties>
+            <BoundPropertyBool Name="automatic" Value="false" />
+            <BoundPropertyFloatSet Name="color">
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyStringSet Name="family">
+              <BoundPropertyStringElement Value="Segoe UI" />
+            </BoundPropertyStringSet>
+            <BoundPropertyBool Name="horizontal" Value="true" />
+            <BoundPropertyStringSet Name="justify">
+              <BoundPropertyStringElement Value="MIDDLE" />
+            </BoundPropertyStringSet>
+            <BoundPropertyFloatSet Name="length" />
+            <BoundPropertyFloat Name="maxExtent" Value="0" />
+            <BoundPropertyFloatSet Name="position">
+              <BoundPropertyFloatElement Value="0" />
+              <BoundPropertyFloatElement Value="0.30232548713684082" />
+              <BoundPropertyFloatElement Value="0.02500000037252903" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyFloat Name="size" Value="0.60000002384185791" />
+            <BoundPropertyStringSet Name="string">
+              <BoundPropertyStringElement Value="School" />
+            </BoundPropertyStringSet>
+            <BoundPropertyString Name="style" Value="Plain" />
+            <BoundPropertyFloat Name="transparency" Value="0" />
+          </BoundProperties>
+        </TextEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyFloatSet Name="diffuseColor">
+          <BoundPropertyFloatElement Value="0.75" />
+          <BoundPropertyFloatElement Value="1" />
+          <BoundPropertyFloatElement Value="0" />
+        </BoundPropertyFloatSet>
+        <BoundPropertyFloat Name="transparency" Value="1" />
+      </BoundProperties>
+    </TitleClip>
+    <ImageClip extentID="186" gapBefore="0" mediaItemID="156" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <TitleClip extentID="23" gapBefore="0" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyFloatSet Name="diffuseColor">
+          <BoundPropertyFloatElement Value="0" />
+          <BoundPropertyFloatElement Value="0" />
+          <BoundPropertyFloatElement Value="0" />
+        </BoundPropertyFloatSet>
+        <BoundPropertyFloat Name="transparency" Value="0" />
+      </BoundProperties>
+    </TitleClip>
+    <ImageClip extentID="187" gapBefore="0" mediaItemID="157" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <TitleClip extentID="24" gapBefore="0" duration="2">
+      <Effects>
+        <TextEffect effectTemplateID="TextEffectFadeZoomTemplate" TextScriptId="9">
+          <BoundProperties>
+            <BoundPropertyBool Name="automatic" Value="false" />
+            <BoundPropertyFloatSet Name="color">
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyStringSet Name="family">
+              <BoundPropertyStringElement Value="Segoe UI" />
+            </BoundPropertyStringSet>
+            <BoundPropertyBool Name="horizontal" Value="true" />
+            <BoundPropertyStringSet Name="justify">
+              <BoundPropertyStringElement Value="MIDDLE" />
+            </BoundPropertyStringSet>
+            <BoundPropertyFloatSet Name="length" />
+            <BoundPropertyFloat Name="maxExtent" Value="0" />
+            <BoundPropertyFloatSet Name="position">
+              <BoundPropertyFloatElement Value="0" />
+              <BoundPropertyFloatElement Value="0.30232548713684082" />
+              <BoundPropertyFloatElement Value="0.02500000037252903" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyFloat Name="size" Value="0.60000002384185791" />
+            <BoundPropertyStringSet Name="string">
+              <BoundPropertyStringElement Value="Sketches" />
+            </BoundPropertyStringSet>
+            <BoundPropertyString Name="style" Value="Plain" />
+            <BoundPropertyFloat Name="transparency" Value="0" />
+          </BoundProperties>
+        </TextEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyFloatSet Name="diffuseColor">
+          <BoundPropertyFloatElement Value="0.75" />
+          <BoundPropertyFloatElement Value="1" />
+          <BoundPropertyFloatElement Value="0" />
+        </BoundPropertyFloatSet>
+        <BoundPropertyFloat Name="transparency" Value="1" />
+      </BoundProperties>
+    </TitleClip>
+    <ImageClip extentID="188" gapBefore="0" mediaItemID="158" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <TitleClip extentID="25" gapBefore="0" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyFloatSet Name="diffuseColor">
+          <BoundPropertyFloatElement Value="0" />
+          <BoundPropertyFloatElement Value="0" />
+          <BoundPropertyFloatElement Value="0" />
+        </BoundPropertyFloatSet>
+        <BoundPropertyFloat Name="transparency" Value="0" />
+      </BoundProperties>
+    </TitleClip>
+    <ImageClip extentID="189" gapBefore="0" mediaItemID="159" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <TitleClip extentID="26" gapBefore="78" duration="2">
+      <Effects>
+        <TextEffect effectTemplateID="TextEffectFadeZoomTemplate" TextScriptId="9">
+          <BoundProperties>
+            <BoundPropertyBool Name="automatic" Value="false" />
+            <BoundPropertyFloatSet Name="color">
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyStringSet Name="family">
+              <BoundPropertyStringElement Value="Segoe UI" />
+            </BoundPropertyStringSet>
+            <BoundPropertyBool Name="horizontal" Value="true" />
+            <BoundPropertyStringSet Name="justify">
+              <BoundPropertyStringElement Value="MIDDLE" />
+            </BoundPropertyStringSet>
+            <BoundPropertyFloatSet Name="length" />
+            <BoundPropertyFloat Name="maxExtent" Value="0" />
+            <BoundPropertyFloatSet Name="position">
+              <BoundPropertyFloatElement Value="0" />
+              <BoundPropertyFloatElement Value="0.30232548713684082" />
+              <BoundPropertyFloatElement Value="0.02500000037252903" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyFloat Name="size" Value="0.60000002384185791" />
+            <BoundPropertyStringSet Name="string">
+              <BoundPropertyStringElement Value="Trees &amp; Plants" />
+            </BoundPropertyStringSet>
+            <BoundPropertyString Name="style" Value="Plain" />
+            <BoundPropertyFloat Name="transparency" Value="0" />
+          </BoundProperties>
+        </TextEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyFloatSet Name="diffuseColor">
+          <BoundPropertyFloatElement Value="0.75" />
+          <BoundPropertyFloatElement Value="1" />
+          <BoundPropertyFloatElement Value="0" />
+        </BoundPropertyFloatSet>
+        <BoundPropertyFloat Name="transparency" Value="1" />
+      </BoundProperties>
+    </TitleClip>
+    <ImageClip extentID="190" gapBefore="0" mediaItemID="160" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <TitleClip extentID="27" gapBefore="0" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyFloatSet Name="diffuseColor">
+          <BoundPropertyFloatElement Value="0" />
+          <BoundPropertyFloatElement Value="0" />
+          <BoundPropertyFloatElement Value="0" />
+        </BoundPropertyFloatSet>
+        <BoundPropertyFloat Name="transparency" Value="0" />
+      </BoundProperties>
+    </TitleClip>
+    <ImageClip extentID="191" gapBefore="0" mediaItemID="161" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <TitleClip extentID="28" gapBefore="8" duration="2">
+      <Effects>
+        <TextEffect effectTemplateID="TextEffectFadeZoomTemplate" TextScriptId="9">
+          <BoundProperties>
+            <BoundPropertyBool Name="automatic" Value="false" />
+            <BoundPropertyFloatSet Name="color">
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyStringSet Name="family">
+              <BoundPropertyStringElement Value="Segoe UI" />
+            </BoundPropertyStringSet>
+            <BoundPropertyBool Name="horizontal" Value="true" />
+            <BoundPropertyStringSet Name="justify">
+              <BoundPropertyStringElement Value="MIDDLE" />
+            </BoundPropertyStringSet>
+            <BoundPropertyFloatSet Name="length" />
+            <BoundPropertyFloat Name="maxExtent" Value="0" />
+            <BoundPropertyFloatSet Name="position">
+              <BoundPropertyFloatElement Value="0.093158721923828125" />
+              <BoundPropertyFloatElement Value="2.2325582504272461" />
+              <BoundPropertyFloatElement Value="0.02500000037252903" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyFloat Name="size" Value="0.60000002384185791" />
+            <BoundPropertyStringSet Name="string">
+              <BoundPropertyStringElement Value="Thanks you much for watching this " />
+              <BoundPropertyStringElement Value="colourful ful of energy and dreams " />
+              <BoundPropertyStringElement Value="movie" />
+              <BoundPropertyStringElement Value="" />
+              <BoundPropertyStringElement Value="This is our Project Case study" />
+            </BoundPropertyStringSet>
+            <BoundPropertyString Name="style" Value="Bold" />
+            <BoundPropertyFloat Name="transparency" Value="0" />
+          </BoundProperties>
+        </TextEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyFloatSet Name="diffuseColor">
+          <BoundPropertyFloatElement Value="0.75" />
+          <BoundPropertyFloatElement Value="1" />
+          <BoundPropertyFloatElement Value="0" />
+        </BoundPropertyFloatSet>
+        <BoundPropertyFloat Name="transparency" Value="1" />
+      </BoundProperties>
+    </TitleClip>
+    <ImageClip extentID="192" gapBefore="0" mediaItemID="162" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <TitleClip extentID="29" gapBefore="0" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyFloatSet Name="diffuseColor">
+          <BoundPropertyFloatElement Value="0" />
+          <BoundPropertyFloatElement Value="0" />
+          <BoundPropertyFloatElement Value="0" />
+        </BoundPropertyFloatSet>
+        <BoundPropertyFloat Name="transparency" Value="0" />
+      </BoundProperties>
+    </TitleClip>
+    <ImageClip extentID="193" gapBefore="0" mediaItemID="163" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <TitleClip extentID="30" gapBefore="0" duration="2">
+      <Effects>
+        <TextEffect effectTemplateID="TextEffectFadeZoomTemplate" TextScriptId="9">
+          <BoundProperties>
+            <BoundPropertyBool Name="automatic" Value="false" />
+            <BoundPropertyFloatSet Name="color">
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyStringSet Name="family">
+              <BoundPropertyStringElement Value="Segoe UI" />
+            </BoundPropertyStringSet>
+            <BoundPropertyBool Name="horizontal" Value="true" />
+            <BoundPropertyStringSet Name="justify">
+              <BoundPropertyStringElement Value="MIDDLE" />
+            </BoundPropertyStringSet>
+            <BoundPropertyFloatSet Name="length" />
+            <BoundPropertyFloat Name="maxExtent" Value="0" />
+            <BoundPropertyFloatSet Name="position">
+              <BoundPropertyFloatElement Value="0" />
+              <BoundPropertyFloatElement Value="0.30232548713684082" />
+              <BoundPropertyFloatElement Value="0.02500000037252903" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyFloat Name="size" Value="0.60000002384185791" />
+            <BoundPropertyStringSet Name="string">
+              <BoundPropertyStringElement Value="Self Sustaining Gurukul" />
+            </BoundPropertyStringSet>
+            <BoundPropertyString Name="style" Value="Plain" />
+            <BoundPropertyFloat Name="transparency" Value="0" />
+          </BoundProperties>
+        </TextEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyFloatSet Name="diffuseColor">
+          <BoundPropertyFloatElement Value="0.75" />
+          <BoundPropertyFloatElement Value="1" />
+          <BoundPropertyFloatElement Value="0" />
+        </BoundPropertyFloatSet>
+        <BoundPropertyFloat Name="transparency" Value="1" />
+      </BoundProperties>
+    </TitleClip>
+    <ImageClip extentID="194" gapBefore="0" mediaItemID="164" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="31" gapBefore="0" mediaItemID="1" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="195" gapBefore="0" mediaItemID="165" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="32" gapBefore="0" mediaItemID="2" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="196" gapBefore="0" mediaItemID="166" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="33" gapBefore="0" mediaItemID="3" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="197" gapBefore="0" mediaItemID="167" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="34" gapBefore="0" mediaItemID="4" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="198" gapBefore="0" mediaItemID="168" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="35" gapBefore="0" mediaItemID="5" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="199" gapBefore="0" mediaItemID="169" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="36" gapBefore="0" mediaItemID="6" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="200" gapBefore="0" mediaItemID="170" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="37" gapBefore="0" mediaItemID="7" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="201" gapBefore="0" mediaItemID="171" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="38" gapBefore="0" mediaItemID="8" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="202" gapBefore="0" mediaItemID="172" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="39" gapBefore="0" mediaItemID="9" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="203" gapBefore="0" mediaItemID="173" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="40" gapBefore="0" mediaItemID="10" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="204" gapBefore="0" mediaItemID="174" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="41" gapBefore="0" mediaItemID="11" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="205" gapBefore="0" mediaItemID="175" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="42" gapBefore="0" mediaItemID="12" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="206" gapBefore="0" mediaItemID="176" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="43" gapBefore="0" mediaItemID="13" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <TitleClip extentID="207" gapBefore="12" duration="2">
+      <Effects>
+        <TextEffect effectTemplateID="TextEffectTemplate" TextScriptId="0">
+          <BoundProperties>
+            <BoundPropertyBool Name="automatic" Value="false" />
+            <BoundPropertyFloatSet Name="color">
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+              <BoundPropertyFloatElement Value="1" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyStringSet Name="family">
+              <BoundPropertyStringElement Value="Segoe UI" />
+            </BoundPropertyStringSet>
+            <BoundPropertyBool Name="horizontal" Value="true" />
+            <BoundPropertyStringSet Name="justify">
+              <BoundPropertyStringElement Value="MIDDLE" />
+            </BoundPropertyStringSet>
+            <BoundPropertyFloatSet Name="length">
+              <BoundPropertyFloatElement Value="4.0999999046325684" />
+              <BoundPropertyFloatElement Value="5.1999998092651367" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyFloat Name="maxExtent" Value="5" />
+            <BoundPropertyFloatSet Name="position">
+              <BoundPropertyFloatElement Value="0" />
+              <BoundPropertyFloatElement Value="-1.7906975746154785" />
+              <BoundPropertyFloatElement Value="0.02500000037252903" />
+            </BoundPropertyFloatSet>
+            <BoundPropertyFloat Name="size" Value="0.40000000596046448" />
+            <BoundPropertyStringSet Name="string">
+              <BoundPropertyStringElement Value="-" />
+            </BoundPropertyStringSet>
+            <BoundPropertyString Name="style" Value="Plain" />
+            <BoundPropertyFloat Name="transparency" Value="0" />
+          </BoundProperties>
+        </TextEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyFloatSet Name="diffuseColor">
+          <BoundPropertyFloatElement Value="0.75" />
+          <BoundPropertyFloatElement Value="1" />
+          <BoundPropertyFloatElement Value="0" />
+        </BoundPropertyFloatSet>
+        <BoundPropertyFloat Name="transparency" Value="1" />
+      </BoundProperties>
+    </TitleClip>
+    <ImageClip extentID="44" gapBefore="0" mediaItemID="14" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="45" gapBefore="0" mediaItemID="15" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="46" gapBefore="0" mediaItemID="16" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="47" gapBefore="0" mediaItemID="17" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="48" gapBefore="0" mediaItemID="18" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="49" gapBefore="0" mediaItemID="19" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="50" gapBefore="0" mediaItemID="20" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="51" gapBefore="0" mediaItemID="21" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="52" gapBefore="0" mediaItemID="22" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="53" gapBefore="0" mediaItemID="23" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="54" gapBefore="0" mediaItemID="24" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="55" gapBefore="0" mediaItemID="25" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="56" gapBefore="0" mediaItemID="26" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="57" gapBefore="0" mediaItemID="27" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="58" gapBefore="0" mediaItemID="28" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="59" gapBefore="0" mediaItemID="29" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="60" gapBefore="0" mediaItemID="30" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="61" gapBefore="0" mediaItemID="31" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="62" gapBefore="0" mediaItemID="32" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="63" gapBefore="0" mediaItemID="33" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="64" gapBefore="0" mediaItemID="34" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="65" gapBefore="0" mediaItemID="35" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="66" gapBefore="0" mediaItemID="36" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="67" gapBefore="0" mediaItemID="37" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="68" gapBefore="0" mediaItemID="38" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="69" gapBefore="0" mediaItemID="39" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="70" gapBefore="0" mediaItemID="40" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="71" gapBefore="0" mediaItemID="41" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="72" gapBefore="0" mediaItemID="42" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="73" gapBefore="0" mediaItemID="43" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="74" gapBefore="0" mediaItemID="44" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="75" gapBefore="0" mediaItemID="45" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="76" gapBefore="0" mediaItemID="46" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="77" gapBefore="0" mediaItemID="47" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="78" gapBefore="0" mediaItemID="48" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="79" gapBefore="0" mediaItemID="49" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="80" gapBefore="0" mediaItemID="50" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="81" gapBefore="0" mediaItemID="51" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="82" gapBefore="0" mediaItemID="52" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="83" gapBefore="0" mediaItemID="53" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="84" gapBefore="0" mediaItemID="54" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="85" gapBefore="0" mediaItemID="55" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="86" gapBefore="0" mediaItemID="56" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="87" gapBefore="0" mediaItemID="57" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="88" gapBefore="0" mediaItemID="58" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="89" gapBefore="0" mediaItemID="59" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="90" gapBefore="0" mediaItemID="60" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="91" gapBefore="0" mediaItemID="61" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="92" gapBefore="0" mediaItemID="62" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="93" gapBefore="0" mediaItemID="63" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="94" gapBefore="0" mediaItemID="64" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="95" gapBefore="0" mediaItemID="65" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="96" gapBefore="0" mediaItemID="66" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="97" gapBefore="0" mediaItemID="67" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="98" gapBefore="0" mediaItemID="68" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="99" gapBefore="0" mediaItemID="69" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="100" gapBefore="0" mediaItemID="70" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="101" gapBefore="0" mediaItemID="71" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="102" gapBefore="0" mediaItemID="72" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="103" gapBefore="0" mediaItemID="73" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="104" gapBefore="0" mediaItemID="74" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="105" gapBefore="0" mediaItemID="75" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="106" gapBefore="0" mediaItemID="76" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="107" gapBefore="0" mediaItemID="77" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="108" gapBefore="0" mediaItemID="78" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="109" gapBefore="0" mediaItemID="79" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="110" gapBefore="0" mediaItemID="80" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="111" gapBefore="0" mediaItemID="81" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="112" gapBefore="0" mediaItemID="82" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="113" gapBefore="0" mediaItemID="83" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="114" gapBefore="0" mediaItemID="84" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="115" gapBefore="0" mediaItemID="85" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="116" gapBefore="0" mediaItemID="86" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="117" gapBefore="0" mediaItemID="87" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="118" gapBefore="0" mediaItemID="88" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="119" gapBefore="0" mediaItemID="89" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="120" gapBefore="0" mediaItemID="90" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="121" gapBefore="0" mediaItemID="91" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="122" gapBefore="0" mediaItemID="92" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="123" gapBefore="0" mediaItemID="93" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="124" gapBefore="0" mediaItemID="94" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="125" gapBefore="0" mediaItemID="95" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="126" gapBefore="0" mediaItemID="96" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="127" gapBefore="0" mediaItemID="97" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="128" gapBefore="0" mediaItemID="98" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="129" gapBefore="0" mediaItemID="99" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="130" gapBefore="0" mediaItemID="100" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="131" gapBefore="0" mediaItemID="101" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="132" gapBefore="0" mediaItemID="102" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="133" gapBefore="0" mediaItemID="103" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="134" gapBefore="0" mediaItemID="104" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="135" gapBefore="0" mediaItemID="105" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="136" gapBefore="0" mediaItemID="106" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="137" gapBefore="0" mediaItemID="107" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="138" gapBefore="0" mediaItemID="108" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="139" gapBefore="0" mediaItemID="109" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="140" gapBefore="0" mediaItemID="110" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="141" gapBefore="0" mediaItemID="111" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="142" gapBefore="0" mediaItemID="112" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="143" gapBefore="0" mediaItemID="113" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="144" gapBefore="0" mediaItemID="114" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="145" gapBefore="0" mediaItemID="115" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="146" gapBefore="0" mediaItemID="116" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="147" gapBefore="0" mediaItemID="117" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="148" gapBefore="0" mediaItemID="118" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="149" gapBefore="0" mediaItemID="119" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="150" gapBefore="0" mediaItemID="120" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="151" gapBefore="0" mediaItemID="121" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="152" gapBefore="0" mediaItemID="122" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="153" gapBefore="0" mediaItemID="123" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="154" gapBefore="0" mediaItemID="124" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="155" gapBefore="0" mediaItemID="125" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="156" gapBefore="0" mediaItemID="126" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="157" gapBefore="0" mediaItemID="127" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="158" gapBefore="0" mediaItemID="128" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="159" gapBefore="0" mediaItemID="129" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="160" gapBefore="0" mediaItemID="130" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="161" gapBefore="0" mediaItemID="131" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="162" gapBefore="0" mediaItemID="132" duration="2">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ExtentSelector extentID="1" gapBefore="0" primaryTrack="true">
+      <Effects />
+      <Transitions />
+      <BoundProperties />
+      <ExtentRefs>
+        <ExtentRef id="29" />
+        <ExtentRef id="23" />
+        <ExtentRef id="31" />
+        <ExtentRef id="32" />
+        <ExtentRef id="21" />
+        <ExtentRef id="33" />
+        <ExtentRef id="34" />
+        <ExtentRef id="35" />
+        <ExtentRef id="36" />
+        <ExtentRef id="37" />
+        <ExtentRef id="38" />
+        <ExtentRef id="39" />
+        <ExtentRef id="40" />
+        <ExtentRef id="41" />
+        <ExtentRef id="42" />
+        <ExtentRef id="7" />
+        <ExtentRef id="43" />
+        <ExtentRef id="44" />
+        <ExtentRef id="45" />
+        <ExtentRef id="46" />
+        <ExtentRef id="47" />
+        <ExtentRef id="48" />
+        <ExtentRef id="49" />
+        <ExtentRef id="50" />
+        <ExtentRef id="19" />
+        <ExtentRef id="51" />
+        <ExtentRef id="52" />
+        <ExtentRef id="53" />
+        <ExtentRef id="54" />
+        <ExtentRef id="55" />
+        <ExtentRef id="56" />
+        <ExtentRef id="17" />
+        <ExtentRef id="57" />
+        <ExtentRef id="58" />
+        <ExtentRef id="59" />
+        <ExtentRef id="60" />
+        <ExtentRef id="61" />
+        <ExtentRef id="62" />
+        <ExtentRef id="63" />
+        <ExtentRef id="64" />
+        <ExtentRef id="65" />
+        <ExtentRef id="66" />
+        <ExtentRef id="67" />
+        <ExtentRef id="68" />
+        <ExtentRef id="69" />
+        <ExtentRef id="70" />
+        <ExtentRef id="71" />
+        <ExtentRef id="72" />
+        <ExtentRef id="73" />
+        <ExtentRef id="74" />
+        <ExtentRef id="75" />
+        <ExtentRef id="76" />
+        <ExtentRef id="77" />
+        <ExtentRef id="78" />
+        <ExtentRef id="79" />
+        <ExtentRef id="80" />
+        <ExtentRef id="81" />
+        <ExtentRef id="82" />
+        <ExtentRef id="83" />
+        <ExtentRef id="84" />
+        <ExtentRef id="85" />
+        <ExtentRef id="86" />
+        <ExtentRef id="87" />
+        <ExtentRef id="88" />
+        <ExtentRef id="89" />
+        <ExtentRef id="90" />
+        <ExtentRef id="91" />
+        <ExtentRef id="92" />
+        <ExtentRef id="93" />
+        <ExtentRef id="9" />
+        <ExtentRef id="94" />
+        <ExtentRef id="95" />
+        <ExtentRef id="96" />
+        <ExtentRef id="97" />
+        <ExtentRef id="98" />
+        <ExtentRef id="99" />
+        <ExtentRef id="100" />
+        <ExtentRef id="101" />
+        <ExtentRef id="102" />
+        <ExtentRef id="103" />
+        <ExtentRef id="104" />
+        <ExtentRef id="13" />
+        <ExtentRef id="105" />
+        <ExtentRef id="106" />
+        <ExtentRef id="107" />
+        <ExtentRef id="108" />
+        <ExtentRef id="109" />
+        <ExtentRef id="110" />
+        <ExtentRef id="111" />
+        <ExtentRef id="112" />
+        <ExtentRef id="113" />
+        <ExtentRef id="114" />
+        <ExtentRef id="115" />
+        <ExtentRef id="116" />
+        <ExtentRef id="117" />
+        <ExtentRef id="118" />
+        <ExtentRef id="119" />
+        <ExtentRef id="120" />
+        <ExtentRef id="121" />
+        <ExtentRef id="122" />
+        <ExtentRef id="123" />
+        <ExtentRef id="124" />
+        <ExtentRef id="11" />
+        <ExtentRef id="125" />
+        <ExtentRef id="126" />
+        <ExtentRef id="127" />
+        <ExtentRef id="128" />
+        <ExtentRef id="129" />
+        <ExtentRef id="130" />
+        <ExtentRef id="131" />
+        <ExtentRef id="132" />
+        <ExtentRef id="133" />
+        <ExtentRef id="134" />
+        <ExtentRef id="135" />
+        <ExtentRef id="136" />
+        <ExtentRef id="137" />
+        <ExtentRef id="138" />
+        <ExtentRef id="139" />
+        <ExtentRef id="140" />
+        <ExtentRef id="141" />
+        <ExtentRef id="142" />
+        <ExtentRef id="143" />
+        <ExtentRef id="144" />
+        <ExtentRef id="145" />
+        <ExtentRef id="146" />
+        <ExtentRef id="147" />
+        <ExtentRef id="148" />
+        <ExtentRef id="149" />
+        <ExtentRef id="150" />
+        <ExtentRef id="151" />
+        <ExtentRef id="152" />
+        <ExtentRef id="153" />
+        <ExtentRef id="154" />
+        <ExtentRef id="155" />
+        <ExtentRef id="156" />
+        <ExtentRef id="157" />
+        <ExtentRef id="158" />
+        <ExtentRef id="159" />
+        <ExtentRef id="160" />
+        <ExtentRef id="161" />
+        <ExtentRef id="162" />
+        <ExtentRef id="163" />
+        <ExtentRef id="25" />
+        <ExtentRef id="164" />
+        <ExtentRef id="165" />
+        <ExtentRef id="166" />
+        <ExtentRef id="167" />
+        <ExtentRef id="168" />
+        <ExtentRef id="169" />
+        <ExtentRef id="170" />
+        <ExtentRef id="171" />
+        <ExtentRef id="172" />
+        <ExtentRef id="173" />
+        <ExtentRef id="174" />
+        <ExtentRef id="175" />
+        <ExtentRef id="176" />
+        <ExtentRef id="177" />
+        <ExtentRef id="178" />
+        <ExtentRef id="179" />
+        <ExtentRef id="180" />
+        <ExtentRef id="181" />
+        <ExtentRef id="182" />
+        <ExtentRef id="183" />
+        <ExtentRef id="184" />
+        <ExtentRef id="185" />
+        <ExtentRef id="186" />
+        <ExtentRef id="187" />
+        <ExtentRef id="188" />
+        <ExtentRef id="189" />
+        <ExtentRef id="190" />
+        <ExtentRef id="191" />
+        <ExtentRef id="192" />
+        <ExtentRef id="193" />
+        <ExtentRef id="194" />
+        <ExtentRef id="195" />
+        <ExtentRef id="15" />
+        <ExtentRef id="196" />
+        <ExtentRef id="197" />
+        <ExtentRef id="198" />
+        <ExtentRef id="199" />
+        <ExtentRef id="200" />
+        <ExtentRef id="201" />
+        <ExtentRef id="202" />
+        <ExtentRef id="203" />
+        <ExtentRef id="204" />
+        <ExtentRef id="205" />
+        <ExtentRef id="206" />
+        <ExtentRef id="27" />
+      </ExtentRefs>
+    </ExtentSelector>
+    <ExtentSelector extentID="2" gapBefore="0" primaryTrack="false">
+      <Effects />
+      <Transitions />
+      <BoundProperties />
+      <ExtentRefs />
+    </ExtentSelector>
+    <ExtentSelector extentID="3" gapBefore="0" primaryTrack="false">
+      <Effects />
+      <Transitions />
+      <BoundProperties />
+      <ExtentRefs />
+    </ExtentSelector>
+    <ExtentSelector extentID="4" gapBefore="0" primaryTrack="false">
+      <Effects />
+      <Transitions />
+      <BoundProperties />
+      <ExtentRefs>
+        <ExtentRef id="30" />
+        <ExtentRef id="24" />
+        <ExtentRef id="22" />
+        <ExtentRef id="8" />
+        <ExtentRef id="20" />
+        <ExtentRef id="18" />
+        <ExtentRef id="10" />
+        <ExtentRef id="14" />
+        <ExtentRef id="12" />
+        <ExtentRef id="26" />
+        <ExtentRef id="16" />
+        <ExtentRef id="207" />
+        <ExtentRef id="28" />
+      </ExtentRefs>
+    </ExtentSelector>
+  </Extents>
+  <BoundPlaceholders>
+    <BoundPlaceholder placeholderID="SingleExtentView" extentID="0" />
+    <BoundPlaceholder placeholderID="Main" extentID="1" />
+    <BoundPlaceholder placeholderID="SoundTrack" extentID="2" />
+    <BoundPlaceholder placeholderID="Text" extentID="4" />
+    <BoundPlaceholder placeholderID="Narration" extentID="3" />
+  </BoundPlaceholders>
+  <BoundProperties>
+    <BoundPropertyFloatSet Name="AspectRatio">
+      <BoundPropertyFloatElement Value="1.7777776718139648" />
+    </BoundPropertyFloatSet>
+    <BoundPropertyFloat Name="SoundTrackMix" Value="0.5" />
+  </BoundProperties>
+  <ThemeOperationLog themeID="0">
+    <MonolithicThemeOperations />
+  </ThemeOperationLog>
+</Project>
